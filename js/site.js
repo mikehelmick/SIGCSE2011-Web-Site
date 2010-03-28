@@ -6,8 +6,8 @@ function write_email( first, second ) {
 
 function remove_frames()
 {
-  var thisPage = "http://www.sigcse.org" + self.location.pathname;
-  var thisLocal = "http://localhost" + self.location.pathname;
+  var thisPage = "http://www.sigcse.org" + self.location.pathname + self.location.search;
+  var thisLocal = "http://localhost" + self.location.pathname + self.location.search;
   if (top.location != thisPage && top.location != thisLocal ) {
     top.location = thisPage;
   }

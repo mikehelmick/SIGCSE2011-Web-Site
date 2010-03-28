@@ -7,7 +7,7 @@
 	<title><?php echo $title ?></title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <meta name="verify-v1" content="Fjvtxi1QmugCWGbkfaSVhqBM/G+1nZp+ittUAhOzOaE=" />
+    <meta name="google-site-verification" content="DyK55ZZUCG5OEtmtFwEAvttufQiH92x17UQsiZyrU_w" />
     
     <script src="/sigcse2011/js/site.js" type="text/javascript"></script>
     <script type="text/javascript" src="/sigcse2011/js/prototype.js"></script>
@@ -18,7 +18,7 @@
 
 	<style type="text/css">
 		body {
-	    	background: url("/sigcse2011/images/cascade_bg.jpg") repeat-x top center #3F637C;
+	    	background: #222222;
 	    }
 		
     #flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}

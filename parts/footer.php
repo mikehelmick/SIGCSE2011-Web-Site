@@ -1,4 +1,9 @@
 
+<h2>Site Search</h2>
+
+<?php include("google.php"); ?>
+
+
 		</div>
 	</div>
   </div>
@@ -61,9 +66,7 @@ new TWTR.Widget({
               <li><a href="http://www.facebook.com/group.php?gid=373261951323"><img src="/sigcse2011/images/facebook.png" alt="facebook" align="middle" /> Join us on Facebook</a></li>
              </ul>
              <br/>
-             
-             <?php include("flickr.php"); ?>
-             
+            
           </td>
           
 	      <td align="left" width="33%" valign="top" class="footerCell">
