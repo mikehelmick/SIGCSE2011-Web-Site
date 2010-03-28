@@ -35,8 +35,9 @@ div#headercontainer {
 	margin: 0 auto;
 	padding: 0 15px 0 0;	
 	border-bottom: 2px solid #666666;
-	background: #000000;
+	background: url(/sigcse2011/logo/dallas.jpg) no-repeat top center #000000;
 	display: block;
+	height: 250px;
 }
 
 div#headercontainer a {
@@ -45,8 +46,9 @@ div#headercontainer a {
 
 div#headertitle {
 	float: left;
-	width: 66%;
-	margin-top: 18px;
+	width: 50%;
+	margin-top: 5px;
+	margin-left: 25px;
 }
 
 div#headertitle h1 {
@@ -60,22 +62,29 @@ div#headertitle h4 {
 }
 
 div#headerright {
-	margin-left: 60%;
+	margin-left: 50%;
 	padding-top: 15px;
+	padding-right: 15px;
 }
 
 
 div#userinfo {
   padding: 10px;
   margin-bottom: 10px;
-  background: #4D6D84;
+  /* background: #FF0017; /* #4D6D84; */
   color: #ffffff;
+  /* filter:alpha(opacity=60);
+	-moz-opacity:0.6;
+	-khtml-opacity: 0.6;
+	opacity: 0.6;
+	*/
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   border-radius: 5px;
-  height: 64px;
+  height: 100px;
   display: block;
-  min-width: 275px;
+  min-width: 375px;
+  font-size: 14px;
 }
 
 div#userinfo .loginInfo {
@@ -117,7 +126,7 @@ div#signout {
 }
 
 div#navigation {
-	background: #dddddd;
+	background: #FFFFFF; 
 	width: 100%;
 	border-bottom: 2px solid #666666;
 	color: #000000;
@@ -141,7 +150,7 @@ div#navigation li {
 
 div#navigation ul li a#current {
 	color: #ffffff;
-	background-color: #3F637C;
+	background-color: #273A8B;
 	padding: 6px 6px 6px 6px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
@@ -150,13 +159,13 @@ div#navigation ul li a#current {
 }
 
 div#navigation ul li a#current:hover {
-	background-color: #537186;	
+	background-color: #273A8B;	
 }
 
 div#navigation ul li a {
 	text-decoration: none;
 	color: #000000;
-	background-color: #dddddd;
+	background-color: #FFFFFF;
 	padding: 6px 6px 6px 6px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
@@ -167,19 +176,21 @@ div#navigation ul li a {
 div#navigation ul li a:hover {
 	text-decoration: none;
 	color: #ffffff;
-	background-color: #537186;
+	background-color: #FF0017;
 }
 
 div#content {
-  margin: 5px 15px 15px 15px;
-  padding: 15px 15px 15px 15px;
-  background: #eeeeee;
+  margin: 5px 15px 15px 20px;
+  padding: 15px 15px 15px 20px;
+  background: #FFFFFF;
   color: #000000;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   border-radius: 5px;
   border: 1px solid #000000;
-  width: 70%;
+  border-bottom: 2px solid #0000FF;
+  border-right: 2px solid #0000FF;
+  width: 68%;
   float: left; 
   overflow: auto;
 }
@@ -201,6 +212,8 @@ div#right .rightbox {
   -webkit-border-radius: 5px;
   border-radius: 5px;
   border: 1px solid #000000;
+  border-bottom: 2px solid #FF0000;
+  border-right: 2px solid #FF0000;
   display: block;
   margin: 0 0 15px 0;
   padding: 5px 5px 5px 5px;
@@ -236,27 +249,29 @@ div#right .rightbox {
 }
 
 #footer {
+  margin-top: 50px;
+  clear: both;
+  padding: 25px 1.5em 1.5em;
+  border-top: 5px solid #000000;
+  color: #000000;
+  background-color: #DDDDDD;
+  font: normal 11px/1.5em "Helvetica Neue", "Lucida Grande", "Helvetica Neue", Arial, sans-serif;
+  overflow: hidden;
+
+/*
 	width: 100%;
 	margin-bottom: 15px;
 	padding-bottom: 15px;
+	*/
 }
 
 #footerContent {
 	color: #000000;
 	display: block;
 	
-	padding-top: 25px;
-	
-  	background: #bbbbbb;
-  	-moz-border-radius: 5px;
-  	-webkit-border-radius: 5px;
-  	border-radius: 5px;
-  	border: 1px solid #000000;
-  	float: left;
-    width: 80% ;
-
-    margin: 15px 10% 40px 10%;
+    margin: 15px 10% 20px 10%;
     padding: 5px 5px 5px 5px;
+	
 }
 
 #footer a  {
@@ -272,6 +287,11 @@ div#right .rightbox {
 	-webkit-border-radius: 2px;
 	border-radius: 2px;
 	background-color: #537186;
+}
+
+.footerCell {
+	margin: 5px 5px 5px 5px;
+	padding: 0px 5px 0px 5px;
 }
 
 #logo {
@@ -313,7 +333,7 @@ div#right .rightbox {
 }
 
 .errorExplanation {
-	border: 2px solid #red;
+	border: 2px solid #ff0000;
 	padding: 7px;
 	padding-bottom: 12px;
 	margin-bottom: 20px;
@@ -725,7 +745,7 @@ div#right .rightbox {
 
 .BlogPost p.author {
 	margin: 0 0 0 15px;
-	font-weight: italic;
+	font-style: italic;
 }
 
 .BlogPost p {
@@ -749,7 +769,7 @@ a img {
 
 .Comment p.commentAuthor {
 	margin: 0;
-	font-weight: italic;
+	font-style: italic;
 	border-bottom: 1px solid #DCDDDE;
 }
 

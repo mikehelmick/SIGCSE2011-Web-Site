@@ -39,7 +39,7 @@
 	<p><b>Publications</b><br/>
 	Lester I. McCann <br/>
 	The University of Arizona <br/>
-	<script>write_email( "sigcse10-evals", "cs.xu.edu" );</script></p>
+	<script>write_email( "mccann", "cs.arizona.edu" );</script></p>
 
 	<p><b>Registration</b><br/>
 	Cary Laxer and Lynn Degler<br/>
@@ -52,8 +52,8 @@
 	</td><td align="left" valign="top">
 
 	<p><b>Posters</b><br/>
-	Carl Alphonce <br/>
-	The University at Buffalo <br/>
+	Tzu-Yi Chen<br />
+    Pomona College<br />
 	<script>write_email( "tzuyi", "cs.pomona.edu" );</script></p>
 
 	<p><b>Birds Of A Feather</b><br/>
@@ -117,7 +117,7 @@
 	<script>write_email( "rodger", "cs.duke.edu" );</script></p>
 
 	<p><b>K-12 Liaisons</b><br/>
-	Stecey Armstrong <br/>
+	Stacey Armstrong <br/>
 	Cypress Woods High School,<br/>
 	Houston, Texas<br/>
 	<script>write_email( "stacey.armstrong", "apluscompsci.com" );</script><br/>
@@ -133,6 +133,10 @@
 	University of Canterbury<br/>
 	<script>write_email( "tim.bell", "canterbury.ac.nz" );</script></p>
 
+	<p><b>Pre-Conference Event Liaison</b><br />
+    Kristine Nagel<br />
+    Georgia Gwinnett College<br />
+    <script>write_email( "knagel", "ggc.edu" );</script></p>
 
 	<p><b>Local Arrangements</b><br/>
 	Jian Zhang<br/>
