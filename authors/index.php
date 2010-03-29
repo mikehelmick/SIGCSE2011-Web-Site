@@ -42,7 +42,7 @@ Birds of a Feather (BOF) sessions provide an environment for colleagues with sim
 Posters describe computer science education materials or research, particularly works in progress. Proposals (including abstract) are limited to two pages. Poster demonstrations are scheduled to permit one-on-one discussion with conference attendees, typically during session breaks. Prepared handouts are encouraged in order to share your work.  
 </p>
 
-<p><b>Video Exhibitio</b><br/>
+<p><b>VIDEO EXHIBITION</b><br/>
 Video submissions for the Video Exhibition should demonstrate real or dramatized pedagogical situations or challenges for computer science education. Video submissions that address the theme of the symposium are particularly desired.
 </p>
 
