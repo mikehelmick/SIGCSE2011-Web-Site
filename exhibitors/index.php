@@ -76,148 +76,18 @@
 
 
 <div class="SectionHeader"><div class="Full">
-<h2>SIGCSE 20101Supporters and Exhibitors</h2>
+<h2>SIGCSE 2011 Supporters and Exhibitors</h2>
 </div></div> 
-
-<!--
-We thank all of our supporters and exhibitors for helping us make the conference a success:
-
-<h2>Platinum Plus Supporter</h2>
-
-<table border="0" cellspacing="20px" width="100%">
- <tr>
-  <td align="center" valign="middle">
-    <a href="http://www.microsoft.com/usfaculty"><img src="/sigcse2010/images/logos/sponsors/microsoft.png" border="0" align="absmiddle"/></a>
-  </td>
- </tr>
-</table>
-    
-<h2>Platinum Supporters</h2>    
-
-<table border="0" cellspacing="20px" width="100%">
- <tr>
-  <td align="center" valign="middle">  
-    <a href="http://www.intel.com/education/"><img src="/sigcse2010/images/logos/sponsors/intel.png" border="0" align="absmiddle" /></a></td>
-  <td align="center" valign="middle">
-        <a href="http://research.google.com/university/"><img src="/sigcse2010/images/logos/sponsors/google.png" border="0" align="absmiddle" /></a> &nbsp;
-   </td>
- </tr> 
-</table> 
-
-<h2>Gold Supporter</h2>
-
-<table border="0" cellspacing="20px" width="100%">
- <tr>
-  <td align="center" valign="middle">    
-<a href="http://www.ibm.com"><img src="/sigcse2010/images/logos/sponsors/ibm.png" border="0" align="absmiddle" /></a>
-  </td>
- </tr>
-</table>
-
-<p>View details about the SIGCSE 2010 <a href="/sigcse2010/attendees/supporter_sessions.php">supporter sessions</a>.</p>
-
-<!--
-<h2>Gold Supporters</h2>
-
-
-<table border="0" cellspacing="20px">
- <tr>
-  <td align="center" valign="middle"><b>IBM</b>
-  </td>
- </tr>
-</table>
--->
 
 <div class="SectionHeader"><div class="Full">
 <h2>In-Kind Donations</h2>
 </div></div>
 
-<!--
-
-<ul>
-  <li><a href="http://www.microsoft.com/">Microsoft</a>: Kid's Camp Computers and t-shirts</li>
-  <li><a href="http://www.pearsonhighered.com/educator/">Pearson</a>: Conference Badge Lanyards
-  <li><a href="http://www.turingscraft.com/">Turing's Craft</a>: Volunteer's T-shirts</li>
-  <li><a href="http://www.acm.org/upe"/>Upsilon Pi Epsilon</a>: Volunteer Pizza Party</li>
-  <li>Conference Bag:</li>
-  <ul>
-  <li>University of British Columbia Computer Science</li>
-  <li>Jones and Bartlett Publishers</li>
-  <li>Franklin, Beedle &amp; Associates Incorporated</li>
-  <li>AlgoViz</li>
-  <li>Georgia Tech School of Interactive Computing</li>
-  <li>Duke University Computer Science Department</li>
-  <li>Purdue University College of Technology</li>
-  <li>National Center for Women &amp; Information Technology (NCWIT)</li>
-  <li>Broadening Participation in Computing (BPC)</li>
-  <li>STARS Alliance</li>
-  <li>University of Washington Access Computing</li>
-  </ul>
-</ul>
-
-<div class="SectionHeader"><div class="Full">
-<h2>Exhibitors</h2>
-</div></div>
-
-<p>Exhibit hall hours:
-<ul>
- <li>Thursday, March 11, 10:00 AM - 6:00 PM</li>
- <li>Friday, March 12, 10:00 AM - 6:00 PM</li>
- <li>Saturday, March 13, 9:30 AM - 12:00 PM (noon)</li>
-</ul>
-</p>
-
-<table border="0" cellpadding="5" cellspacing="5">
- <tr>
-   <td align="left" valign="top">
-    <ul>
-      <li>ACM-W</li>
-      <li>ACM SIGAda</li>
-      <li>AK Peters</li>
-      <li>Auburn University</li>
-      <li>BlackBerry</li>
-      <li>Broadening Participation in Computing (BPC)</li>    
-      <li>Council of International Exchange of Scholars</li>
-      <li>Course Technology Cengage Learning</li>
-      <li>CRC Press-Taylor &amp; Francis Group</li>
-      <li>Custom Computer Services</li>
-      <li>Franklin, Beedle &amp; Associates</li>
-      <li>Google</li>
-     <li>Hyper Grade</li>
-     <li>IBM Corporation</li>
-     <li>Industrial Logic, Inc.</li>
-     <li>Intel Corporation</li>
-    </ul>
-   </td>
-   <td align="left" valign="top">
-    <ul>
-     <li>InterSystems Corporation</li>  
-     <li>Jones and Bartlett Publishers</li>
-     <li>LEGO Education, North America</li>
-     <li>Microsoft </li>
-     <li>Morgan Kaufmann</li>
-     <li>NSF</li>
-     <li>Paradigm Publishing</li>
-     <li>Pearson Higher Education</li>
-     <li>Project AlgoViz, Department of Computer Science, Virginia Tech</li>
-     <li>RidgeSoft, LLC</li>
-     <li>Springer</li>
-     <li>The College Board</li>
-     <li>The MIT Press</li>
-     <li>Turing's Craft</li>
-     <li>Wiley </li>
-    </ul>
-   </td>
- </tr>
-</table>
--->
-
-
 <div class="SectionHeader"><div class="Full">
 <h2>Questions?</h2>
 </div></div>
 
-<p>Questions about supporting and exhibiting at SIGCSE 2009 can be  
+<p>Questions about supporting and exhibiting at SIGCSE 2011 can be  
 directed to the Exhibit Manager or our Supporter / Exhibitor Liaison.</p>
 
 <h3>Supporter/Exhibitor Liaison</h3>
