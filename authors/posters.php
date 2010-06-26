@@ -1,14 +1,11 @@
 <?php
- $title = "SIGCSE 2010 - Poster Submission Guidelines";
- $menu = "presenters";
+ $title = "SIGCSE 2011 - Poster Submission Guidelines";
+ $menu = "authors";
+ $submenu = "posters";
+ $include_submenu = "authors_submenu.php";
  include("../parts/top.php");
 ?>        <!-- <h2>Important Dates</h2> -->
-        
               
-<?php include("../parts/presenters_left.php"); ?>
-        
-
-<?php include("../parts/middle.php"); ?>        
 
 	         <!-- right area -->
 <h1>Poster Submission Guidelines</h1>             
@@ -34,16 +31,16 @@
       
       <table>
        <tr>
-        <td align="left" valign="top">Submission Deadline:</td><td align="left" nowrap="nowrap">November 2, 2009</td>
+        <td align="left" valign="top">Submission Deadline:</td><td align="left" nowrap="nowrap">November 1, 2010</td>
        </tr>
        <tr><td align="right" colspan="2">
 @11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
        </tr>
        <tr>
-  	    <td align="left">Author Notification:</td><td align="left" nowrap="nowrap">Nocember 23, 2009</td>
+  	    <td align="left">Author Notification:</td><td align="left" nowrap="nowrap">TBA</td>
        </tr>
        <tr>
- 	    <td align="left">Updates to Titles, Authors, &amp; Abstracts Due:</td><td align="left">December 7, 2009</td>
+ 	    <td align="left">Updates to Titles, Authors, &amp; Abstracts Due:</td><td align="left">TBA</td>
        </tr>
       </table>
     </div>
@@ -76,7 +73,7 @@
             Graduate or undergraduate students submitting posters may
             instead wish to submit to the 
             <a href="student_research.php">ACM Student Research Competition (SRC)</a>
-            held at SIGCSE 2010.  Like normal posters, SRC posters are
+            held at SIGCSE 2011.  Like normal posters, SRC posters are
             displayed at the conference, but the top poster authors
             also present their work and may win prizes and proceed
             to the international ACM Student Research Competition.
@@ -184,7 +181,7 @@
                           your poster.
                           </li>
                    </ol>
-                   </li>
+                   </li><br/>
 
               <li> <strong>Poster Abstract (limited to 1000 characters)</strong>
 
@@ -224,7 +221,7 @@
 
               <li> Submit your document and 1000-character text abstract
                    description using the
-                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/submission.shtml">online Poster Submission Form</a>.
+                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">online Poster Submission Form</a>.
                    Please do not wait until the last minute to submit your
                    document because that is when everyone else will be
                    connecting to our server!
@@ -240,9 +237,9 @@
                    </li>
 
               <li> After receiving confirmation, go to the
-                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/submission.shtml">Author Verification Form</a>
+                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a>
                    to review your submission for accuracy.  Send e-mail to
-                   Carl Alphonce (<script>write_email( "sigcse10-posters", "cs.xu.edu" );</script>) if there are any problems.
+                   Tzu-Yi Chen (<script>write_email( "sigcse11-posters", "cs.cmu.edu" );</script>) if there are any problems.
                    Warning! Several authors have reported problems viewing
                    their PDF files using Internet Explorer.
                    If you experience similar problems, it is best
@@ -254,7 +251,7 @@
             <p>
             <strong><i>Deadline:</i></strong>
             All electronic submissions must be <strong>received</strong>
-            by <strong class="warning">November 2, 2009</strong>.
+            by <strong class="warning">November 1, 2010</strong>.
             </p>
 
 
@@ -264,13 +261,18 @@
 
 <p>If you have questions, please contact<br />
 &nbsp;<br />
-Carl Alphonce<br /> 
-Posters<br />
-University at Buffalo<br /> 
-<script>write_email( "sigcse10-posters", "cs.xu.edu" );</script>
+Tzu-Yi Chen<br />
+Pomona College<br />
+<script>write_email( "sigcse11-posters", "cs.cmu.edu" );</script>
 </p>
 
+<?php include("../parts/middle.php"); ?>
+
+<?php include("../parts/authors_right.php"); ?>
+
+    
 <?php
   $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );
-  include("../parts/bottom.php");
- ?>
+  include("../parts/footer.php");
+ ?>        
+    

@@ -1,17 +1,16 @@
 <?php
- $title = "SIGCSE 2010 - Paper Submission Guidelines";
- $menu = "presenters";
+ $title = "SIGCSE 2011 - Paper Submission Guidelines";
+ $menu = "authors";
+ $submenu = "papers";
+ $include_submenu = "authors_submenu.php";
  include("../parts/top.php");
 ?>        <!-- <h2>Important Dates</h2> -->
-        
-              
-<?php include("../parts/presenters_left.php"); ?>
-        
 
-<?php include("../parts/middle.php"); ?>        
 
 	         <!-- right area -->
 <h1>Paper Submission Guidelines</h1>
+
+<div class="errorExplanation">NEW FOR SIGCSE 2011: PAPER PAGE LIMIT: 6 PAGES</div>
 
 <div class="errorExplanation">By SIGCSE policy, at least one author of each accepted paper is required to register, attend and present the paper.</div>             
              
@@ -33,19 +32,19 @@
       
       <table>
        <tr>
-        <td align="left" valign="top">Submission Deadline:</td><td align="left">September 11, 2009</td>
+        <td align="left" valign="top">Submission Deadline:</td><td align="left">September 10, 2010</td>
        </tr>
        <tr><td align="right" colspan="2">
 @11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
        </tr>
        <tr>
-  	    <td align="left">Author Notification:</td><td align="left">October 24, 2009</td>
+  	    <td align="left">Author Notification:</td><td align="left">TBD</td>
        </tr>
        <tr>
- 	    <td align="left">Updates to Paper Title &amp; Authors:</td><td align="left">November 9, 2009</td>
+ 	    <td align="left">Updates to Paper Title &amp; Authors:</td><td align="left">TBD</td>
        </tr>
        <tr>
-  	    <td align="left">Camera-Ready Copy:</td><td align="left">December 7, 2009</td>
+  	    <td align="left">Camera-Ready Copy:</td><td align="left">TBD</td>
        </tr>
       </table>
     </div>
@@ -259,7 +258,7 @@
 			<br>
 		</p>
 		<p>
-			Descriptions of each of these paper categories can be found at the <a href="http://db.grinnell.edu/sigcse/sigcse2010/subjectDisplay.asp">online topic display site</a>. When you submit your paper, we will request that you indicate the broad class you believe the paper fits into as well as up to three categories from the course-related and general topic areas.
+			Descriptions of each of these paper categories can be found at the <a href="http://db.grinnell.edu/sigcse/sigcse2011/subjectDisplay.asp">online topic display site</a>. When you submit your paper, we will request that you indicate the broad class you believe the paper fits into as well as up to three categories from the course-related and general topic areas.
 		</p>
              
 <div class="SectionHeader"><div class="Full">
@@ -267,14 +266,14 @@
 </div></div>     
 
 
-		<p>
+		<p><font color="#FF0000"><b>NEW FOR SIGCSE 2011: PAPER PAGE LIMIT: 6 PAGES</b></font>:<br />
 			Authors must submit <b>two versions</b> of their paper: a "publication" version that includes author/institution information, and an anonymized version. The goal of the anonymized version is to, as much as possible, allow the author(s) of the paper an unbiased review. The anonymized version should have ALL references to the authors removed (including author's names and affiliation plus identifying information within the body of the paper such as websites or related publications).  Self-citations need not be removed if they are worded  so that the reviewer doesn't know if the writer is citing
 himself/herself. That is, instead of writing "We
 reported on our first experiment with this work in 2007 in a previous
 paper [1]", the writer might write "In 2007, an initial experiment was
 done in this area as reported in [1]."</p>
             
-         <p>The publication version is available for use by the Program Committee. Both versions are limited to a <strong>maximum of 5 pages</strong> and must adhere to the <a href="format.php">SIGCSE 2010 Format Instructions</a>. <a href="http://www.acm.org/sigs/pubs/proceed/template.html">Templates are available in Word, WordPerfect, and LaTeX</a>.
+         <p>The publication version is available for use by the Program Committee. Both versions are limited to a <strong>maximum of 6 pages</strong> (new for SIGCSE 2011) and must adhere to the <a href="format.php">SIGCSE 2011 Format Instructions</a>. <a href="http://www.acm.org/sigs/pubs/proceed/template.html">Templates are available in Word, WordPerfect, and LaTeX</a>.
 		</p>
 		<p>
 			If your paper is accepted you will have a chance to modify your publication version before it is published.
@@ -295,7 +294,7 @@ done in this area as reported in [1]."</p>
                    Category and Subject Descriptors, General Terms, and
                    Keywords based on the ACM classification system. These
                    requirements are described in more detail in the
-                   <a href="format.php">SIGCSE 2010 Format Instructions</a>.
+                   <a href="format.php">SIGCSE 2011 Format Instructions</a>.
                    </li>
 
               <li> Convert your paper into Adobe PDF format. Refer to our
@@ -303,7 +302,7 @@ done in this area as reported in [1]."</p>
                    for assistance.
                    </li>
 
-              <li> Submit both versions using the <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/submission.shtml">online Paper Submission Form</a>.
+              <li> Submit both versions using the <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">online Paper Submission Form</a>.
                    Note that there are several ways you must categorize
                    your paper submission in the online system. The broad
                    classification you choose allows the reviewer to
@@ -331,10 +330,10 @@ done in this area as reported in [1]."</p>
                    acceptance or rejection notification.
                    </li>
 
-              <li> After receiving confirmation, go to the <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/submission.shtml">Author Verification Form</a>
+              <li> After receiving confirmation, go to the <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a>
                    to review your submission for accuracy.  Send e-mail to
-                   <a href="mailto:sigcse10-pcs@cs.xu.edu">sigcse10-pcs@cs.xu.edu</a>
-                   (Thomas Cortina and Ellen Walker) if there are any
+                   <a href="mailto:sigcse11-program@cs.cmu.edu">sigcse11-program@cs.cmu.edu</a>
+                   (Laurie Smith King and Dave Musicant) if there are any
                    problems.
                    Warning! Several authors have reported problems viewing
                    their PDF files using Internet Explorer.
@@ -347,7 +346,7 @@ done in this area as reported in [1]."</p>
             <p>
             <strong><i>Deadline:</i></strong>
             All electronic submissions must be <strong>received</strong>
-            by <strong class="warning">September 11, 2009</strong>
+            by <strong class="warning">September 10, 2010</strong>
             at 23:59 (11:59 p.m.) Hawaii-Aleutian Standard Time (HST).
             </p>
 
@@ -376,7 +375,7 @@ done in this area as reported in [1]."</p>
                    session chair or other speakers in your session
                    to arrange sharing.  (If neither you, the other session
                    speakers, nor the session chair have a laptop,
-                   <a href="mailto:sigcse10-pcs@cs.xu.edu">send us email</a>.)
+                   <a href="mailto:sigcse11-program@cs.cmu.edu">send us email</a>.)
                    </li>
 
               <li> Bring a <strong>backup copy</strong> of your
@@ -400,18 +399,25 @@ done in this area as reported in [1]."</p>
 <h2><a name="presentation">Questions</a></h2>
 </div></div>   
 
-
-<p>Please contact SIGCSE 2010 Program Chairs: <script>write_email( "sigcse10-pcs", "cs.xu.edu" );</script></p>
+<p>Please contact SIGCSE 2011 Program Chairs: <script>write_email( "sigcse11-program", "cs.cmu.edu" );</script></p>
 
 <table border="0" cellpadding="20px"><tr>
-<td><p>Thomas Cortina<br/> 
-Carnegie Mellon University</p>
+<td><p>Laurie Smith King<br/> 
+College of the Holy Cross</p>
 </td><td> 
-<p>Ellen Walker<br/>
-Hiram College</p>
+<p>Dave Musicant<br/>
+Carleton College</p>
 </td></tr></table>
 
+
+<?php include("../parts/middle.php"); ?>
+
+<?php include("../parts/authors_right.php"); ?>
+
+    
 <?php
   $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );
-  include("../parts/bottom.php");
- ?>
+  include("../parts/footer.php");
+ ?>        
+    
+    

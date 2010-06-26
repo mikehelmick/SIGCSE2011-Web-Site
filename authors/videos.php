@@ -1,14 +1,10 @@
 <?php
- $title = "SIGCSE 2010 - Video Submission Guidelines";
- $menu = "presenters";
+ $title = "SIGCSE 2011 - Video Submission Guidelines";
+ $menu = "authors";
+ $submenu = "videos";
+ $include_submenu = "authors_submenu.php";
  include("../parts/top.php");
-?>        <!-- <h2>Important Dates</h2> -->
-        
-              
-<?php include("../parts/presenters_left.php"); ?>
-        
-
-<?php include("../parts/middle.php"); ?>        
+?>        <!-- <h2>Important Dates</h2> -->                           
 
 	         <!-- right area -->
 <h1>Video Exhibition Submission Guidelines</h1>             
@@ -18,9 +14,7 @@
   <td width="50%" align="left" valign="top">
   <h3>Contents:</h3>
   <ul>
-    <li><a href="#whatis">What Is The Channel SIGCSE Video Exhibition?</a></li>
-    <li><a href="#what">What Will Be On Channel SIGCSE?</a></li>
-    <li><a href="#where">Where Will People See My Video?</a></li>
+    <li><a href="#whatis">What Is The SIGCSE Video Exhibition?</a></li>
     <li><a href="#kind">What Kind Of Videos Can I Submit?</a></li>
     <li><a href="#how">How Do I Submit A Video For Exhibition?</a></li>
     <li><a href="#if">What If My Video Is Selected For Exhibition?</a></li>
@@ -34,16 +28,16 @@
       
       <table>
        <tr>
-        <td align="left">Submission Deadline:</td><td align="left">Monday, November 2, 2009</td>
+        <td align="left">Submission Deadline:</td><td align="left">Monday, November 1, 2010</td>
        </tr>
        <tr><td align="right" colspan="2">
 @11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
        </tr>
        <tr>
-  	    <td align="left">Author Notification:</td><td align="left">November 23, 2009</td>
+  	    <td align="left">Author Notification:</td><td align="left">TBA</td>
        </tr>
        <tr>
- 	    <td align="left">High Quality Submission:</td><td align="left">December 7, 2009</td>
+ 	    <td align="left">High Quality Submission:</td><td align="left">TBA</td>
        </tr>
       </table>  
     </div>
@@ -57,26 +51,21 @@
 <h2><a name="whatis">What Is The Channel SIGCSE Video Exhibition?</a></h2>
 </div></div>
 
-<p>Channel SIGCSE is the Video Exhibition at the SIGCSE Symposium. Videos submitted by you, and your SIGCSE colleagues are peer-reviewed to be accepted for exhibition. The Video Exhibition appeared at SIGCSE for the first time in 2009 at Chattanooga.</p>
-
-
-<div class="SectionHeader"><div class="Full">
-<h2><a name="what">What Will Be On Channel SIGCSE?</a></h2>
-</div></div>
-
-<p>You, your students, and your animations in the videos you submitted to the Channel SIGCSE video exhibition. Here's your chance to share the dynamic material you haven't had a good way to share - until now.</p>
-
-<div class="SectionHeader"><div class="Full">
-<h2><a name="where">Where Will People See My Video?</a></h2>
-</div></div>
-
-<p>On Channel SIGCSE, of course! Channel SIGCSE will be presented on video kiosks at the symposium during SIGCSE 2010. Channel SIGCSE also has a home on the web throughout the year</p>
+<p>The video exhibition includes videos submitted by you, and your SIGCSE
+colleagues that are peer-reviewed. The Video Exhibition appeared at SIGCSE
+for the first time in 2009 at Chattanooga. The video exhibition will be
+presented in a special "viewing room" at the symposium during SIGCSE 2011.
+The video exhibition will also have a home on the web throughout the year.</p>
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="kind">What kind Of Videos Can I Submit?</a></h2>
 </div></div>
 
-<p>We invite videos relevant to computer science education. These videos could include classroom lectures, demonstrations, or animations. The videos could be useful in today's classroom or be of historical significance. For SIGCSE 2010 we prefer videos that highlight the conference theme. To that end, we are interested in videos that demonstrate real or dramatized challenging pedagogical situations or computing education research challenges. These videos should be capable of sparking discussion rather than demonstrating a proposed solution.</p>
+<p>We invite videos relevant to computer science education. These videos
+could include classroom lectures, demonstrations, or animations. The
+videos could be useful in today's classroom or be of historical
+significance. For SIGCSE 2011, we encourage you to submit a video that
+highlights the conference theme.</p>
 
 <p>To be accepted, a video must be:<br />
 <ul>
@@ -102,14 +91,12 @@ reasonable quality when they see it. We're not SIGGRAPH and this isn't
 Sundance, so flaws are accepted (if not expected). Things to avoid:
 periods of non-content, images/scenes with more extraneous items in
 view than the focus of the action/story, lengthy credits. You can look
-at <a href="http://www.cs.siue.edu/~dbouvie/channelsigcse/program_summary.htm">last
-year's program</a> to see examples of acceptable quality.</li>
+at the <a href="http://www.cs.siue.edu/~dbouvie/channelsigcse/program_summary.htm">2009</a> and <a href="http://www.sigcse.org/sigcse2010/attendees/video_program.php">2010 programs</a> to see examples of acceptable quality.</li>
 
  <li>Reasonable runtime: While the running time of a video will be a
 factor in the selection process, there is no hard limit for the
 running time of a video submission. However, you may note that <a
-href="http://www.cs.siue.edu/~dbouvie/channelsigcse/program_summary.htm">last
-year's program</a> included videos as long as about 20 minutes
+href="http://www.cs.siue.edu/~dbouvie/channelsigcse/program_summary.htm">the 2009 program</a> included videos as long as about 20 minutes
 (probably the upper limit) and many that were considerably shorter. As
 with any video production, you should strive for maximum impact in the
 least amount of time.</li>
@@ -120,17 +107,21 @@ least amount of time.</li>
 <h2><a name="how">How Do I Submit A Video For Exhibition?</a></h2>
 </div></div>
 
+<div class="errorExplanation">We are working on the submission details for SIGCSE 2011, please check back soon.</div>
+
+<!--
 <p><ol>
   <li>Create a video of interest to the SIGCSE community.</li>
   <li>Create and post a web-version of the video. Post the web-version of your video to YouTube.com. The review panel will view your YouTube video. If the video is accepted for publication a high-quality version will be required.</li>
   <li>Select, or create, a representative image. The representative images will be used in promotion and, possibly, on the DVD of exhibition videos. The representative image is typically a frame of the video. It could be the title image, or a particularly memorable image from the video. The representative image must be included in the submission form, so you need the image before completing the submission form.</li>
-  <li>Complete a video proposal submission form. The submitter will complete the submission form (Word, Text or RTF) and email the completed form to <script>write_email( "sigcse10-videos", "cs.xu.edu" );</script>.</li>
+  <li>Complete a video proposal submission form. The submitter will complete the submission form (Word, Text or RTF) and email the completed form to <script>write_email( "sigcse11-videos", "cs.cmu.edu" );</script>.</li>
   <ul>
-    <li><img src="/sigcse2010/images/page_white_text.png" align="middle" /><a href="/sigcse2010/downloads/SIGCSE2010_VideoSubmissionForm.txt" >Video Submission Form (as text)</a></li>
-    <li><img src="/sigcse2010/images/page_white_word.png" align="middle" /><a href="/sigcse2010/downloads/SIGCSE2010_VideoSubmissionForm.rtf">Video Submission Form (as RTF)</a></li>
-    <li><img src="/sigcse2010/images/page_word.png" align="middle" /><a href="/sigcse2010/downloads/SIGCSE2010_VideoSubmissionForm.doc">Video Submission Form (as Microsoft Word)</a></li>
+    <li><img src="/sigcse2011/images/page_white_text.png" align="middle" /><a href="/sigcse2011/downloads/SIGCSE2011_VideoSubmissionForm.txt" >Video Submission Form (as text)</a></li>
+    <li><img src="/sigcse2010/images/page_white_word.png" align="middle" /><a href="/sigcse2011/downloads/SIGCSE2011_VideoSubmissionForm.rtf">Video Submission Form (as RTF)</a></li>
+    <li><img src="/sigcse2010/images/page_word.png" align="middle" /><a href="/sigcse2011/downloads/SIGCSE2011_VideoSubmissionForm.doc">Video Submission Form (as Microsoft Word)</a></li>
   </ul>
 </ol></p>
+-->
 
 <p><strong>Deadlines</strong>: dates are posted at the top of the page.</p>
 
@@ -141,7 +132,7 @@ least amount of time.</li>
 <p>All submitted videos will be panel-reviewed. For the videos selected for exhibition, the submitters are required to:
 
 <ol>
-  <li>Download and complete the permission form (<a href="/sigcse2010/downloads/SIGCSE2010VideoPermissionForm.doc">Word</a> or <a href="/sigcse2010/downloads/SIGCSE2010VideoPermissionForm.pdf">PDF</a>). We need a signature, so mail (snail-mail) the completed and signed form to:
+  <li>Download and complete the permission form (<a href="/sigcse2011/downloads/SIGCSE2011VideoPermissionForm.doc">Word</a> or <a href="/sigcse2011/downloads/SIGCSE201VideoPermissionForm.pdf">PDF</a>). We need a signature, so mail (snail-mail) the completed and signed form to:
   <pre>
       Dennis Bouvier
       SIUE Computer Science
@@ -172,10 +163,17 @@ least amount of time.</li>
 Dennis Bouvier<br />
 Videos Coordinator<br />
 Southern Illinois University - Edwardsville<br />
-<script>write_email( "sigcse10-videos", "cs.xu.edu" );</script></p>
+<script>write_email( "sigcse11-videos", "cs.cmu.edu" );</script></p>
 
 
+
+
+<?php include("../parts/middle.php"); ?>
+
+<?php include("../parts/authors_right.php"); ?>
+
+    
 <?php
   $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );
-  include("../parts/bottom.php");
+  include("../parts/footer.php");
  ?>

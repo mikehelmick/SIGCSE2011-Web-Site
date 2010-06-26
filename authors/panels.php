@@ -1,15 +1,12 @@
 <?php
- $title = "SIGCSE 2010 - Panel Submission Guidelines";
- $menu = "presenters";
+ $title = "SIGCSE 2011 - Panel Submission Guidelines";
+ $menu = "authors";
+ $submenu = "panels";
+ $include_submenu = "authors_submenu.php";
  include("../parts/top.php");
 ?>        <!-- <h2>Important Dates</h2> -->
         
-     
-<?php include("../parts/presenters_left.php"); ?>
-        
-
-<?php include("../parts/middle.php"); ?>        
-
+    
 	         <!-- right area -->
 <h1>Panel Submission Guidelines</h1>             
 
@@ -33,19 +30,19 @@
       
       <table>
        <tr>
-        <td align="left">Submission Deadline:</td><td align="left" nowrap="nowrap">September 11, 2009</td>
+        <td align="left">Submission Deadline:</td><td align="left" nowrap="nowrap">September 10, 2010</td>
        </tr>
        <tr><td align="right" colspan="2">
 @11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
        </tr>
        <tr>
-  	    <td align="left">Author Notification:</td><td align="left">October 24, 2009</td>
+  	    <td align="left">Author Notification:</td><td align="left">TBD</td>
        </tr>
        <tr>
- 	    <td align="left">Updates to Panel Title &amp; Presenters:</td><td align="left">November 9, 2009</td>
+ 	    <td align="left">Updates to Panel Title &amp; Presenters:</td><td align="left">TBD</td>
        </tr>
        <tr>
-  	    <td align="left">Camera-Ready Copy:</td><td align="left">December 7, 2009</td>
+  	    <td align="left">Camera-Ready Copy:</td><td align="left">TBD</td>
        </tr>
       </table>
     </div>
@@ -101,7 +98,7 @@
 
             <p>
             The proposal is limited to two (2) pages that conform to the
-            <a href="format.php">SIGCSE 2010 Format Instructions</a>
+            <a href="format.php">SIGCSE 2011 Format Instructions</a>
             with the following modifications and exceptions:
             </p>
 
@@ -154,7 +151,7 @@
                    Subject Descriptors, General Terms, and Keywords,
                    just as paper authors must do.  These requirements
                    are described in more detail in the
-                   <a href="format.php">SIGCSE 2010 Format Instructions</a>.
+                   <a href="format.php">SIGCSE 2011 Format Instructions</a>.
                    </li>
 
               <li> Convert your proposal into Adobe PDF format.  Refer to our
@@ -163,7 +160,7 @@
                    </li>
 
               <li> Submit the PDF version of your proposal using the
-                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/submission.shtml">online Submission Form</a>
+                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">online Submission Form</a>
                    Note that there are several
                    ways you must categorize your proposal submission in
                    the online system.  These categories are used to select
@@ -188,11 +185,11 @@
                    </li>
 
               <li> After receiving confirmation, go to the 
-                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/submission.shtml">Author Verification Form</a>
+                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a>
                    to review your submission for accuracy.
                    Send e-mail to
-                   <a href="mailto:sigcse10-panels@cs.xu.edu">sigcse10-panels@cs.xu.edu</a>
-                   (Laurie Smith King)
+                   <script>write_email( "sigcse11-panels", "cs.cmu.edu" );</script> or 
+    <script>write_email( "sigcse11-specials", "cs.cmu.edu" );</script> (Pam Cutter)
                    if there are any problems.
                    Warning! Several authors have reported problems viewing
                    their PDF files using Internet Explorer.
@@ -206,7 +203,7 @@
             <p>
             <strong><i>Deadline:</i></strong>
             All electronic submissions must be <strong>received</strong>
-            by <strong class="warning">September 11, 2009</strong>
+            by <strong class="warning">September 10, 2010</strong>
             at 23:59 (11:59 p.m.) Hawaii-Aleutian Standard Time (HST).
             </p>
 
@@ -263,15 +260,18 @@
 <h2><a name="presentation">Questions</a></h2>
 </div></div>   
 
-<p>Please contact the SIGCSE 2010 Panels and Special Sessions Chair with your questions:<br/>
+<p>Please contact the SIGCSE 2011 Panels and Special Sessions Chair with your questions:<br/>
 <b>Panels and Special Sessions</b><br/>
-Laurie Smith King<br/>
-College of the Holy Cross <br/>
-<script>write_email( "sigcse10-panels", "cs.xu.edu" );</script></p>
-
+	Pam Cutter<br/>
+	Kalamazoo College<br />
+	<script>write_email( "sigcse11-panels", "cs.cmu.edu" );</script><br />
+    <script>write_email( "sigcse11-specials", "cs.cmu.edu" );</script></p>
           
+<?php include("../parts/middle.php"); ?>              
+
+<?php include("../parts/authors_right.php"); ?>
 
 <?php
   $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );
-  include("../parts/bottom.php");
+  include("../parts/footer.php");
  ?>

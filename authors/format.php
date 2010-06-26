@@ -1,14 +1,10 @@
 <?php
- $title = "SIGCSE 2010 - Call for Participation";
- $menu = "presenters";
+ $title = "SIGCSE 2011 - Call for Participation";
+ $menu = "authors";
+ $include_submenu = "authors_submenu.php";
  include("../parts/top.php");
 ?>        <!-- <h2>Important Dates</h2> -->
-     
-       
-<?php include("../parts/presenters_left.php"); ?>
-        
-
-<?php include("../parts/middle.php"); ?>        
+          
 
 	         <!-- right area -->
 <h1>Publication Guidelines for Camera-ready Papers, Panels, and Special Sessions</h1>
@@ -36,19 +32,19 @@
       
       <table>
        <tr>
-        <td align="left" valign="top">Submission Deadline:</td><td align="left">September 11, 2009</td>
+        <td align="left" valign="top">Submission Deadline:</td><td align="left">September 10, 2010</td>
        </tr>
        <tr><td align="right" colspan="2">
 @11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
        </tr>
        <tr>
-  	    <td align="left">Author Notification:</td><td align="left">October 24, 2009</td>
+  	    <td align="left">Author Notification:</td><td align="left">TBA</td>
        </tr>
        <tr>
- 	    <td align="left">Updates to Paper Title &amp; Authors:</td><td align="left">November 9, 2009</td>
+ 	    <td align="left">Updates to Paper Title &amp; Authors:</td><td align="left">TBA</td>
        </tr>
        <tr>
-  	    <td align="left">Camera-Ready Copy:</td><td align="left">December 7, 2009</td>
+  	    <td align="left">Camera-Ready Copy:</td><td align="left">TBA</td>
        </tr>
       </table>
     </div>
@@ -91,7 +87,7 @@
 
 <p>All submission must adhere to the following page limits:<br/>
  <ul>
-  <li><b>Paper:</b>	5</li>
+  <li><b>Paper:</b>	6 (New for SIGCSE 2011)</li>
   <li><b>Panel:</b>	2</li>
   <li><b>Special Session:</b> 2</li>
  </ul>
@@ -119,11 +115,17 @@ Templates for submissions can be found at the <a href="http://www.acm.org/sigs/p
 </div></div> 
     
 <p><b>Contact the Publications chair:</b><br/>
-Dave Musicant <br/>
-Carleton College<br/>
-<script>write_email( "sigcse10-publications", "cs.xu.edu" );</script></p>
+&nbsp;<br />
+Lester I. McCann <br/>
+The University of Arizona
+<script>write_email( "sigcse11-publications", "cs.cmu.edu" );</script></p>
+
+<?php include("../parts/middle.php"); ?>
+
+<?php include("../parts/authors_right.php"); ?>
+
     
 <?php
   $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );
-  include("../parts/bottom.php");
- ?>
+  include("../parts/footer.php");
+ ?>  

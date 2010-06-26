@@ -1,11 +1,17 @@
 <?php
  $title = "SIGCSE 2011 - Call for Participation";
  $menu = "authors";
+ $submenu = "cfp";
+ $include_submenu = "authors_submenu.php";
  include("../parts/top.php");
 ?>        <!-- <h2>Important Dates</h2> -->
         
 
-<div id="GoodMessage"><a href="downloads/sigcse11-cfp.pdf"><img src="/sigcse2011/images/page_white_acrobat.png" /> Download call for participation as PDF.</a></div>
+<div id="GoodMessage"><a href="downloads/sigcse11-cfp.pdf"><img src="/sigcse2011/images/page_white_acrobat.png" /> Download call for participation as PDF.</a> | 
+<a href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.sigcse.org%2Fsigcse2011%2Fauthors%2Fdownloads%2Fsigcse11-cfp.pdf">View CFP online with Google docs Viewer</a>
+</div>
+
+<div class="errorExplanation"><b>AUTHOR SUBMISSION INSTRUCTIONS WILL BE POSTED BY MID JULY</b></div>
 
 
 <h1>CALL FOR PARTICIPATION</h1>

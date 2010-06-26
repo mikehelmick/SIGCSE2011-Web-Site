@@ -6,9 +6,10 @@ function write_email( first, second ) {
 
 function remove_frames()
 {
-  var thisPage = "http://www.sigcse.org" + self.location.pathname + self.location.search;
-  var thisLocal = "http://localhost" + self.location.pathname + self.location.search;
-  if (top.location != thisPage && top.location != thisLocal ) {
+  var thisPage = "http://www.sigcse.org" + self.location.pathname + self.location.hash + self.location.search;
+  var thisLocal = "http://localhost" + self.location.pathname + self.location.hash + self.location.search;
+  var testServer = "http://test.mikehelmick.com" + self.location.pathname + self.location.hash + self.location.search;
+  if (top.location != thisPage && top.location != thisLocal  && top.location != testServer) {
     top.location = thisPage;
   }
 }

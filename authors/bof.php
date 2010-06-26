@@ -1,15 +1,12 @@
 <?php
- $title = "SIGCSE 2010 - Birds of a Feather (\"BOF\") Submission Guidelines";
- $menu = "presenters";
+ $title = "SIGCSE 2011 - Birds of a Feather (\"BOF\") Submission Guidelines";
+ $menu = "authors";
+ $submenu = "bofs";
+ $include_submenu = "authors_submenu.php";
  include("../parts/top.php");
 ?>        <!-- <h2>Important Dates</h2> -->
         
               
-<?php include("../parts/presenters_left.php"); ?>
-        
-
-<?php include("../parts/middle.php"); ?>        
-
 	         <!-- right area -->
 <h1>Birds of a Feather ("BOF") Submission Guidelines</h1>   
 
@@ -21,7 +18,6 @@
   <h3>Contents:</h3>
   <ul>
     <li><a href="#what">What Is A Birds Of A Feather?</a></li>
-    <li><a href="#lightning">What is a Lightning BOF?</a></li>
     <li><a href="#format">How Should The Proposal Be Formatted?</a></li>
     <li><a href="#submit">How Do I Submit My Proposal?</a></li>
   </ul>
@@ -33,26 +29,21 @@
       
       <table>
        <tr>
-        <td align="left">Submission Deadline:</td><td align="left" nowrap="nowrap">November 2, 2009</td>
+        <td align="left">Submission Deadline:</td><td align="left" nowrap="nowrap">November 1, 2010</td>
        </tr>
        <tr><td align="right" colspan="2">
 @11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
        </tr>
        <tr>
-  	    <td align="left">Acceptance Notification:</td><td align="left" nowrap="nowrap">November 23, 2009</td>
+  	    <td align="left">Acceptance Notification:</td><td align="left" nowrap="nowrap">TBA</td>
        </tr>
        <tr>
- 	    <td align="left">Updates to BOF Title, Proposer &amp; Abstract:</td><td align="left">December 7, 2009</td>
-       </tr>
-       <tr>
-        <td align="left">Lightning BOF Submission Deadline:</td><td align="left" nowrap="nowrap">January  15, 2010</td>
+ 	    <td align="left">Updates to BOF Title, Proposer &amp; Abstract:</td><td align="left">TBA</td>
        </tr>
        <tr><td align="right" colspan="2">
 @11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
        </tr>
-       <tr>
-  	    <td align="left">Lightning BOF Acceptance Notification:</td><td align="left" nowrap="nowrap">January 21, 2010</td>
-       </tr>
+       
 
       </table>
     </div>
@@ -73,27 +64,7 @@
             leaders only.  BOFs are not intended to be presentations.
             </p>
 
-<div class="SectionHeader"><div class="Full">
-<h2><a name="lightning">What is a Lightning BOF?</a></h2>
-</div></div>  
 
-<p>Sometimes interesting discussion topics come up after the regular BOF
-submission deadline, but before the conference itself.  To present a venue
-for some of these topics, we're trying something new this year: lightning
-BOFs.</p>
-
-<p>Most of the BOF sessions will be allocated as in previous years, but this
-year there will also be a small number of slots reserved for Lightning BoFs.
-Lightning BOFs can be submitted between December 15th and January 15th (two
-and a half months after the regular BOF submission deadline).  The acceptance
-notifications for these lightning BOFs will be sent by January 21, 2010
-(before the early registration deadline).  The hope is that this will allow
-people to propose BOFs based on "hot" topics of current interest.</p>
-
-<p>All proposals received by the earlier deadline of November 2, 2009 will be
-considered for a regular BOF slot.  If your BOF is not accepted for a
-regular slot, you will be given the option of resubmitting it for consideration
-for a lightning BOF.</p>
 
 
 <div class="SectionHeader"><div class="Full">
@@ -177,7 +148,7 @@ for a lightning BOF.</p>
                           conference.
                           </li>
                    </ol>
-                   </li>
+                   </li><br/>
 
               <li> <strong>BOF Abstract (limited to 1000 characters)
                    </strong>
@@ -200,9 +171,9 @@ for a lightning BOF.</p>
             </p>
 
             <ul>
-              <li> <a href="/sigcse2010/downloads/BOFSample.doc">BOF Proposal Example (Word)</a>
+              <li> <a href="/sigcse2011/downloads/BOFSample.doc">BOF Proposal Example (Word)</a>
                    </li>
-              <li> <a href="/sigcse2010/downloads/BOFSample.pdf" onclick="target='newwindow'">BOF Proposal Example (PDF)</a>
+              <li> <a href="/sigcse2011/downloads/BOFSample.pdf" onclick="target='newwindow'">BOF Proposal Example (PDF)</a>
                    </li>
             </ul>
 
@@ -220,7 +191,7 @@ for a lightning BOF.</p>
                    </li>
 
               <li> Submit the PDF version of your proposal using the
-                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/submission.shtml">Birds of a Feather online submission form</a>.
+                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Birds of a Feather online submission form</a>.
                    Recall that you will also need to cut-and-paste or type
                    your 1000-character text abstract description into a text box
                    during the submission process.  Please do not wait until
@@ -238,10 +209,10 @@ for a lightning BOF.</p>
                    </li>
 
               <li> After receiving confirmation, go to the
-                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/submission.shtml">Author Verification Form</a>
+                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a>
                    to review your submission for accuracy.
                    Send e-mail to
-                   Tzu-Yi Chen <script>write_email( "sigcse10-bofs", "cs.xu.edu" );</script>
+                   Deborah Hwang <script>write_email( "sigcse11-bofs", "cs.cmu.edu" );</script>
                    if there are any problems.
                    Warning! Several authors have reported problems viewing
                    their PDF files using Internet Explorer.
@@ -253,8 +224,7 @@ for a lightning BOF.</p>
             <p>
             <strong><i>Deadline:</i></strong>
             All electronic submissions must be <strong>received</strong>
-            by <strong class="warning">November 2, 2009</strong> (by <strong>January 15, 2010</strong> for lightning
-BOF submissions).
+            by <strong class="warning">November 1, 2010</strong>.
             </p>         
 
 <div class="SectionHeader"><div class="Full">
@@ -263,13 +233,17 @@ BOF submissions).
 
 <p>If you have questions, please contact:<br />
 &nbsp;<br />
-Tzu-Yi Chen<br />
-Birds Of A Feather<br />
-Pomona College<br />
-<script>write_email( "sigcse10-bofs", "cs.xu.edu" );</script></p>
+Deborah Hwang<br/>
+University of Evansville<br />
+<script>write_email( "sigcse11-bofs", "cs.cmu.edu" );</script></p>
 
+<?php include("../parts/middle.php"); ?>
 
+<?php include("../parts/authors_right.php"); ?>
+
+    
 <?php
   $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );
-  include("../parts/bottom.php");
- ?>
+  include("../parts/footer.php");
+ ?>        
+    

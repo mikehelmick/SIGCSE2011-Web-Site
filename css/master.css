@@ -125,6 +125,61 @@ div#signout {
 	margin-left: 70px;
 }
 
+div#subnav {
+	background: #AAAAAA; 
+	width: 100%;
+	border-bottom: 2px solid #666666;
+	color: #000000;
+	text-align: left;
+}
+
+
+div#subnav ul {
+	display: block;
+	list-style: none;
+	margin: 0px auto;
+	max-width: 900px;
+	text-align: left;
+}
+
+div#subnav li {
+	display: inline;
+	float: left;
+	padding: 6px 6px 6px 6px;
+	margin: 0px 2px 0 0;
+}
+
+div#subnav ul li a#current {
+	color: #FFFFFF;
+	background-color: #273A8B;
+	padding: 6px 6px 6px 6px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+div#subnav ul li a#current:hover {
+	background-color: #273A8B;	
+}
+
+div#subnav ul li a {
+	text-decoration: none;
+	color: #000000;
+	background-color: #AAAAAA;
+	padding: 6px 6px 6px 6px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+div#subnav ul li a:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+	background-color: #FF0017;
+}
+
 div#navigation {
 	background: #FFFFFF; 
 	width: 100%;

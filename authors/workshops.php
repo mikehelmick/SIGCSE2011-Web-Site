@@ -1,14 +1,11 @@
 <?php
- $title = "SIGCSE 2010 - Workshop Submission Guidelines";
- $menu = "presenters";
+ $title = "SIGCSE 2011 - Workshop Submission Guidelines";
+ $menu = "authors";
+ $submenu = "workshops";
+ $include_submenu = "authors_submenu.php";
  include("../parts/top.php");
 ?>        <!-- <h2>Important Dates</h2> -->
-        
-     
-<?php include("../parts/presenters_left.php"); ?>
-        
-
-<?php include("../parts/middle.php"); ?>        
+              
 
 	         <!-- right area -->
 <h1>Workshop Submission Guidelines</h1>             
@@ -20,7 +17,7 @@
   <td width="50%" align="left" valign="top">
   <h3>Contents:</h3>
   <ul>  
-    <li><a href="#what">What Is A Workshop?</a></li>
+    <li><a href="#what">What Is a Workshop?</a></li>
     <li><a href="#labs">Hands-On Lab-Based Workshops</a></li>
     <li><a href="#format">How Should The Proposal Be Formatted?</a></li>
     <li><a href="#submit">How Do I Submit My Proposal?</a></li>
@@ -33,19 +30,19 @@
       
       <table>
        <tr>
-        <td align="left">Submission Deadline:</td><td align="left" nowrap="nowrap">September 11, 2009</td>
+        <td align="left">Submission Deadline:</td><td align="left" nowrap="nowrap">September 10, 2010</td>
        </tr>
        <tr><td align="right" colspan="2">
 @11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
        </tr>
        <tr>
-  	    <td align="left">Presenter Notification:</td><td align="left">October 24, 2009</td>
+  	    <td align="left">Presenter Notification:</td><td align="left">TBA</td>
        </tr>
        <tr>
- 	    <td align="left">Updates to Titles, Authors, &amp; Abstracts Due:</td><td align="left">November 9, 2009</td>
+ 	    <td align="left">Updates to Titles, Authors, &amp; Abstracts Due:</td><td align="left">TBA</td>
        </tr>
        <tr>
-  	    <td align="left">Software Distribution URLs (for Hands-On Labs) Due:</td><td align="left">tbd</td>
+  	    <td align="left">Software Distribution URLs (for Hands-On Labs) Due:</td><td align="left">TBA</td>
        </tr>
       </table>
     </div>
@@ -66,7 +63,7 @@
              with handouts outlining the workshop material.
              We plan to support a number of workshops involving
              <a href="#labs">hands-on computer use by participants</a>.
-             All SIGCSE 2010 workshops will be half-day workshops (3 hours).
+             All SIGCSE 2011 workshops will be half-day workshops (3 hours).
             </p>
 
             <p>
@@ -74,13 +71,10 @@
             blind review.  Proposals are evaluated for
             <strong>relevance, anticipated interest, quality,
             and availability of appropriate facilities</strong>.
-            You may want to review the list of SIGCSE 2009 workshops (
-            <a href="http://db.grinnell.edu/sigcse/sigcse2009/Program/viewAcceptedDayTime.asp?timeID=90">1-14</a>,
-            <a href="http://db.grinnell.edu/sigcse/sigcse2009/Program/viewAcceptedDayTime.asp?timeID=290">15-26</a>,
-            <a href="http://db.grinnell.edu/sigcse/sigcse2009/Program/viewAcceptedDayTime.asp?timeID=370">27-36</a>,
-            and 
-            <a href="http://db.grinnell.edu/sigcse/sigcse2009/Program/viewAcceptedDayTime.asp?timeID=390">37</a>
-            ) prior to submitting a proposal.
+            You may want to review the list of SIGCSE 2010 workshops 
+            (<a href="http://db.grinnell.edu/sigcse/sigcse2010/Program/viewAcceptedDayTime.asp?timeID=25264">1-14</a>,
+            <a href="http://db.grinnell.edu/sigcse/sigcse2010/Program/viewAcceptedDayTime.asp?timeID=45264">15-27</a>, and
+            <a href="http://db.grinnell.edu/sigcse/sigcse2010/Program/viewAcceptedDayTime.asp?timeID=53345">28-39</a>) prior to submitting a proposal.
             </p>
 
             <p>
@@ -96,7 +90,7 @@
 
 
             <p>
-            <strong>All</strong> hands-on workshops at SIGCSE 2010 will
+            <strong>All</strong> hands-on workshops at SIGCSE 2011 will
             use participants' laptop computers at the conference site.  
             The Symposium Committee will help
             presenters distribute workshop software to participants
@@ -230,13 +224,13 @@
                    </p>
 
                    <ul>
-                     <li> <a href="/sigcse2010/downloads/workshopProposalsample.doc" onclick="target='newwindow'">Workshop Proposal Example (Word)</a>
+                     <li> <a href="/sigcse2011/downloads/workshopProposalsample.doc" onclick="target='newwindow'">Workshop Proposal Example (Word)</a>
                           </li>
-                     <li> <a href="/sigcse2010/downloads/workshopProposalsample.pdf" onclick="target='newwindow'">Workshop Proposal Example (PDF)</a>
+                     <li> <a href="/sigcse2011/downloads/workshopProposalsample.pdf" onclick="target='newwindow'">Workshop Proposal Example (PDF)</a>
                           </li>
                    </ul>
 
-                   </li>
+                   </li><br/>
 
               <li> <strong>Workshop Proposal Abstract (Limited to 100 words)</strong>
 
@@ -267,7 +261,7 @@
 
               <li> Submit the <tt>.pdf</tt> proposal and the 100-word text
                    abstract description using the
-                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/submission.shtml">online Workshop Submission Form</a>.
+                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">online Workshop Submission Form</a>.
                    Note that the text version of the abstract is for the
                    online program, and will also be formatted to appear
                    in the printed program and proceedings.  The proposal,
@@ -287,9 +281,9 @@
                    </li>
 
               <li> After receiving confirmation, go to the
-                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/submission.shtml">Author Verification Form</a>
+                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a>
                    to review your submission for accuracy.  Send e-mail to
-                   Ruth E. Anderson and Lisa Kaczmarczyk (<script>write_email( "sigcse10-workshops", "cs.xu.edu" );</script>) if there are any problems.
+                   Ruth E. Anderson and Adrienne Decker (<script>write_email( "sigcse11-workshops", "cs.cmu.edu" );</script>) if there are any problems.
                    Warning! Several authors have reported problems viewing
                    their PDF files using Internet Explorer.
                    If you experience similar problems, it is best
@@ -301,7 +295,7 @@
             <p>
             <strong><i>Deadline:</i></strong>
             All electronic submissions must be <strong>received</strong>
-            by <strong class="warning">September 11, 2009</strong>
+            by <strong class="warning">September 10, 2010</strong>
             at 23:59 (11:59 p.m.) Hawaii-Aleutian Standard Time (HST).
             </p>
 
@@ -314,18 +308,24 @@
 </div></div>   
 
 
-<p>Please contect the SIGCSE 2010 Workshops Co-Chairs with your questions:
-<script>write_email( "sigcse10-workshops", "cs.xu.edu" );</script></p>
+<p>Please contect the SIGCSE 2011 Workshops Co-Chairs with your questions:
+<script>write_email( "sigcse11-workshops", "cs.cmu.edu" );</script></p>
 
 <table border="0"><tr>
 <td><p>Ruth E. Anderson<br/> 
 University of Washington</p>
 </td><td> 
-<p>Lisa Kaczmarczyk<br/>
-University of California, San Diego</p>
+<p>Adrienne Decker<br/>
+University at Buffalo (SUNY)</p>
 </td></tr></table>
 
+
+<?php include("../parts/middle.php"); ?>
+
+<?php include("../parts/authors_right.php"); ?>
+
+    
 <?php
   $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );
-  include("../parts/bottom.php");
+  include("../parts/footer.php");
  ?>

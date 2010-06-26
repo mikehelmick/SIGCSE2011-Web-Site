@@ -8,6 +8,11 @@
     <li><a href="/sigcse2011/exhibitors/" <?php if ($menu == "exhibitors") echo "id=\"current\""; ?>>
 	    Exhibitors/Supporters</a></li>  
       
+     <li><a href="/sigcse2011/faq/" <?php if ($menu == "faq") echo "id=\"current\""; ?>>
+	    FAQ</a></li>   
+        
+     <li><a href="/sigcse2011/committee/" <?php if ($menu == "committee") echo "id=\"current\""; ?>> Committee</a></li>
+      
   </ul>
-
+  
 </div>

@@ -5,7 +5,9 @@
  include("../parts/top.php");
 ?>        <!-- <h2>Important Dates</h2> -->
      
-<p>SIGCSE 2011 <a href="/sigcse2011/exhibitors/downloads/SIGCSE_EP11.pdf" target="_blank"> Invitation to Exhibit / Conference Support Opportunities</a></p>
+<p>SIGCSE 2011 <a href="/sigcse2011/exhibitors/downloads/SIGCSE_EP11.pdf" target="_blank"> Invitation to Exhibit / Conference Support Opportunities (PDF)</a><br />
+<a href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.sigcse.org%2Fsigcse2011%2Fexhibitors%2Fdownloads%2FSIGCSE_EP11.pdf">View online with Google docs Viewer</a>
+</p>
 
 <div class="SectionHeader"><div class="Full">
 <h2>Exhibitors and Supporters</h2>
@@ -115,8 +117,8 @@ E-mail: <script>write_email( "SIGCSE", "dlplan.com" );</script>
 <?php include("../parts/middle.php"); ?>  
 
 <h2>Have a question?</h2>
-<p>Find the appropriate SIGCSE 2010 
-<a href="/sigcse2010/committee/">program committee member</a> 
+<p>Find the appropriate SIGCSE 2011
+<a href="/sigcse2011/committee/">program committee member</a> 
 and send us an email.</p>
             
  <?php

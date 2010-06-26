@@ -1,16 +1,12 @@
 
 <?php
- $title = "SIGCSE 2010 - Creating PDF Documents";
- $menu = "presenters";
+ $title = "SIGCSE 2011 - Creating PDF Documents";
+ $menu = "authors";
+ $include_submenu = "authors_submenu.php";
  include("../parts/top.php");
 ?>        <!-- <h2>Important Dates</h2> -->
      
        
-<?php include("../parts/presenters_left.php"); ?>
-        
-
-<?php include("../parts/middle.php"); ?>  
-
             <h1> Creating PDF Documents </h1>
 
             <p>
@@ -129,7 +125,13 @@
                    </li>
             </ul>
             
- <?php
+
+<?php include("../parts/middle.php"); ?>
+
+<?php include("../parts/authors_right.php"); ?>
+
+    
+<?php
   $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );
-  include("../parts/bottom.php");
- ?>           
+  include("../parts/footer.php");
+ ?>        

@@ -1,14 +1,12 @@
 <?php
- $title = "SIGCSE 2010 - No-show policy";
- $menu = "presenters";
+ $title = "SIGCSE 2011 - No-show policy";
+ $menu = "authors";
+ $submenu = "papers";
+ $include_submenu = "authors_submenu.php";
  include("../parts/top.php");
 ?>        <!-- <h2>Important Dates</h2> -->
      
-       
-<?php include("../parts/presenters_left.php"); ?>
-        
-
-<?php include("../parts/middle.php"); ?>        
+           
 
 	         <!-- right area -->
 <div class="SectionHeader"><div class="Full">
@@ -20,22 +18,28 @@ Submission of a paper, panel, special session, workshop, poster, working group, 
 This policy was approved by the SIGCSE Board in June of 2008.
 
 <div class="SectionHeader"><div class="Full">
-<h2>Questions on this policy as it relates to SIGCSE 2009?</h2>
+<h2>Questions on this policy as it relates to SIGCSE 2011?</h2>
 </div></div>   
 
-<p>Please contact SIGCSE 2010 Program Chairs:
-<script>write_email( "sigcse10-pcs", "cs.xu.edu" );</script></p>
-
-<table border="0"><tr>
-<td><p>Thomas Cortina<br/> 
-Carnegie Mellon University</p>
+<p>Please contact SIGCSE 2011 Program Chairs: <script>write_email( "sigcse11-program", "cs.cmu.edu" );</script>
+</p>
+<table border="0" cellpadding="20px"><tr>
+<td><p>Laurie Smith King<br/> 
+College of the Holy Cross</p>
 </td><td> 
-<p>Ellen Walker<br/>
-Hiram College</p>
-</td></tr></table>
+<p>Dave Musicant<br/>
+Carleton College</p>
+</td></tr>
+</table>
+
+
+<?php include("../parts/middle.php"); ?>
+
+<?php include("../parts/authors_right.php"); ?>
 
     
 <?php
   $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );
-  include("../parts/bottom.php");
- ?>
+  include("../parts/footer.php");
+ ?>  
+    
