@@ -5,9 +5,11 @@
  include("../parts/top.php");
 ?>        <!-- <h2>Important Dates</h2> -->
      
-<p>SIGCSE 2011 <a href="/sigcse2011/exhibitors/downloads/SIGCSE_EP11.pdf" target="_blank"> Invitation to Exhibit / Conference Support Opportunities (PDF)</a><br />
+<div class="GoodMessage">
+<p>SIGCSE 2011 <a href="/sigcse2011/exhibitors/downloads/SIGCSE_EP11.pdf" target="_blank"> Invitation to Exhibit / Conference Support Opportunities (PDF)</a> | 
 <a href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.sigcse.org%2Fsigcse2011%2Fexhibitors%2Fdownloads%2FSIGCSE_EP11.pdf">View online with Google docs Viewer</a>
 </p>
+</div>
 
 <div class="SectionHeader"><div class="Full">
 <h2>Exhibitors and Supporters</h2>
@@ -80,6 +82,17 @@
 <div class="SectionHeader"><div class="Full">
 <h2>SIGCSE 2011 Supporters and Exhibitors</h2>
 </div></div> 
+
+<table width="100%">
+<tr>
+ <td align="center" valign="top"><h3>Platinum Supporters</h3></td>
+</tr>
+<tr>
+ <td align="center" valign="top">
+   <a href="http://www.intel.com/education/" alt="Intel Education"> <img src="/sigcse2011/images/logos/sponsors/intel.png" /></a>
+ </td>
+</tr>
+</table>
 
 <div class="SectionHeader"><div class="Full">
 <h2>In-Kind Donations</h2>

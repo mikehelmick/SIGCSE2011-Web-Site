@@ -16,14 +16,23 @@ to develop, implement and/or evaluate computing programs, curricula, and courses
 The symposium provides a forum for sharing new ideas for syllabi, laboratories, 
 and other elements of teaching and pedagogy, at all levels of instruction.</p>
 
-<p>We encourage participation that addresses our theme, "reaching out". We need to reach out 
-to colleagues in other fields, to develop interdisciplinary courses and research projects that 
-integrate computer science and other fields, which enriches both. We need to reach out to create 
-programs that attract and educate the next generation of computer scientists, especially currently 
-underserved populations. We need to reach out to policy makers, educating them on the importance 
-and promise of our discipline. Finally, we need to reach out to each other, as always sharing 
-our best ideas and experiences with the SIGCSE community. We invite those interested in 
-computer science education and computer science education research to contribute to SIGCSE 2011.</p>
+<p>We encourage participation that addresses our theme, "reaching out". We need to reach out to colleagues in other fields, to develop interdisciplinary courses and research projects that integrate computer science and other fields, which enriches both. We need to reach out to create programs that attract and educate the next generation of computer scientists, especially currently underserved populations. We need to reach out to policy makers, educating them on the importance and promise of our discipline. Finally, we need to reach out to each other, as always sharing our best ideas and experiences with the SIGCSE community. We invite those interested in computer science education and computer science education research to contribute to SIGCSE 2011.</p>
+
+<div class="SectionHeader"><div class="Full">
+<h2>SIGCSE 2011 Supporters</h2>
+</div></div>
+
+<table width="100%">
+<tr>
+ <td align="center" valign="top"><h3>Platinum Supporters</h3></td>
+</tr>
+<tr>
+ <td align="center" valign="top">
+   <a href="http://www.intel.com/education/" alt="Intel Education"> <img src="/sigcse2011/images/logos/sponsors/intel.png" /></a>
+ </td>
+</tr>
+</table>
+
 
 <?php include("parts/middle.php"); ?> 
 
