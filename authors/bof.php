@@ -35,10 +35,10 @@
 @11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
        </tr>
        <tr>
-  	    <td align="left">Acceptance Notification:</td><td align="left" nowrap="nowrap">TBA</td>
+  	    <td align="left">Acceptance Notification:</td><td align="left" nowrap="nowrap">November 22, 2010</td>
        </tr>
        <tr>
- 	    <td align="left">Updates to BOF Title, Proposer &amp; Abstract:</td><td align="left">TBA</td>
+ 	    <td align="left">Updates to BOF Title, Proposer &amp; Abstract:</td><td align="left">December 6, 2010</td>
        </tr>
        <tr><td align="right" colspan="2">
 @11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
@@ -191,7 +191,8 @@
                    </li>
 
               <li> Submit the PDF version of your proposal using the
-                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Birds of a Feather online submission form</a>.
+                   <!-- <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Birds of a Feather online submission form</a>. -->
+                   <i>Birds of a Feather online submission form (coming August 2010).</i>
                    Recall that you will also need to cut-and-paste or type
                    your 1000-character text abstract description into a text box
                    during the submission process.  Please do not wait until
@@ -209,7 +210,8 @@
                    </li>
 
               <li> After receiving confirmation, go to the
-                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a>
+                   <!-- <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a> -->
+                   <i>Author Verification Form (coming August 2010).</i>
                    to review your submission for accuracy.
                    Send e-mail to
                    Deborah Hwang <script>write_email( "sigcse11-bofs", "cs.cmu.edu" );</script>

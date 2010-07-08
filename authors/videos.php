@@ -34,10 +34,10 @@
 @11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
        </tr>
        <tr>
-  	    <td align="left">Author Notification:</td><td align="left">TBA</td>
+  	    <td align="left">Author Notification:</td><td align="left">November 22, 2010</td>
        </tr>
        <tr>
- 	    <td align="left">High Quality Submission:</td><td align="left">TBA</td>
+ 	    <td align="left">High Quality Submission:</td><td align="left">December 6, 2010</td>
        </tr>
       </table>  
     </div>

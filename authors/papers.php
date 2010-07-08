@@ -38,13 +38,13 @@
 @11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
        </tr>
        <tr>
-  	    <td align="left">Author Notification:</td><td align="left">TBD</td>
+  	    <td align="left">Author Notification:</td><td align="left">October 24, 2010</td>
        </tr>
        <tr>
- 	    <td align="left">Updates to Paper Title &amp; Authors:</td><td align="left">TBD</td>
+ 	    <td align="left">Updates to Paper Title &amp; Authors:</td><td align="left">November 8, 2010</td>
        </tr>
        <tr>
-  	    <td align="left">Camera-Ready Copy:</td><td align="left">TBD</td>
+  	    <td align="left">Camera-Ready Copy:</td><td align="left">December 6, 2010</td>
        </tr>
       </table>
     </div>
@@ -301,8 +301,9 @@ done in this area as reported in [1]."</p>
                    <a href="creating_pdf.php">Creating Adobe PDF Documents page</a>
                    for assistance.
                    </li>
-
-              <li> Submit both versions using the <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">online Paper Submission Form</a>.
+                   <li> Submit both versions using the
+	<!-- a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">online Paper Submission Form</a>. -->
+						<i>online Paper Submission Form (coming August 2010).</i>
                    Note that there are several ways you must categorize
                    your paper submission in the online system. The broad
                    classification you choose allows the reviewer to
@@ -330,7 +331,9 @@ done in this area as reported in [1]."</p>
                    acceptance or rejection notification.
                    </li>
 
-              <li> After receiving confirmation, go to the <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a>
+              <li> After receiving confirmation, go to the 
+<!--	               <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a> -->
+					<i>Author Verification Form (coming August 2010).</i>
                    to review your submission for accuracy.  Send e-mail to
                    <a href="mailto:sigcse11-program@cs.cmu.edu">sigcse11-program@cs.cmu.edu</a>
                    (Laurie Smith King and Dave Musicant) if there are any

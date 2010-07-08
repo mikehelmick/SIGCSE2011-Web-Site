@@ -35,13 +35,13 @@
 Hawaii-Aleutian Standard</td>
        </tr>
        <tr>
-  	    <td align="left">Author Notification:</td><td align="left">TBA</td>
+  	    <td align="left">Author Notification:</td><td align="left">October 24, 2010</td>
        </tr>
        <tr>
- 	    <td align="left">Updates to Panel Title &amp; Presenters:</td><td align="left">TBA</td>
+ 	    <td align="left">Updates to Panel Title &amp; Presenters:</td><td align="left">November 8, 2010</td>
        </tr>
        <tr>
-  	    <td align="left">Camera-Ready Copy:</td><td align="left">TBA</td>
+  	    <td align="left">Camera-Ready Copy:</td><td align="left">December 6, 2010</td>
        </tr>
       </table>
     </div>
@@ -200,7 +200,8 @@ Hawaii-Aleutian Standard</td>
                    </li>
 
               <li> Submit the PDF version of your proposal using the
-                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">online Submission Form</a>.
+<!--                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">online Submission Form</a>. -->
+					<i>online Submission Form (coming August 2010).</i>
                    Note that there are several
                    ways you must categorize your proposal submission in
                    the online system.  These categories are used to select
@@ -225,7 +226,8 @@ Hawaii-Aleutian Standard</td>
                    </li>
 
               <li> After receiving confirmation, go to the
-                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a>
+<!--                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a> -->
+					<i>Author Verification Form (coming August 2010).</i>
                    to review your submission for accuracy.
                    Send e-mail to
                    <script>write_email( "sigcse11-panels", "cs.cmu.edu" );</script> or

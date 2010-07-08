@@ -37,10 +37,10 @@
 @11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
        </tr>
        <tr>
-  	    <td align="left">Author Notification:</td><td align="left" nowrap="nowrap">TBA</td>
+  	    <td align="left">Author Notification:</td><td align="left" nowrap="nowrap">November 22, 2010</td>
        </tr>
        <tr>
- 	    <td align="left">Updates to Titles, Authors, &amp; Abstracts Due:</td><td align="left">TBA</td>
+ 	    <td align="left">Updates to Titles, Authors, &amp; Abstracts Due:</td><td align="left">December 6, 2010</td>
        </tr>
       </table>
     </div>
@@ -107,7 +107,7 @@
 
             <p>
             Suggestions for poster design are given in
-            <a href="http://www.acm.org/crossroads/xrds3-2/posters.html"> Research Posters 101</a>.
+            <a href="http://xrds.acm.org/article.cfm?aid=332138"> Research Posters 101</a>.
             (Although these suggestions were published for student
             researchers, the ideas are also applicable to posters
             for this conference.)
@@ -221,7 +221,8 @@
 
               <li> Submit your document and 1000-character text abstract
                    description using the
-                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">online Poster Submission Form</a>.
+<!--                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">online Poster Submission Form</a>. -->
+					<i>online Poster Submission Form (coming August 2010).</i>
                    Please do not wait until the last minute to submit your
                    document because that is when everyone else will be
                    connecting to our server!
@@ -237,7 +238,8 @@
                    </li>
 
               <li> After receiving confirmation, go to the
-                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a>
+<!--                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a> -->
+					<i>Author Verification Form (coming August 2010).</i>
                    to review your submission for accuracy.  Send e-mail to
                    Tzu-Yi Chen (<script>write_email( "sigcse11-posters", "cs.cmu.edu" );</script>) if there are any problems.
                    Warning! Several authors have reported problems viewing

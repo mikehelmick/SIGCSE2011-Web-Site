@@ -18,12 +18,12 @@
       
       <table>
        <tr>
-        <td align="left" valign="top">Submission Deadline:</td><td align="left">TBA<br />
+        <td align="left" valign="top">Submission Deadline:</td><td align="left">September 26, 2010<br />
 @11:59 p.m. HST<br />
 Hawaii-Aleutian Standard</td>
        </tr>
        <tr>
-        <td align="left">Author Notification:</td><td align="left">TBA</td>
+        <td align="left">Author Notification:</td><td align="left">November 30, 2010</td>
        </tr>
       </table>
     </div>
