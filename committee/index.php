@@ -16,7 +16,6 @@
       <tr><td align="left" valign="top">
 	Thomas Cortina<br /> 
 	Carnegie Mellon University<br /> 
-    <script>write_email( "sigcse11-symposium", "cs.cmu.edu" );</script>
     <hr/>
 	Ellen Walker<br /> 
 	Hiram College<br />
@@ -205,7 +204,7 @@
 	<script>write_email( "sigcse11-kidscamp", "cs.cmu.edu" );</script>
       </td>
       <td  valign="top" align="center"><img src="/sigcse2011/images/committee/Kim_Voll.JPG" /></td>
-      <td valign="top" align="center"> </td></tr>
+      <td valign="top" align="center"><img src="/sigcse2011/images/committee/Roxann_Stalvey-4.jpg" /></td></tr>
 
       <tr class="header"><td align="left" valign="top" colspan="3">
 	    <strong>Support/Exhibitor Liaison</strong>
@@ -216,7 +215,7 @@
 	<script>write_email( "sigcse11-exhibitor", "cs.cmu.edu" );</script>
       </td>
       <td valign="top" align="center"></td>
-      <td>&nbsp;</td></tr>
+      <td><img src="/sigcse2011/images/committee/Susan_Rodger.jpg" /></td></tr>
 
       <tr class="header"><td align="left" valign="top" colspan="3">
 	    <strong>K-12 Liaisons</strong>
