@@ -1,8 +1,6 @@
 <h2>News</h2>
 <ul>
-  <li>The SIGCSE 2011 Logo has been selected<br />
-  <img src="/sigcse2011/logo/sigcse2011.png" alt="SIGCSE 2011 Logo"/>
-</li>
+  <li>July 10th, 2010: Information for authors and reviewers has been posted. The submission site is not yet live, but will be well in advance of the submision due date.</li>
 </ul>
 
 <h2>Connect</h2>

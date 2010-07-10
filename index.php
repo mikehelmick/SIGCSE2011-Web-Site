@@ -24,11 +24,14 @@ and other elements of teaching and pedagogy, at all levels of instruction.</p>
 
 <table width="100%">
 <tr>
- <td align="center" valign="top"><h3>Platinum Supporters</h3></td>
+ <td align="center" valign="top" colspan="2"><h3>Platinum Supporters</h3></td>
 </tr>
 <tr>
- <td align="center" valign="top">
-   <a href="http://www.intel.com/education/" alt="Intel Education"> <img src="/sigcse2011/images/logos/sponsors/intel.png" /></a>
+ <td align="center" valign="middle">
+   <a href="http://www.intel.com/education/" alt="Intel Education"><img src="/sigcse2011/images/logos/sponsors/intel.png" /></a>
+ </td>
+ <td align="center" valign="middle">
+   <a href="http://www.microsoft.com/education/highered/faculty/" alt="Microsoft Highered"><img src="/sigcse2011/images/logos/sponsors/microsoft.png" /></a>
  </td>
 </tr>
 </table>

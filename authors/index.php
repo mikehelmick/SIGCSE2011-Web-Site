@@ -11,7 +11,6 @@
 <a href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.sigcse.org%2Fsigcse2011%2Fauthors%2Fdownloads%2Fsigcse11-cfp.pdf">View CFP online with Google docs Viewer</a>
 </div>
 
-<div class="errorExplanation"><b>AUTHOR SUBMISSION INSTRUCTIONS WILL BE POSTED BY MID JULY</b></div>
 
 
 <h1>CALL FOR PARTICIPATION</h1>
