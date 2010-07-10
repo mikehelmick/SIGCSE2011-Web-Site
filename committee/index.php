@@ -1,6 +1,6 @@
 <?php
  $title = "SIGCSE 2011 - Home";
- $menu = "home";
+ $menu = "committee";
  include("../parts/top.php");
 ?>
 
@@ -21,7 +21,7 @@
 	Hiram College<br />
 	<script>write_email( "sigcse11-symposium", "cs.cmu.edu" );</script>
 	  </td>
-      <td valign="top" align="center"><img src="/sigcse2011/images/committee/Tom_Cortina.JPG" /></td>
+      <td valign="top" align="center"><img src="/sigcse2011/images/committee/Tom_Cortina.jpg" /></td>
       <td valign="top" align="center"><img src="/sigcse2011/images/committee/ellen.jpg" /></td></tr>
       
       <tr class="header"><td align="left" valign="top" colspan="3">
@@ -203,7 +203,7 @@
 	College of Charleston<br/>
 	<script>write_email( "sigcse11-kidscamp", "cs.cmu.edu" );</script>
       </td>
-      <td  valign="top" align="center"><img src="/sigcse2011/images/committee/Kim_Voll.JPG" /></td>
+      <td  valign="top" align="center"><img src="/sigcse2011/images/committee/Kim_Voll.jpg" /></td>
       <td valign="top" align="center"><img src="/sigcse2011/images/committee/Roxann_Stalvey-4.jpg" /></td></tr>
 
       <tr class="header"><td align="left" valign="top" colspan="3">
@@ -230,8 +230,8 @@
 	Arlington, Texas<br/>
 	<script>write_email( "sigcse11-k12", "cs.cmu.edu" );</script>
 	  </td>
-      <td valign="top" align="center"><img src="/sigcse2011/images/committee/Stacey_Armstrong.JPG"  /></td>
-      <td valign="top" align="center"><img src="/sigcse2011/images/committee/JudyHromcik.JPG" /></td></tr>
+      <td valign="top" align="center"><img src="/sigcse2011/images/committee/Stacey_Armstrong.jpg"  /></td>
+      <td valign="top" align="center"><img src="/sigcse2011/images/committee/JudyHromcik.jpg" /></td></tr>
 
       <tr class="header"><td align="left" valign="top" colspan="3">
 	    <strong>International Liaison</strong>
@@ -241,7 +241,7 @@
 	University of Canterbury<br/>
 	<script>write_email( "sigcse11-international", "cs.cmu.edu" );</script>
       </td>
-      <td valign="top" align="center"><img src="/sigcse2011/images/committee/Tim_Bell.JPG" /></td>
+      <td valign="top" align="center"><img src="/sigcse2011/images/committee/Tim_Bell.jpg" /></td>
       <td>&nbsp;</td></tr>
 
       <tr class="header"><td align="left" valign="top" colspan="3">
@@ -263,7 +263,7 @@
 	Texas Women's University<br/>
 	<script>write_email( "jzhang", "mail.twu.edu" );</script>
       </td>
-      <td valign="top" align="center"><img src="/sigcse2011/images/committee/Jian_Zhiang.JPG" /></td>
+      <td valign="top" align="center"><img src="/sigcse2011/images/committee/Jian_Zhiang.jpg" /></td>
       <td>&nbsp;</td></tr>
 
       <tr class="header"><td align="left" valign="top" colspan="3">
