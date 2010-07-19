@@ -18,12 +18,12 @@
       
       <table>
        <tr>
-        <td align="left" valign="top">Submission Deadline:</td><td align="left">September 26, 2010<br />
-@11:59 p.m. HST<br />
-Hawaii-Aleutian Standard</td>
+        <td align="left" valign="top">Submission Deadline:</td><td align="left">September 27, 2010<br />
+@ 5:00 p.m. EDT<br />
+Eastern Daylight Time</td>
        </tr>
        <tr>
-        <td align="left">Author Notification:</td><td align="left">November 30, 2010</td>
+        <td align="left">Author Notification:</td><td align="left">November 13, 2010</td>
        </tr>
       </table>
     </div>
