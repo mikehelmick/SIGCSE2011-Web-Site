@@ -50,7 +50,7 @@
               <li> <strong>For New Reviewers</strong> <i>Review signup will be posted at later date.</i><br/>
 
 
-                   If you are interested in reviewing papers for SIGCSE 2010,
+                   If you are interested in reviewing papers for SIGCSE 2011,
                    you are invited to complete the
                    <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/reviewerRegistration.shtml">Reviewer Information Form</a>.
                    Please limit yourself to areas in which you feel somewhat
@@ -68,7 +68,7 @@
                      <li> If you would like to update the information
                           in the database, go to the
                           <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/reviewerRegistration.shtml">Reviewer Information Form</a>
-                          by <strong class="warning">September 11, 2009</strong>.
+                          by <strong class="warning">September 10, 2010</strong>.
                           Please select your areas of reviewing carefully,
                           limiting yourself to areas in which you have
                           expertise.
