@@ -108,7 +108,7 @@ least amount of time.</li>
 </div></div>
 
 <p>Video Submissions are to be provided in PDF format. The submission
-contains an up to 1000-character video promotional blurb (description)
+contains an up to 800-character video promotional blurb (description)
 which must also be entered into a text box on the submission page. The
 procedure for the Video Submission is as follows.</p>
 
@@ -130,12 +130,12 @@ conference software are sometimes blocked.</li>
       <li>Approximate runtime: approximate run time of video
 [minutes:seconds] (precise times are OK)</li>
       <li>YouTube URLs: the complete link(s) to your video on YouTube</li>
-      <li>Promotional Blurb (Description): 1000 character promotion
+      <li>Promotional Blurb (Description): 800 character promotion
 of the video. Please ensure both submitted copies (here, in the Video
 Submission PDF, and in the submission text box) are exactly the same.</li>
     </ol>
   </li>
-  <li>Submission text box Video Promotional Blurb (limited to 1000 characters):<br/>
+  <li>Submission text box Video Promotional Blurb (limited to 800 characters):<br/>
 
      The Video Promotional Blurb is the 'description' of the video
 that will appear on the conference web pages and in promotional

@@ -177,18 +177,18 @@
                           A description of the expected content of the poster.
                           </li>
                      <li> <strong>Abstract (Description)</strong>:
-                          The abstract is a short (1000 characters) description of
+                          The abstract is a short (800 characters) description of
                           your poster.
                           </li>
                    </ol>
                    </li><br/>
 
-              <li> <strong>Poster Abstract (limited to 1000 characters)</strong>
+              <li> <strong>Poster Abstract (limited to 800 characters)</strong>
 
                    <p style="font-size: 1.0em">
                    The abstract is the description of the poster that will
                    appear on the conference web pages.  The description
-                   is limited to 1000 characters and must match verbatim the
+                   is limited to 800 characters and must match verbatim the
                    abstract section of the Poster Proposal. 
                    The poster abstract must be submitted in plain text.
                    The abstract for an accepted proposal may contain a URL
@@ -219,7 +219,7 @@
                    for assistance.
                    </li>
 
-              <li> Submit your document and 1000-character text abstract
+              <li> Submit your document and 800-character text abstract
                    description using the
 <!--                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">online Poster Submission Form</a>. -->
 					<i>online Poster Submission Form (coming August 2010).</i>
