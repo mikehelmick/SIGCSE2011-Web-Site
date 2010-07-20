@@ -8,17 +8,138 @@
 
 <url>
   <loc>http://www.sigcse.org/sigcse2011/</loc>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2011/authors/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/reviewers/</loc>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2011/exhibitors/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/faq/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/committee/</loc>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2011/authors/downloads/sigcse11-cfp.pdf</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/papers.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/panels.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/special_sessions.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/student_research.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/workshops.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/videos.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/posters.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/bof.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/final_submission.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/format.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/no_show.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/creating_pdf.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/reviewers/guide_papers.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/reviewers/guide_panels.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/reviewers/guide_sessions.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/reviewers/guide_workshops.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/reviewers/guide_bofs.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/reviewers/guide_posters.php</loc>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2011/exhibitors/downloads/SIGCSE_EP11.pdf</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/visas.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/downloads/workshopProposalsample.doc</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/downloads/workshopProposalsample.pdf</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/downloads/SIGCSE2011VideoPermissionForm.doc</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/downloads/SIGCSE201VideoPermissionForm.pdf</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/downloads/BOFSample.doc</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/downloads/BOFSample.pdf</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/reviewers/metareviews.php</loc>
+  <changefreq>daily</changefreq>
 </url>
 </urlset>
