@@ -1,5 +1,5 @@
 <?php
- $title = "SIGCSE 2010 - Search Page";
+ $title = "SIGCSE 2011 - Search Page";
  $menu = "";
  include("parts/top.php");
 ?>        <!-- <h2>Important Dates</h2> -->
@@ -7,7 +7,6 @@
        
       
 	         <!-- right area -->
-             <div id="GoodMessage">Your search results.</div>
              
 <div id="cse-search-results"></div>
 <script type="text/javascript">
@@ -18,6 +17,7 @@
   var googleSearchPath = "/cse";
 </script>
 <script type="text/javascript" src="http://www.google.com/afsonline/show_afs_search.js"></script>
+
 
 <?php include("parts/middle.php"); ?> 
     
