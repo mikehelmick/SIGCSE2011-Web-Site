@@ -27,7 +27,7 @@
   </td>
   <td width="50%" align="center" valign="top">
     <div id="GoodMessage">
-      <h2><a name="kind">Importand Dates for Poster Authors</a></h2>
+      <h2><a name="kind">Important Dates for Poster Authors</a></h2>
       
       <table>
        <tr>
@@ -107,7 +107,7 @@
 
             <p>
             Suggestions for poster design are given in
-            <a href="http://xrds.acm.org/article.cfm?aid=332138"> Research Posters 101</a>.
+            <a href="http://doi.acm.org/10.1145/332132.332138"> Research Posters 101</a>.
             (Although these suggestions were published for student
             researchers, the ideas are also applicable to posters
             for this conference.)
