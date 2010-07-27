@@ -30,23 +30,24 @@
     <div id="GoodMessage">
       <h2><a name="kind">Importand Dates for Paper Authors</a></h2>
       
-      <table>
-       <tr>
-        <td align="left" valign="top">Submission Deadline:</td><td align="left">September 10, 2010</td>
-       </tr>
-       <tr><td align="right" colspan="2">
-@11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
-       </tr>
-       <tr>
-  	    <td align="left">Author Notification:</td><td align="left">TBA</td>
-       </tr>
-       <tr>
- 	    <td align="left">Updates to Paper Title &amp; Authors:</td><td align="left">TBA</td>
-       </tr>
-       <tr>
-  	    <td align="left">Camera-Ready Copy:</td><td align="left">TBA</td>
-       </tr>
-      </table>
+	      <table>
+	       <tr>
+	        <td align="left" valign="top">Submission Deadline:</td><td align="left">September 10, 2010</td>
+	       </tr>
+	       <tr><td align="right" colspan="2">
+	@11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
+	       </tr>
+	       <tr>
+	  	    <td align="left">Author Notification:</td><td align="left">October 24, 2010</td>
+	       </tr>
+	       <tr>
+	 	    <td align="left">Updates to Paper Title &amp; Authors:</td><td align="left">November 8, 2010</td>
+	       </tr>
+	       <tr>
+	  	    <td align="left">Camera-Ready Copy:</td><td align="left">December 6, 2010</td>
+	       </tr>
+	      </table>
+	    </div>
     </div>
   
   </td>              

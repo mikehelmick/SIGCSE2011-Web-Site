@@ -40,9 +40,6 @@
        <tr>
  	    <td align="left">Updates to BOF Title, Proposer &amp; Abstract:</td><td align="left">December 6, 2010</td>
        </tr>
-       <tr><td align="right" colspan="2">
-@11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
-       </tr>
        
 
       </table>

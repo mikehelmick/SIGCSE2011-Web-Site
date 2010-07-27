@@ -53,7 +53,7 @@
            
            
 <div class="SectionHeader"><div class="Full">
-<h2><a name="what">What Is A workshop?</a></h2>
+<h2><a name="what">What Is a workshop?</a></h2>
 </div></div>          
 
             <p>
@@ -173,22 +173,22 @@
                           This should match verbatim the abstract described
                           below.
                           </li>
-                     <li> <strong>Intended audience</strong>:
+                     <li> <strong>Intended Audience</strong>:
                           For whom is this workshop intended?
                           </li>
-                     <li> <strong>Presenter(s) background/biography</strong>:
+                     <li> <strong>Presenter(s) Background/Biography</strong>:
                           Provide a brief biography addressing the
                           presenter(s) qualifications for leading the
                           proposed workshop.
                           </li>
-                     <li> <strong>Materials provided</strong>:
+                     <li> <strong>Materials Provided</strong>:
                           Describe any handouts, software or other materials
                           that will be provided to attendees.
                           </li>
                      <li> <strong>Rough Agenda for the Workshop</strong>:
                           Timing details would be helpful here.
                           </li>
-                     <li> <strong>Audio/Visual and Computer requirements</strong>:
+                     <li> <strong>Audio/Visual and Computer Requirements</strong>:
                           Indicate your A/V requirements, such as wireless
                           access, wired access, extra power outlets,
                           microphone, digital projector, overhead projector,
@@ -200,7 +200,7 @@
                           Windows).  Describe any special requirements
                           for attendees' computers.
                           </li>
-                     <li> <strong>Space and Enrollment restrictions</strong>:
+                     <li> <strong>Space and Enrollment Restrictions</strong>:
                           Please tell us the maximum number of participants
                           that you can accommodate.  If no limit is
                           specified, we will assume a cap of 30 participants.
@@ -211,7 +211,7 @@
                           (flip chart easels, clear floor space for robots,
                           etc.).
                           </li>
-                     <li> <strong>Other critical information</strong>:
+                     <li> <strong>Other Critical Information</strong>:
                           Other notes that will help to evaluate your
                           proposal according to the evaluation criteria
                           described above.
@@ -232,11 +232,11 @@
 
                    </li><br/>
 
-              <li> <strong>Workshop Proposal Abstract (Limited to 100 words)</strong>
+              <li> <strong>Workshop Proposal Abstract (Limited to 800 characters)</strong>
 
 <p>The abstract is the description of the workshop that will appear on the SIGCSE web page and is what participants will use to decide which workshops to attend. This year we are asking that you include information about the intended audience and computing requirements <b>in the abstract</b> to help readers make that choice.</p>
 
-<p>The description is limited to 100 words and must match verbatim the abstract section of the Full Workshop Proposal.</p>
+<p>The description is limited to 800 characters and must match verbatim the abstract section of the Full Workshop Proposal.</p>
 
 <p>The workshop proposal abstract must be submitted in plain text. The abstract for an accepted proposal may contain a URL with more information for participants. (Abstracts of accepted workshops can be edited in response to reviews for the camera-ready submission.)</p>
  

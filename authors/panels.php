@@ -266,8 +266,7 @@
 <b>Panels and Special Sessions</b><br/>
 	Pam Cutter<br/>
 	Kalamazoo College<br />
-	<script>write_email( "sigcse11-panels", "cs.cmu.edu" );</script><br />
-    <script>write_email( "sigcse11-specials", "cs.cmu.edu" );</script></p>
+	<script>write_email( "sigcse11-panels", "cs.cmu.edu" );</script></p>
           
 <?php include("../parts/middle.php"); ?>              
 

@@ -37,25 +37,15 @@ Eastern Daylight Time</td>
 <h2><a name="what">What is the Student Research Competition?</a></h2>
 </div></div>  
 
-         <p>
-            The 
-            <a href="http://www.acm.org/src/">ACM Student Research Competition</a>
-            that will be held at the
-            2011 SIGCSE conference will consist of two categories,
-            graduate and undergraduate, with prizes awarded based on
-            judging during the conference.  Research from all areas of
-            computer science qualifies.  Students must be ACM student
-            members in order to qualify for awards or travel grants.
-            </p>
+		<p>The <a href="http://www.acm.org/src/">ACM Student Research Competition</a> held at the 2011 SIGCSE conference will consist of two categories of competition, graduate and undergraduate, with prizes awarded based on judging during the conference. Research from all areas of computer science qualifies. Submissions must represent the work of a single student.  Students must be ACM student members to qualify for awards or travel grants.</p>
 
-            <p>
-            Judges will include professional computer scientists attending
+		<p>Judges will include professional computer scientists attending
             the conference activities.  Students' research will be evaluated
             on the quality and significance of the work, and the quality
             and clarity of both an oral and visual presentation.
             </p>
 
-            <p>
+            <p><img class="floatRight" alt="Microsoft Resarch Logo" src="/sigcse2011/images/logos/sponsors/ms_research.png" />
             The first round of the competition evaluates the research during
             a poster presentation.  Those students who are selected by the
             judges to advance to the second round will continue in the
@@ -128,7 +118,7 @@ Eastern Daylight Time</td>
             </ul>
 
             <p>
-            Include a separate paragraph (maximum of 100 words) for
+            Include a separate paragraph (maximum of 800 characters) for
             publication in the conference proceedings that serves as a
             succinct description of the project. 
             </p>
