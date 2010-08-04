@@ -313,8 +313,7 @@ done in this area as reported in [1]."</p>
                    to a reviewer who is familiar with the content of
                    your paper, choose one broad classification and at most three 
                    course-related and/or general topic areas that best fit your paper.
-                   <strong> Selection of more than three categories may
-                   result in automatic rejection of your paper.</strong>
+                   <strong>Selection of more than four content categories may result in automatic rejection of your paper.</strong>
                    </li>
 
               <li> Please do not wait until the last minute to submit your
