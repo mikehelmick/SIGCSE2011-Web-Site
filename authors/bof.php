@@ -188,8 +188,7 @@
                    </li>
 
               <li> Submit the PDF version of your proposal using the
-                   <!-- <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Birds of a Feather online submission form</a>. -->
-                   <i>Birds of a Feather online submission form (coming August 2010).</i>
+                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Birds of a Feather online submission form</a>.
                    Recall that you will also need to cut-and-paste or type
                    your 800-character text abstract description into a text box
                    during the submission process.  Please do not wait until
@@ -207,8 +206,7 @@
                    </li>
 
               <li> After receiving confirmation, go to the
-                   <!-- <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a> -->
-                   <i>Author Verification Form (coming August 2010).</i>
+                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a> 
                    to review your submission for accuracy.
                    Send e-mail to
                    Deborah Hwang <script>write_email( "sigcse11-bofs", "cs.cmu.edu" );</script>

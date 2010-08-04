@@ -200,8 +200,7 @@ Hawaii-Aleutian Standard</td>
                    </li>
 
               <li> Submit the PDF version of your proposal using the
-<!--                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">online Submission Form</a>. -->
-					<i>online Submission Form (coming August 2010).</i>
+                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">online Submission Form</a>. 
                    Note that there are several
                    ways you must categorize your proposal submission in
                    the online system.  These categories are used to select
@@ -226,9 +225,8 @@ Hawaii-Aleutian Standard</td>
                    </li>
 
               <li> After receiving confirmation, go to the
-<!--                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a> -->
-					<i>Author Verification Form (coming August 2010).</i>
-                   to review your submission for accuracy.
+                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a>
+				   to review your submission for accuracy.
                    Send e-mail to
                    <script>write_email( "sigcse11-panels", "cs.cmu.edu" );</script> or
     <script>write_email( "sigcse11-specials", "cs.cmu.edu" );</script>

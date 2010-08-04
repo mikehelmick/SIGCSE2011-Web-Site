@@ -261,8 +261,7 @@
 
               <li> Submit the <tt>.pdf</tt> proposal and the 100-word text
                    abstract description using the
-<!--                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">online Workshop Submission Form</a>. -->
-					<i>online Workshop Submission Form (coming August 2010).</i>
+                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">online Workshop Submission Form</a>. 
                    Note that the text version of the abstract is for the
                    online program, and will also be formatted to appear
                    in the printed program and proceedings.  The proposal,
@@ -282,9 +281,7 @@
                    </li>
 
               <li> After receiving confirmation, go to the
-<!--                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a> -->
-					<i>Author Verification Form (coming August 2010).</i>
-                   to review your submission for accuracy.  Send e-mail to
+                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a> to review your submission for accuracy.  Send e-mail to
                    Ruth E. Anderson and Adrienne Decker (<script>write_email( "sigcse11-workshops", "cs.cmu.edu" );</script>) if there are any problems.
                    Warning! Several authors have reported problems viewing
                    their PDF files using Internet Explorer.

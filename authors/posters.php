@@ -221,8 +221,7 @@
 
               <li> Submit your document and 800-character text abstract
                    description using the
-<!--                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">online Poster Submission Form</a>. -->
-					<i>online Poster Submission Form (coming August 2010).</i>
+                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">online Poster Submission Form</a>.
                    Please do not wait until the last minute to submit your
                    document because that is when everyone else will be
                    connecting to our server!
@@ -238,8 +237,7 @@
                    </li>
 
               <li> After receiving confirmation, go to the
-<!--                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a> -->
-					<i>Author Verification Form (coming August 2010).</i>
+                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Author Verification Form</a> 
                    to review your submission for accuracy.  Send e-mail to
                    Tzu-Yi Chen (<script>write_email( "sigcse11-posters", "cs.cmu.edu" );</script>) if there are any problems.
                    Warning! Several authors have reported problems viewing
