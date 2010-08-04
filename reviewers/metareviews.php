@@ -1,13 +1,8 @@
-
 <?php
- $title = "SIGCSE 2010 - Meta-rreviews";
+ $title = "SIGCSE 2011 - Meta-reviews";
  $menu = "reviewers";
  include("../parts/top.php");
-?>        <!-- <h2>Important Dates</h2> -->
-     
-<?php include("../parts/reviewers_left.php"); ?>            
-
-<?php include("../parts/middle.php"); ?>  
+?>      
 
 <h1>The Meta-Review Process for Paper Submissions</h1>
 
@@ -228,27 +223,26 @@
             </ol>
 
 
-
-
 <div class="SectionHeader"><div class="Full">
 <h2><a name="questions">Questions</a></h2>
 </div></div>   
 
+<p>Please contact SIGCSE 2011 Program Chairs: <script>write_email( "sigcse11-program", "cs.cmu.edu" );</script></p>
 
-<p>Please contact SIGCSE 2010 Program Chairs:
-<script>write_email( "sigcse10-pcs", "cs.xu.edu" );</script></p>
-
-<table border="0"><tr>
-<td><p>Thomas Cortina<br/> 
-Carnegie Mellon University</p>
+<table border="0" cellpadding="20px"><tr>
+<td><p>Laurie Smith King<br/> 
+College of the Holy Cross</p>
 </td><td> 
-<p>Ellen Walker<br/>
-Hiram College</p>
+<p>Dave Musicant<br/>
+Carleton College</p>
 </td></tr></table>
 
+<?php include("../parts/middle.php"); ?>
 
-            
- <?php
+<?php include("../parts/reviewers_right.php"); ?>
+
+    
+<?php
   $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );
-  include("../parts/bottom.php");
- ?>           
+  include("../parts/footer.php");
+ ?>       
