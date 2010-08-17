@@ -259,7 +259,7 @@
                    for assistance.
                    </li>
 
-              <li> Submit the <tt>.pdf</tt> proposal and the 100-word text
+              <li> Submit the <tt>.pdf</tt> proposal and the 800 characters text
                    abstract description using the
                    <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">online Workshop Submission Form</a>. 
                    Note that the text version of the abstract is for the
