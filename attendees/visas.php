@@ -1,6 +1,6 @@
 <?php
  $title = "SIGCSE 2011 - Visas";
- $menu = "";
+ $menu = "attendees";
  include("../parts/top.php");
 ?>        <!-- <h2>Important Dates</h2> -->
      
@@ -102,6 +102,8 @@
             </p>
             
 <?php include("../parts/middle.php"); ?>  
+
+<?php include("../parts/attendees_right.php"); ?>
 
     
 <?php

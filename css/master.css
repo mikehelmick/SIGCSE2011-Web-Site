@@ -106,6 +106,16 @@ img.floatRight {
     margin: 15px; 
 }
 
+.imgRight {
+	float: right;
+	padding-left: 20px;
+}
+
+img.headshot {
+	padding: 0 15px 15px 15px;
+}
+
+
 .noborder {
 	border: none;
 }
