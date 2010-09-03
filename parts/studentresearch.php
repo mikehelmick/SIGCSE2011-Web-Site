@@ -118,7 +118,7 @@ Eastern Daylight Time</td>
             </ul>
 
             <p>
-            Include a separate paragraph (maximum of 800 characters) for
+            Include a separate paragraph (maximum of 800 characters, including whitespace) for
             publication in the conference proceedings that serves as a
             succinct description of the project. 
             </p>

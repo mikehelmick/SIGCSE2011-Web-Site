@@ -169,7 +169,7 @@
                           </ol>
                           </li>
                      <li> <strong>Abstract (Description of the Workshop)</strong>:
-                          Describe your workshop in at most 800 characters.
+                          Describe your workshop in at most 800 characters (including whitespace).
                           This should match verbatim the abstract described
                           below.
                           </li>
@@ -232,11 +232,11 @@
 
                    </li><br/>
 
-              <li> <strong>Workshop Proposal Abstract (Limited to 800 characters)</strong>
+              <li> <strong>Workshop Proposal Abstract (Limited to 800 characters, including whitespace)</strong>
 
 <p>The abstract is the description of the workshop that will appear on the SIGCSE web page and is what participants will use to decide which workshops to attend. This year we are asking that you include information about the intended audience and computing requirements <b>in the abstract</b> to help readers make that choice.</p>
 
-<p>The description is limited to 800 characters and must match verbatim the abstract section of the Full Workshop Proposal.</p>
+<p>The description is limited to 800 characters (including whitespace) and must match verbatim the abstract section of the Full Workshop Proposal.</p>
 
 <p>The workshop proposal abstract must be submitted in plain text. The abstract for an accepted proposal may contain a URL with more information for participants. (Abstracts of accepted workshops can be edited in response to reviews for the camera-ready submission.)</p>
  
@@ -259,7 +259,7 @@
                    for assistance.
                    </li>
 
-              <li> Submit the <tt>.pdf</tt> proposal and the 800 characters text
+              <li> Submit the <tt>.pdf</tt> proposal and the 800 characters (including whitespace) text
                    abstract description using the
                    <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">online Workshop Submission Form</a>. 
                    Note that the text version of the abstract is for the

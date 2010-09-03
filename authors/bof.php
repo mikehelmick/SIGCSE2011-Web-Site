@@ -70,7 +70,7 @@
 
             <p>
             BOF proposals are to be provided in PDF format.  The full
-            proposal contains an up to 800-character BOF abstract (description)
+            proposal contains an up to 800-character (including whitespace) BOF abstract (description)
             which must also be entered into a text box on the submission
             page.  The format for the BOF proposal is as follows.
             </p>
@@ -96,7 +96,7 @@
                      <li> <strong>Title</strong>: A title for the BOF.
                           </li>
                      <li> <strong>Abstract (Description)</strong>:
-                          800 character description of the BOF.  The same abstract
+                          800 character (including whitespace) description of the BOF.  The same abstract
                           will also need to be submitted via a text box on the
                           submission page.  Please be sure that your description
                           is accurate and that both submitted copies (here in the
@@ -147,7 +147,7 @@
                    </ol>
                    </li><br/>
 
-              <li> <strong>BOF Abstract (limited to 800 characters)
+              <li> <strong>BOF Abstract (limited to 800 characters, including whitespace)
                    </strong>
 
                    <p style="font-size: 1.0em">
@@ -190,7 +190,7 @@
               <li> Submit the PDF version of your proposal using the
                    <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2011/submission.shtml">Birds of a Feather online submission form</a>.
                    Recall that you will also need to cut-and-paste or type
-                   your 800-character text abstract description into a text box
+                   your 800-character (including whitespace) text abstract description into a text box
                    during the submission process.  Please do not wait until
                    the last minute to submit your documents because that
                    is when everyone else will be connecting to our server!
