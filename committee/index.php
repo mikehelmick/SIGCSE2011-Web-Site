@@ -261,7 +261,7 @@
       <tr><td align="left" valign="top"> 
 	Jian Zhang<br/>
 	Texas Women's University<br/>
-	<script>write_email( "jzhang", "mail.twu.edu" );</script>
+	<script>write_email( "sigcse11-local", "cs.cmu.edu" );</script>
       </td>
       <td valign="top" align="center"><img src="/sigcse2011/images/committee/Jian_Zhiang.jpg" /></td>
       <td>&nbsp;</td></tr>

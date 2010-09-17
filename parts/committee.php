@@ -135,7 +135,7 @@
 	<p><b>Local Arrangements</b><br/>
 	Jian Zhang<br/>
 	Texas Women's University<br/>
-	<script>write_email( "jzhang", "mail.twu.edu" );</script></p>
+	<script>write_email( "sigcse11-local", "cs.cmu.edu" );</script></p>
 
 	<p><b>Student Research Competition</b><br/>
 	Ann Sobel <br/>

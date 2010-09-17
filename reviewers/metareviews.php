@@ -63,7 +63,7 @@ reviews and abstracts though not, in most cases, the paper itself.</p>
 <h2>Stage 3: Program Chairs</h2>
 </div></div>
 
-<p>The Program Chairs' duty, quoted from <a href="http://sigcse.org/conferences/ProgramChair.shtml">SIGCSE's Program Chair
+<p>The Program Chairs' duty, quoted from <a href="http://sigcse.org/about/policies/pcr">SIGCSE's Program Chair
 Responsibility Policy</a>, is "to create a good, well balanced
 program at the SIGCSE Technical Symposium and the ITiCSE conference. The
 program should provide both short and long term benefits to the
