@@ -23,6 +23,11 @@ div#container {
 	min-width: 1000px;
 	margin: 0 auto 0 auto;
 	text-align: left;
+	display: inline;
+}
+
+div#contentarea {
+	display: inline;
 }
 
 div#headercontainer {
@@ -248,7 +253,7 @@ div#content {
   background: #FFFFFF;
   color: #000000;
   float: left; 
-  overflow: auto;
+  display: inline;
 }
 
 div#content p {
