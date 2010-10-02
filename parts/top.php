@@ -13,28 +13,17 @@
     <script type="text/javascript" src="/sigcse2011/js/prototype.js"></script>
 	<script type="text/javascript" src="/sigcse2011/js/scriptaculous.js?load=effects,builder"></script>
 	<script type="text/javascript" src="/sigcse2011/js/lightbox.js"></script>
-	
-    <link href="/sigcse2011/css/master.css" media="all" rel="stylesheet" type="text/css" />
 
-	<style type="text/css">
-		body {
-	    	background: #222222;
-	    }
-		
-    #flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}
-#flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}
-#flickr_icon_td {padding:0 5px 0 0 !important;}
-.flickr_badge_image {text-align:center !important;}
-.flickr_badge_image img {border: 1px solid black !important;}
-#flickr_www {display:block; padding:0 10px 0 10px !important; font: 11px Arial, Helvetica, Sans serif !important; color:#3993ff !important;}
-#flickr_badge_uber_wrapper a:hover,
-#flickr_badge_uber_wrapper a:link,
-#flickr_badge_uber_wrapper a:active,
-#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#3993ff;}
-#flickr_badge_wrapper {}
-#flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#666666 !important;}    
-		
-	</style>
+	<?php
+		if(isset($_GET["print"]))
+			$style = "print.css";
+		else 
+		    $style = "master.css";
+		echo "
+		<link rel='stylesheet' type='text/css' href='/sigcse2011/css/$style' title='Current'>
+		";
+	?>
+	
 </head>
 
 <body onload="remove_frames();">
@@ -66,7 +55,9 @@
   <?php  include("menu.php"); ?>
   
   <div id="contentarea" class="clear">
-
 	<div id="content">
+		<div id="printIcon">
+			<a href="<?php echo $_SERVER["REQUEST_URI"] ?><?php echo "?print"?>"><img src="/sigcse2011/images/printer.png" align="absmiddle" /> Print</a>
+		</div>
 		
 

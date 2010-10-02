@@ -1,7 +1,6 @@
 
 body {
-	color: #999999;
-	background: #222222;
+	color: #000000;
 	margin: 0;
 	padding: 0;
 	font: normal 12px/1.5em "Helvetica Neue", "Lucida Grande", "Helvetica Neue", Arial, sans-serif;
@@ -11,11 +10,6 @@ body {
 a {
 	text-decoration: underline;
 }
-
-a:hover {
-	color: #aaa0a0;
-}
-
 
 .clear:after {
     content: "."; 
@@ -35,14 +29,11 @@ div#headercontainer {
 	width: auto;
 	margin: 0 auto;
 	padding: 0 15px 0 0;	
-	border-bottom: 2px solid #666666;
-	background: url(/sigcse2011/logo/dallas.jpg) no-repeat top center #000000;
 	display: block;
-	height: 250px;
 }
 
 div#headercontainer a {
-	color: #ffffff;
+	color: #000000;
 }
 
 div#headertitle {
@@ -53,12 +44,12 @@ div#headertitle {
 }
 
 div#headertitle h1 {
-	color: #ffffff;
+	color: #000000;
 	margin: 0 0 0 30px;
 }
 
 div#headertitle h4 {
-	color: #aaaaaa;
+	color: #000000;
 	margin: 0 0 0 30px;
 }
 
@@ -73,7 +64,7 @@ div#userinfo {
   padding: 10px;
   margin-bottom: 10px;
   /* background: #FF0017; /* #4D6D84; */
-  color: #ffffff;
+  color: #000000;
   /* filter:alpha(opacity=60);
 	-moz-opacity:0.6;
 	-khtml-opacity: 0.6;
@@ -128,7 +119,7 @@ img#avatar {
 }
 
 div#userinfo a {
-	color: #ffffff;
+	color: #000000;
 	text-decoration: underline;
 }
 
@@ -202,11 +193,7 @@ div#subnav ul li a:hover {
 }
 
 div#navigation {
-	background: #FFFFFF; 
-	width: 100%;
-	border-bottom: 2px solid #666666;
-	color: #000000;
-	text-align: left;
+	display: none;
 }
 
 div#navigation ul {
@@ -260,13 +247,6 @@ div#content {
   padding: 15px 15px 15px 20px;
   background: #FFFFFF;
   color: #000000;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
-  border-radius: 5px;
-  border: 1px solid #000000;
-  border-bottom: 2px solid #0000FF;
-  border-right: 2px solid #0000FF;
-  width: 68%;
   float: left; 
   overflow: auto;
 }
@@ -277,8 +257,7 @@ div#content p {
 
 
 div#right {
-  margin: 5px 15px 0 75%;
-  padding-top: 5px;
+  display: none;
 }
 
 div#right .rightbox {
@@ -324,37 +303,17 @@ div#right .rightbox {
 	background-color: #537186;
 }
 
-#printFooter {
-  margin: 10px;
+#footer {
   display: none;
 }
 
+#printFooter {
+  margin: 10px;
+  display: block;
+}
+
 #printIcon {
-	float: right;
-	display: block;
-	margin-top: -10px;
-}
-
-#printIcon a {
-	padding: 5px;
-	text-decoration: none;
-}
-
-#footer {
-  margin-top: 50px;
-  clear: both;
-  padding: 25px 1.5em 1.5em;
-  border-top: 5px solid #000000;
-  color: #000000;
-  background-color: #DDDDDD;
-  font: normal 11px/1.5em "Helvetica Neue", "Lucida Grande", "Helvetica Neue", Arial, sans-serif;
-  overflow: hidden;
-
-/*
-	width: 100%;
-	margin-bottom: 15px;
-	padding-bottom: 15px;
-	*/
+  display: none;
 }
 
 #footerContent {
@@ -1054,54 +1013,6 @@ a img {
 }
 
 
-
-
-/** DIFF **/
-
-
-.diffReport {
-	max-width: 500px;
-	background: #EEEEEE;
-	border: 1px solid #84CA82;
-	font-family: "courier", verdana, sans-serif;
-	font-size: 9pt;
-}
-
-.diffReport2 {
-	background: #EEEEEE;
-	border: 1px solid #84CA82;
-	margin: 2px 2px 2px 2px;
-	font-family: "courier", verdana, sans-serif;
-	font-size: 10pt;
-}
-
-.diffSub {
-	border-bottom: 2px solid #EE2022;
-	margin-bottom: 3px;
-}
-
-.diffAdd {
-	border-bottom: 2px solid #0262DB;
-	margin-bottom: 3px;
-}
-
-.diffChange {
-	border-bottom: 2px solid #F0BA02;
-	margin-bottom: 3px;
-}
-
-    #flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}
-#flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}
-#flickr_icon_td {padding:0 5px 0 0 !important;}
-.flickr_badge_image {text-align:center !important;}
-.flickr_badge_image img {border: 1px solid black !important;}
-#flickr_www {display:block; padding:0 10px 0 10px !important; font: 11px Arial, Helvetica, Sans serif !important; color:#3993ff !important;}
-#flickr_badge_uber_wrapper a:hover,
-#flickr_badge_uber_wrapper a:link,
-#flickr_badge_uber_wrapper a:active,
-#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#3993ff;}
-#flickr_badge_wrapper {}
-#flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#666666 !important;}
 
 
 

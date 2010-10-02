@@ -129,7 +129,8 @@ Eastern Daylight Time</td>
 
 <p>
             Submit a plain ASCII-text electronic copy of the extended abstract
-            by <strong class="warning">TBA @ 11:59 p.m. HST</strong>
+            by <strong class="warning">September 27, 2010<br />
+@ 5:00 p.m. EDT (Eastern Daylight Time)</strong>
             to Dr. Ann Sobel
             ( <script>write_email( "sigcse11-src", "cs.cmu.edu" );</script> ).
             </p>

@@ -8,6 +8,17 @@
 	</div>
   </div>
 
+<div id="printFooter" class="clear">
+   
+<p>
+	Web site Copyright &copy; 2010, ACM SIGCSE <br/>
+This page was last updated: <?php date_default_timezone_set('America/Los_Angeles');
+                               print(date("F jS, Y @ h:i T", $updated)); ?><br/>   
+</p>
+<p>Printing date: <?php date_default_timezone_set('America/Los_Angeles');
+                               print(date("F jS, Y @ h:i T")); ?>
+
+</div>
 
 <div id="footer" class="clear">
   <div id="footerContent">	
@@ -90,9 +101,6 @@ new TWTR.Widget({
     The SIGCSE 2011 Web site is open source:<br />
  <a href="http://github.com/mikehelmick/SIGCSE2011-Web-Site/tree/master">View the SIGCSE 2011 Source on GitHub</a><br/>
     &nbsp;<br/> 
-    <?php if ( $mainPage == true ) { ?>
-	       Site best viewed with <a href="getfirefox.com/"><img border="0" alt="Spreadfirefox Affiliate Button" src="http://sfx-images.mozilla.org/affiliates/Buttons/firefox3/110x32_best-yet.png" /></a>
-	  <?php } ?>
 	      </td>          
 	  </tr></table>    
     
@@ -116,6 +124,12 @@ new TWTR.Widget({
   })();
 
 </script>
+
+<?php
+	if(isset($_GET["print"])) {
+      echo "<script type=\"text/javascript\">window.onload=function(){ window.print(); }</script>";
+    }
+?>  
 
 </body>
 </html>
