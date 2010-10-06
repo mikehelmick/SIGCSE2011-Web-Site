@@ -1,6 +1,6 @@
 <h2>News</h2>
 <ul>
-  <li>July 10th, 2010: Information for authors and reviewers has been posted. The submission site is not yet live, but will be well in advance of the submision due date.</li>
+  <li>Deadline for BOFs, Posters and Videos is November 1, 2010.</li>
 </ul>
 
 <h2>Connect</h2>
