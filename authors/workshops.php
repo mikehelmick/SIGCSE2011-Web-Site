@@ -42,7 +42,7 @@
  	    <td align="left">Updates to Titles, Authors, &amp; Abstracts Due:</td><td align="left">November 8, 2010</td>
        </tr>
        <tr>
-  	    <td align="left">Software Distribution URLs (for Hands-On Labs) Due:</td><td align="left">December 6, 2010</td>
+  	    <td align="left">Software Distribution URLs (for Hands-On Labs) Due:</td><td align="left">January 31, 2011</td>
        </tr>
       </table>
     </div>
