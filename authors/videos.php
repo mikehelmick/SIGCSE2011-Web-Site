@@ -109,7 +109,7 @@ least amount of time.</li>
 
 <p>Video Submissions are to be provided in PDF format. The submission
 contains an up to 800-character (including whitespace) video promotional blurb (description)
-which must also be entered into a text box on the submission page. The
+which must also be entered into a text box on the submission page at <a href="http://db.grinnell.edu/sigcse/sigcse2011/Submissions/submissionNew.asp">http://db.grinnell.edu/sigcse/sigcse2011/Submissions/submissionNew.asp</a>. The
 procedure for the Video Submission is as follows.</p>
 
 <ol>
