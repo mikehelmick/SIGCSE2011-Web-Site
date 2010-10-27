@@ -19,9 +19,33 @@
 
 
 <div class="SectionHeader"><div class="Full">
-<h2><a name="need">Hotel</a></h2>
+<h2><a name="need">Symposium Registration</a></h2>
 </div></div>
 <br/>
+
+<ul>
+<li>Early: $235 for SIGCSE members, $295 for non-members</li>
+<li>Late: $275 for SIGCSE members, $335 for non-members</li>
+<li>On-site: $315 for SIGCSE members, $375 for non-members</li>
+<li>K12 one-day (Friday): $85 for early, $110 for late or onsite</li>
+<li>K12 two-day (Friday and Saturday): $150 for early, $175 for late or onsite (includes Saturday lunch)</li>
+<li>Students (at any time): $40 for ACM/SIGCSE members, $50 for non-members</li>
+</ul>
+
+<p>Regular conference registration includes: One copy of the symposium proceedings on CD; all paper sessions, panels, BOFs, and keynotes; the symposium reception ; the exhibition hall (and coffee breaks); and the Saturday luncheon. The special high school rate includes access to all Friday sessions, panels, BOFs, and keynotes; the exhibition hall (and coffee breaks); and one copy of proceedings on CD.</p>
+
+<div class="SectionHeader"><div class="Full">
+<h2><a name="need">Other Activity/Event Fees</a></h2>
+</div></div>
+<br/>
+
+<ul>
+ <li>Workshops (each): $65 early, $80 late, $95 on-site</li>
+ <li>Additional reception tickets: $25</li>
+ <li>Additional luncheon tickets: $40 each</li>
+ <li>Additional copies of the symposium proceedings CD: $10 each</li>
+ <li>A limited number of printed copies of the symposium proceedings will be available for $35 each.</li>
+</ul>
 
             
 <?php include("../parts/middle.php"); ?>  

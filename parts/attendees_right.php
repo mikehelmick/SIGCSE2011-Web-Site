@@ -5,7 +5,9 @@
 <!--
  <li><a href="/sigcse2011/attendees/registration.php"><img src="/sigcse2011/images/vcard_add.png"  align="absmiddle"/> Registration</a></li>
  <li><a href="/sigcse2011/attendees/reception.php"><img src="/sigcse2011/images/cake.png" align="absmiddle"/> Reception</a></li>
+-->
  <li><a href="/sigcse2011/attendees/fees.php"><img src="/sigcse2011/images/money.png" align="absmiddle"/> A Sneak Peak at Fees</a></li>
+<!--
  <li><a href="/sigcse2011/attendees/pre_symposium_events.php"><img src="/sigcse2011/images/calendar.png" align="absmiddle"/> Pre-Symposium Events</a></li>
  <li><a href="/sigcse2011/attendees/supporter_sessions.php"><img src="/sigcse2011/images/building.png" align="absmiddle"/> Supporter Sessions</a></li>
  <li><a href="/sigcse2011/attendees/special_projects.php"><img src="/sigcse2011/images/bricks.png" align="absmiddle"/> SIGCSE Special Projects</a></li>
