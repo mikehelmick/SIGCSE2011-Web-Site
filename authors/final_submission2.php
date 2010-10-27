@@ -29,16 +29,16 @@
       
       <table>
        <tr>
-        <td align="left" valign="top">Title/Author Modifications:</td><td align="left">TBA</td>
+        <td align="left" valign="top">Title/Author Modifications:</td><td align="left">November 8, 2010</td>
        </tr>
        <tr>
-  	    <td align="left">Final Version to SIGCSE DB:</td><td align="left">TBA</td>
+  	    <td align="left">Final Version to SIGCSE DB:</td><td align="left">December 6, 2010</td>
        </tr>
        <tr>
- 	    <td align="left">Final Version to Publisher:</td><td align="left">TBA</td>
+ 	    <td align="left">Final Version to Publisher:</td><td align="left">December 6, 2010</td>
        </tr>
        <tr>
-  	    <td align="left">Copyright/Permission Form Due:</td><td align="left">TBA</td>
+  	    <td align="left">Copyright/Permission Form Due:</td><td align="left">December 6, 2010</td>
        </tr>
       </table>
     </div>
