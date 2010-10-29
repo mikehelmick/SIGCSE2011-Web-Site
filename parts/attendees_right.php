@@ -2,8 +2,8 @@
  <ul>	
  <li><a href="http://db.grinnell.edu/sigcse/sigcse2011/Program/Program.asp"><img src="/sigcse2011/images/report.png" align="absmiddle" /> Symposium Program</a></li>
  <li><a href="/sigcse2011/attendees/keynotes.php"><img src="/sigcse2011/images/user_suit.png" align="absmiddle" /> Keynote Speakers</a></li>
-<!--
  <li><a href="/sigcse2011/attendees/registration.php"><img src="/sigcse2011/images/vcard_add.png"  align="absmiddle"/> Registration</a></li>
+	<!--
  <li><a href="/sigcse2011/attendees/reception.php"><img src="/sigcse2011/images/cake.png" align="absmiddle"/> Reception</a></li>
 -->
  <li><a href="/sigcse2011/attendees/fees.php"><img src="/sigcse2011/images/money.png" align="absmiddle"/> A Sneak Peak at Fees</a></li>

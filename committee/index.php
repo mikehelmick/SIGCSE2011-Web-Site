@@ -1,5 +1,5 @@
 <?php
- $title = "SIGCSE 2011 - Home";
+ $title = "SIGCSE 2011 - Committee";
  $menu = "committee";
  include("../parts/top.php");
 ?>
