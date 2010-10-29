@@ -32,7 +32,15 @@
 <li>Students (at any time): $40 for ACM/SIGCSE members, $50 for non-members</li>
 </ul>
 
-<p>Regular conference registration includes: One copy of the symposium proceedings on CD; all paper sessions, panels, BOFs, and keynotes; the symposium reception ; the exhibition hall (and coffee breaks); and the Saturday luncheon. The special high school rate includes access to all Friday sessions, panels, BOFs, and keynotes; the exhibition hall (and coffee breaks); and one copy of proceedings on CD.</p>
+<p>Regular conference registration includes: One copy of the symposium proceedings on CD; all paper sessions, panels, BOFs, and keynotes; the symposium reception ; the exhibition hall (and coffee breaks); and the Saturday luncheon.</p> 
+
+<p>The special one-day K12 rate includes access to all Friday technical
+sessions, the exhibition hall (and coffee breaks), and one copy of
+proceedings on CD. The special two-day K12 rate includes access to all
+Friday and Saturday technical sessions, the exhibition hall (and coffee
+breaks), the Saturday luncheon, and one copy of proceedings on CD.
+Workshops are not included in these rates. These rates are available to
+K-12 teachers only.</p>
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="need">Other Activity/Event Fees</a></h2>
@@ -41,7 +49,7 @@
 
 <ul>
  <li>Workshops (each): $65 early, $80 late, $95 on-site</li>
- <li>Additional reception tickets: $25</li>
+ <li>Additional reception tickets: $25 each</li>
  <li>Additional luncheon tickets: $40 each</li>
  <li>Additional copies of the symposium proceedings CD: $10 each</li>
  <li>A limited number of printed copies of the symposium proceedings will be available for $35 each.</li>
