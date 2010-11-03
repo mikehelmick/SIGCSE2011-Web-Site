@@ -16,6 +16,9 @@
 	
 	 <ul>
 	 <li><a href="http://db.grinnell.edu/sigcse/sigcse2011/Program/Program.asp"><img src="/sigcse2011/images/report.png" align="absmiddle" /> Symposium Program</a></li>
+	 <li><a href="http://elvis.rowan.edu/~kay/sigcse/rodeo.html">SIGCSE 2011 Robot Hoedown and Rodeo</a>
+		<ul><li><a href="http://elvis.rowan.edu/~kay/sigcse/cfw.html">Call for Wranglers</a></li></ul>
+	 </li>
 	 <li><a href="/sigcse2011/attendees/keynotes.php"><img src="/sigcse2011/images/user_suit.png" align="absmiddle" /> Keynote Speakers</a></li>
 	 <li><a href="/sigcse2011/attendees/registration.php"><img src="/sigcse2011/images/vcard_add.png"  align="absmiddle"/> Registration</a></li>
 		<!--
