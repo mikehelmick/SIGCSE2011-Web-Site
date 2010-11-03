@@ -82,6 +82,34 @@
 </ul>
 </p>
 
+<h3>New ACM Reference guidelines.</h3>
+
+<p>Elements (in most cases):
+	<ol>
+	<li>Author(s)</li>
+	<li>Year of publication</li>
+	<li>Title of 'document' - use initial caps on keywords and end in period.</li>
+	<li>Name of Site in italics if given, and followed by period.</li>
+	<li>Date accessed - Use 'Retrieved' followed by date as Month, DD, YYYY followed by 'from'</li>
+	<li>Address - Given as '{http|ftp|telnet}://path' and underlined.</li>
+	</ol>
+	</p>
+
+	<p>Note: a web address should never be given for a formally published document whose citation is complete or for which there is a DOI. Only give a web address for informal works or online-only works or resources that cannot otherwise be found by citation and/or DOI. Author Home page URLs or Institutional Repository URLs are not the way to cite formally published literature. If citing a formally published online-only publication, use the format for that genre and add elements 5 and 6 above.</p>
+
+	<p><b>Examples:</b><br/>
+	<code>
+	H. Thornburg. 2001.  Introduction to Bayesian Statistics. Retrieved March 2, 2005 from http://ccrma.stanford.edu/~jos/bayes/bayes.html
+	</code><br/>&nbsp;<br/>
+
+	<code>
+	Rafal Ablamowicz and Bertfried Fauser. 2007. CLIFFORD: a Maple 11 Package for Clifford Algebra Computations, version 11. Retrieved February 28, 2008 from http://math.tntech.edu/rafal/cliff11/index.html
+	</code><br/>&nbsp;<br/>
+
+	<code>
+	Poker-Edge.Com. 2006. Stats and Analysis. Retrieved June 7, 2006 from http://www.poker-edge.com/stats.php	
+	</code>
+
 <div class="SectionHeader"><div class="Full">
 <h2><a name="pages">Page Limits</a></h2>
 </div></div> 
