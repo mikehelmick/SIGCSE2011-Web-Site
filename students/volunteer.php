@@ -147,7 +147,7 @@
 </div></div> 
           <p>
             No. We realize that travel plans and other commitments exist.
-            We hope that students local to the Milwaukee area will be
+            We hope that students local to the Dallas area will be
             flexible.  In particular, there is always a need
             for volunteers on Tuesday and Wednesday, which is before most
             of the conference activities begin and before many
