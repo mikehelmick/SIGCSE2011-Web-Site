@@ -9,7 +9,9 @@ function remove_frames()
   var thisPage = "http://www.sigcse.org" + self.location.pathname + self.location.hash + self.location.search;
   var thisLocal = "http://localhost" + self.location.pathname + self.location.hash + self.location.search;
   var testServer = "http://test.mikehelmick.com" + self.location.pathname + self.location.hash + self.location.search;
-  if (top.location != thisPage && top.location != thisLocal  && top.location != testServer) {
-    top.location = thisPage;
+  if (top.location.indexOf("sigcse2011/search.php") < 0) {
+    if (top.location != thisPage && top.location != thisLocal  && top.location != testServer) {
+      top.location = thisPage;
+    }
   }
 }
