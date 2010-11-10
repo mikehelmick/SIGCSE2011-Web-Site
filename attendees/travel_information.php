@@ -55,7 +55,7 @@ to $14 each way.</p>
 </div></div>
 <br/>
 
-<p>Within Dallas, the Sheraton Dallas adjacent to the Red and Blue lines of
+<p>Within Dallas, the Sheraton Dallas is adjacent to the Red and Blue lines of
 the DART Light Rail System. Exit at the Pearl Street station and walk one
 block to North Olive Street. Access to the DART Light Rail is available
 every day except Sundays via the TRE (Trinity Rail Express) for residents
