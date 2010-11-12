@@ -118,6 +118,7 @@
 	<li>CCS, Inc.</li>
 	<li>Course Technology Cengage Learning</li>
 	<li>CRC Press- Taylor & Francis Group LLC</li>
+	<li>IBM</li>
 	<li>Intel Corporation</li>
 	<li>Intersystems Corporation</li>
 	<li>Jones and Bartlett</li>
