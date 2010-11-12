@@ -34,6 +34,14 @@ and other elements of teaching and pedagogy, at all levels of instruction.</p>
    <a href="http://www.microsoft.com/education/highered/faculty/" alt="Microsoft Highered"><img src="/sigcse2011/images/logos/sponsors/microsoft.png" /></a>
  </td>
 </tr>
+<tr>
+ <td align="center" valign="top" colspan="2"><h3>Gold Supporters</h3></td>
+</tr>
+<tr>
+ <td align="center" valign="middle" colspan="2">
+   <a href="http://www.ibm.com/" alt="IBMim"><img src="/sigcse2011/images/logos/sponsors/ibm.png" /></a>
+ </td>
+</tr>
 </table>
 
 
