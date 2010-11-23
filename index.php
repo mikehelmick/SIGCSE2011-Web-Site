@@ -39,7 +39,7 @@ and other elements of teaching and pedagogy, at all levels of instruction.</p>
 </tr>
 <tr>
  <td align="center" valign="middle" colspan="2">
-   <a href="http://www.ibm.com/" alt="IBMim"><img src="/sigcse2011/images/logos/sponsors/ibm.png" /></a>
+   <a href="http://www.ibm.com/academicinitiative" alt="IBMim"><img src="/sigcse2011/images/logos/sponsors/ibm.png" /></a>
  </td>
 </tr>
 </table>
