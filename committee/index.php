@@ -225,7 +225,7 @@
 	Cypress Woods High School,<br/>
 	Houston, Texas
       <hr/>
-	Judy Hromchik<br/>
+	Judy Hromcik<br/>
 	Arlington High School<br/>
 	Arlington, Texas<br/>
 	<script>write_email( "sigcse11-k12", "cs.cmu.edu" );</script>
