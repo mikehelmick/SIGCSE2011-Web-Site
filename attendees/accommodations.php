@@ -32,12 +32,12 @@ access in hotel rooms in the Sheraton.<br/>
 <h2>Why should I stay at the conference hotel?</h2>
 </div></div>
 
-<p>If you stay at the conference hotel, you’ll be able to network easily with
-other conference attendees.  It’s a quick trip to get to the program and
+<p>If you stay at the conference hotel, you'll be able to network easily with
+other conference attendees.  It's a quick trip to get to the program and
 functions, and just as quick to zip back to your room for a break.  Plus,
 we've negotiated for free Internet at the conference hotel and a
 significantly reduced room rate to stay in downtown Dallas. Overall,
-you’ll have a much better conference experience if you stay at the
+you'll have a much better conference experience if you stay at the
 conference hotel. Staying at the conference hotel also supports SIGCSE
 since we are required to pay for unused rooms in our reserved block which
 raises costs for future SIGCSE conferences. So make your conference
