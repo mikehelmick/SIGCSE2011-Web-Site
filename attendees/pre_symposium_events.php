@@ -9,9 +9,9 @@
 <h2><a name="csta">CSTA Source Web Repository Cataloging Workshop</a></h2>
 </div></div>
 <img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 8:00am to 3:00pm.	
-
 <p>Chris Stephenson, CSTA Executive Director</p>
-	
+<p>Participants will learn how to appropriately review and classify resources submitted for entry in to the
+Source Web Repository.</p>	
 <p>Contact: Christina San Filippo <script>write_email("sanfilippo", "hq.acm.org");</script></p>
 
 <div class="SectionHeader"><div class="Full">
@@ -25,6 +25,18 @@
 <h2><a name="innovativeApproaches">Innovative approaches to introducing Computer Science</a></h2>
 </div></div>
 <img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 11:00am - 5:30pm
+<p>This pre-conference workshop will bring together faculty to discuss
+innovative approaches to introducing computer science using novel problem
+domains. The innovation may be primarily through pedagogy. For example,
+an instructor may use problem-based learning to build a course around
+real, domain-specific problems and the techniques necessary to solve
+them, rather than addressing a list of topics. Alternatively, a novel
+approach may address a new context such as the modeling and analysis of
+social networks. The workshop will address approaches that seek to change
+the culture and practice of computer science by addressing the pipeline
+at its early stages, specifically in introductory college courses in
+computer science, mathematics, statistics, and the social and natural
+sciences.</p>
 <p>More information at <a href="http://harambeenet.org/sigcse11">http://harambeenet.org/sigcse11</a></p>
 <p>Organizers and affiliations: 
 <ul>
@@ -37,6 +49,18 @@
 <h2><a name="womenFaculty">Managing the Academic Career for Women Faculty in Undergraduate Computing Programs</a></h2>
 </div></div>
 <img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 8:00am - 5:30pm
+<p>Women in Computer Science and Engineering (CSE) face particular challenges in pursuing and
+maintaining academic careers at primarily undergraduate academic institutions. Women academicians
+in CSE typically have few female colleagues to provide critical information about the culture and content
+required for successful academic careers. To help this situation, the Computing Research Association
+Committee on the Status of Women in Computing Research (CRA-W) will sponsor a career/mentoring
+workshop titled "Managing the Academic Career for Women Faculty in Undergraduate Computing
+Programs"". The day-long workshop, to be held on Wednesday, March 9, will be co-located with the
+SIGCSE 2011 conference in Dallas. The goal of the workshop is to provide critical mentoring information
+for women at all career levels in undergraduate teaching. The target audiences of the workshop are
+pre-tenure faculty and graduate students in Computer Science and Engineering who are interested in an
+academic career, as well as post-tenure (senior) faculty seeking to improve their teaching and mentoring
+skills.</p>
 <p>More information at <a href="http://cra-w.org/mentorWrkshp/cmwe-2011">http://cra-w.org/mentorWrkshp/cmwe-2011</a></p>
 <p>
 <ul>
@@ -58,7 +82,7 @@
 <h2><a name="sigcas">Open meeting of the Special Interest Group on Computers and Society (SIGCAS)</a></h2>
 </div></div>
 <img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 8:00am - 12:00pm
-<p>This open meeting of ACM’s Special Interest Group on Computers and Society (SIGCAS) is
+<p>This open meeting of ACM's Special Interest Group on Computers and Society (SIGCAS) is
 an opportunity for SIGCAS members and supporters to provide input into the future direction
 of the SIG. Particular attention will be paid to issues of interest to SIGCAS members who are
 primarily computer science educators.</p>
@@ -69,6 +93,17 @@ primarily computer science educators.</p>
 </div></div>
 <img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 8:00am to 5:30pm
 <p>More information at <a href="http://www.programbydesign.org/events/sigcse2011/">http://www.programbydesign.org/events/sigcse2011/</a></p>
+<p>Want to create excitement without sacrificing principles or losing a
+clear connection to mainstream CS? Check out Program by Design, which
+is what TeachScheme! has grown up to become. See how you can program
+animations, the Web, and mobile phone apps from week 1; learn about
+the smooth transition to Java; and acquaint yourself with the
+middle-school component, used in inner-city after-school programs
+nationwide. This one-day workshop gives a detailed overview of the
+high-school/college curriculum, including the path to Java. A
+late-afternoon session includes demos of different assignments,
+discussion of the middle-school program, and a chance to interact with
+current users of the curriculum.</p>
 <p>Contact: Viera Proulx, <script>write_email("vkp", "ccs.neu.edu");</script></p>
 
 
@@ -76,6 +111,7 @@ primarily computer science educators.</p>
 <h2><a name="alice2.2">Programming with Alice Workshop (Alice 2.2)</a></h2>
 </div></div>
 <img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 8:00am - 5:30pm	
+<p>This workshop is intended for teachers who have little or no experience in teaching with Alice. The workshop will provide hands-on experience with learning to use Alice 2.2 and in learning to teach with Alice. Alice 2.2 is a powerful program visualization environment where students are engaged in building virtual worlds to create animations and simple games. Instructional materials, software, and a complimentary copy of the 3rd edition of the text, <em>Learning to Program with Alice</em>, will be provided to each participant.</p>
 <p>More information at <a href="http://www.andrew.cmu.edu/user/wpdann/workshops.html">http://www.andrew.cmu.edu/user/wpdann/workshops.html</a></p>
 <p>Contact: Wanda Dann, Carnegie-Mellon University<br/>
 <script>write_email("wpdann", "andrew.cmu.edu");</script>
@@ -84,15 +120,17 @@ primarily computer science educators.</p>
 <h2><a name="alice3">Programming with Alice Workshop (Alice 3)</a></h2>
 </div></div>
 <img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 8:00am - 5:30pm	
+<p>This workshop is designed for instructors of CS1/AP who are interested in providing a gentle introduction to programming concepts in Alice 3 integral with mediating the transfer of these concepts into Java. The workshop will introduce Alice 3 and a plugin for transitioning from Alice to Java. Alice 3 builds on Alice 2's powerful program visualization technique, enabling students to "see" objects and work with object-oriented programming. Participants will learn how to use Alice 3 to build virtual worlds and how to use this approach in CS1 courses (introductory programming for majors and non-majors and AP CS).</p>
 <p>More information at <a href="http://www.andrew.cmu.edu/user/wpdann/workshops.html">http://www.andrew.cmu.edu/user/wpdann/workshops.html</a></p>
 <p>Contact: Wanda Dann, Carnegie-Mellon University<br/>
 <script>write_email("wpdann", "andrew.cmu.edu");</script>
 
 
 <div class="SectionHeader"><div class="Full">
-<h2><a name="ethics">Teaching Computer Ethics in the Computer Science Curriculum</a></h2>
+<h2><a name="ethics">Teaching Professional Ethics in Computer Science: Tips and Traps</a></h2>
 </div></div>
 <img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 1:15pm to 5:30pm	
+<p>In support of ACM's Commitment to Ethical Professionalism this event is designed to help interested faculty provide students with tools to better understand and resolve the ethical challenges in their professional lives we will present well developed examples and modules which can be used to engage students in the study of applied ethics.  We will present materials to be used in a complete computer ethics course and that can be used as examples and exercises in specific technical courses; including case studies, suggested course syllabi, and suggestions for creating and grading assignments.</p>
 <p>More information at <a href="https://edocs.uis.edu/kmill2/www/sigcse2011computerEthics.html">https://edocs.uis.edu/kmill2/www/sigcse2011computerEthics.html</a></p>
 <p>Organizers and affiliations:
 <ul>
@@ -106,11 +144,10 @@ primarily computer science educators.</p>
 </div></div>
 <img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, TBA
 
-<p>The Third annual HFOSS Education Symposium (<a href="http://www.hfoss.org/hfoss2011">HFOSS 2011</a>), held as
-a SIGCSE 2011 pre-conference activity (March 9th 2011, Dallas, Texas), aims to bring together educators,
+<p>The Third annual HFOSS Education Symposium (<a href="http://www.hfoss.org/hfoss2011">HFOSS 2011</a>), held as a SIGCSE 2011 pre-conference activity (March 9th 2011, Dallas, Texas), aims to bring together educators,
 software developers, industry representatives, and students to continue the discussion of how best to
 promote HFOSS within undergraduate computing education. Humanitarian FOSS is free and open source
-software that contributes in some way to the public good. This year’s symposium focuses on applying
+software that contributes in some way to the public good. This year's symposium focuses on applying
 HFOSS within the local community -- i.e., in local government, in K-12 education, and in collaboration
 with local non-profit organizations. This years keynote speaker is Bryan Sivak, Chief Technology Officer
 for the District of Columbia, founding member and advisory board member of Civic Commons. As in
