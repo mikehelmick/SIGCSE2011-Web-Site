@@ -8,7 +8,9 @@
 
 <div id="GoodMessage">Information for symposium attendees is still being filled in. Please check back often!</div>
 
-<h1>Information for SIGCSE 2011 Symposium Attendees</h1>
+<div class="SectionHeader" style="clear:left;"><div class="Full">
+<h2>Information for SIGCSE 2011 Symposium Attendees</h2>
+</div></div>
 
 <table cellspacing="5px" width="100%">
 <tr>
@@ -29,6 +31,7 @@
 	 <li><a href="/sigcse2011/attendees/local_attractions.php"><img src="/sigcse2011/images/weather_sun.png" align="absmiddle"/> Local Attractions</a></li>
 	-->	
 	 <li><a href="/sigcse2011/attendees/visas.php"><img src="/sigcse2011/images/folder_database.png" align="absmiddle"/> Visa Information</a></li>
+	 <li><a href="/sigcse2011/attendees/floor_plans.php"><img src="/sigcse2011/images/map.png" align="absmiddle"/> Floor Plans</a></li>
 	 <li><a href="/sigcse2011/faq/#attendees"><img src="/sigcse2011/images/help.png" align="absmiddle" /> FAQ</a></li>
 	
 		<!--
@@ -37,7 +40,6 @@
 	 <li><a href="/sigcse2011/attendees/special_projects.php"><img src="/sigcse2011/images/bricks.png" align="absmiddle"/> SIGCSE Special Projects</a></li>
 	 <li><a href="/sigcse2011/attendees/video_program.php"><img src="/sigcse2011/images/television.png" align="absmiddle"/> Video Program</a></li>
 	 <li><a href="/sigcse2011/attendees/k12_highlights.php"><img src="/sigcse2011/images/house.png" align="absmiddle"/> Highlights for K-12 Teachers</a></li>
-	 <li><a href="/sigcse2011/attendees/floor_plans.php"><img src="/sigcse2011/images/map.png" align="absmiddle"/> Floor Plans</a></li>
 	 <li><a href="/sigcse2011/attendees/kids_camp.php"><img src="/sigcse2011/images/group.png" align="absmiddle"/> Kids Camp</a></li>
 	-->
 	</ul>
