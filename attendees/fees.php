@@ -13,7 +13,8 @@
 
 <ul>
 <li>The early registration deadline is <strong>Monday, Jan 31, 2011</strong>. Registrations postmarked or FAXed on or before this date are considered to be 'early.'</li>
-<li>The late registration fees apply from <strong>Tuesday, February 1st through Monday, February 28th, 2011</strong>;. Registrations that miss the early deadline but are received on or before this date are considered to be 'late.'<li>
+<li>The late registration fees apply from <strong>Tuesday, February 1 through Monday, February 28, 2011</strong>;.  Registrations that miss the early deadline but are received on or before
+February 28, 2011 are considered to be 'late.'<li>
 <li>After the late deadline, the on-site rates will apply. Symposium attendees will no longer be able to register on-line. Registration may be completed at the symposium registration desk starting at 3:00 p.m. on Wednesday, March 9th. Complete on-site registration hours are available from our symposium registration gateway page.</li>
 </ul>
 
