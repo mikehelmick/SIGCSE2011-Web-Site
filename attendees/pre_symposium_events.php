@@ -22,6 +22,28 @@ Source Web Repository.</p>
 </p>
 
 <div class="SectionHeader"><div class="Full">
+<h2><a name="hawaii">Hawaii – Project companion for cloud-enabled mobile computing courses</a></h2>
+</div></div>
+<img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 11:00am - 5:30pm
+<p>Microsoft Research's Project Hawaii is an academic outreach and research dissemination project.
+The academic goal of Hawaii is to enable graduate and undergraduate university students to gain
+understanding and expertise in developing cloud-enabled mobile applications using the Microsoft Mobile
+and Cloud infrastructure. Project Hawaii is a collection of cloud services, hosted in Windows Azure;
+a Visual Studio 2010 based development SDK and sample application code; a community forum for
+exchange of ideas; and, mobile platform hardware (Windows Phone 7). Project Hawaii started in Spring
+2010 when it was offered as a pilot project in USC, Duke and Wisconsin-Madison. In Fall 2010 Project
+Hawaii was offered in MSU, CMU, Michigan, Maryland, Arkansas, UCSB and Singapore Management U.
+Its third offering would be in Spring 2011 in more than 15 schools internationally. Prominent among the
+Spring 2011 schools are Stanford, UCSB, Purdue, University College London; to name a few.</p>
+<p>In this session Project Hawaii team will provide an overview of the project, with an emphasis on its use
+as a project companion for teaching mobile and cloud computing courses. Instructors who have been
+associated with Project Hawaii will be invited to talk about their experiences using Hawaii as a course
+companion for teaching cloud-enabled mobile computing courses to graduate and undergraduate
+computer science and engineering students. Demonstrations of projects by students using Hawaii will be
+featured in the demo session.</p>
+
+
+<div class="SectionHeader"><div class="Full">
 <h2><a name="innovativeApproaches">Innovative approaches to introducing Computer Science</a></h2>
 </div></div>
 <img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 11:00am - 5:30pm
