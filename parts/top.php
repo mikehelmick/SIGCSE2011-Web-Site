@@ -15,6 +15,11 @@
 	<script type="text/javascript" src="/sigcse2011/js/lightbox.js"></script>
 
 	<?php
+	    function endsWith($haystack,$needle,$case=true) {
+		    if($case){return (strcmp(substr($haystack, strlen($haystack) - strlen($needle)),$needle)===0);}
+		    return (strcasecmp(substr($haystack, strlen($haystack) - strlen($needle)),$needle)===0);
+		}
+	
 		if(isset($_GET["print"]))
 			$style = "print.css";
 		else 
@@ -57,7 +62,8 @@
   <div id="contentarea" class="clear">
 	<div id="content">
 		<div id="printIcon">
-			<a href="<?php echo $_SERVER["REQUEST_URI"] ?><?php echo "?print"?>"><img src="/sigcse2011/images/printer.png" align="absmiddle" /> Print</a>
+			<a href="<?php echo $_SERVER["REQUEST_URI"] ?><?php if (!endsWith($_SERVER["REQUEST_URI"], "?print")) { echo "?print"; } ?>"><img src="/sigcse2011/images/printer.png" align="absmiddle" /> Print</a>
 		</div>
+		
 		
 
