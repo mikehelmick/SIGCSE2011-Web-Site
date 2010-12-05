@@ -4,7 +4,7 @@
  include("../parts/top.php");
 ?>       
      
-<div id="GoodMessage">Registration is not yet open.</div>
+<div id="GoodMessage">Online registration is coming soon!!!</div>
 
 <h1>SIGCSE 2011 Registration Gateway</h1>
       
