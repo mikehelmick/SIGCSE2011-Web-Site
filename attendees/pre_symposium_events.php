@@ -24,7 +24,7 @@ Source Web Repository.</p>
 <div class="SectionHeader"><div class="Full">
 <h2><a name="hawaii">Hawaii – Project companion for cloud-enabled mobile computing courses</a></h2>
 </div></div>
-<img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 11:00am - 5:30pm
+<img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 1:00pm - 5:00pm
 <p>Microsoft Research's Project Hawaii is an academic outreach and research dissemination project.
 The academic goal of Hawaii is to enable graduate and undergraduate university students to gain
 understanding and expertise in developing cloud-enabled mobile applications using the Microsoft Mobile
