@@ -56,7 +56,7 @@
  </tr>
 
  <tr class="even hover">
-  <td><strong>Intel(R) Manycore Testing Lab: A hands-on approach to integrating parallelism in today’s classrooms</strong><ul>
+  <td><strong>Intel(R) Manycore Testing Lab: A hands-on approach to integrating parallelism in today's classrooms</strong><ul>
 	<li>Jennifer Levine, Intel Academic Community</li>
    </ul>	
   </td>
