@@ -52,6 +52,7 @@ K-12 teachers only.</p>
  <li>Workshops (each): $65 early, $80 late, $95 on-site</li>
  <li>Additional reception tickets: $25 each</li>
  <li>Additional luncheon tickets: $40 each</li>
+ <li>Poken: $15 each - <a href="pokens.php">more information</a></li>
  <li>Additional copies of the symposium proceedings CD: $10 each</li>
  <li>A limited number of printed copies of the symposium proceedings will be available for $35 each.</li>
 </ul>
