@@ -19,6 +19,14 @@
   <changefreq>daily</changefreq>
 </url>
 <url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/students/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
   <loc>http://www.sigcse.org/sigcse2011/exhibitors/</loc>
   <changefreq>daily</changefreq>
 </url>
@@ -28,6 +36,14 @@
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2011/committee/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/?print</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -83,6 +99,10 @@
   <changefreq>daily</changefreq>
 </url>
 <url>
+  <loc>http://www.sigcse.org/sigcse2011/reviewers/?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
   <loc>http://www.sigcse.org/sigcse2011/reviewers/guide_papers.php</loc>
   <changefreq>daily</changefreq>
 </url>
@@ -107,11 +127,99 @@
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://www.sigcse.org/sigcse2011/exhibitors/downloads/SIGCSE_EP11.pdf</loc>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/keynotes.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/pre_symposium_events.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/video_program.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/registration.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/fees.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/pokens.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/travel_information.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/accommodations.php</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2011/attendees/visas.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/floor_plans.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/students/?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/students/research.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/students/volunteer.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/exhibitors/?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/exhibitors/downloads/SIGCSE_EP11.pdf</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/exhibitors/downloads/acm_sigcse_2011_floorplan.pdf</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/faq/?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/committee/?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/papers.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/panels.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/special_sessions.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/student_research.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/workshops.php?print</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -123,11 +231,23 @@
   <changefreq>daily</changefreq>
 </url>
 <url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/videos.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
   <loc>http://www.sigcse.org/sigcse2011/downloads/SIGCSE2011VideoPermissionForm.doc</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2011/downloads/SIGCSE201VideoPermissionForm.pdf</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/posters.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/bof.php?print</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -139,7 +259,99 @@
   <changefreq>daily</changefreq>
 </url>
 <url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/final_submission.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/format.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/no_show.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/authors/creating_pdf.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/reviewers/guide_papers.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
   <loc>http://www.sigcse.org/sigcse2011/reviewers/metareviews.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/reviewers/guide_panels.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/reviewers/guide_sessions.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/reviewers/guide_workshops.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/reviewers/guide_bofs.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/reviewers/guide_posters.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/keynotes.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/pre_symposium_events.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/video_program.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/registration.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/fees.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/pokens.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/travel_information.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/accommodations.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/visas.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/attendees/floor_plans.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/students/research.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/students/volunteer.php?print</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2011/reviewers/metareviews.php?print</loc>
   <changefreq>daily</changefreq>
 </url>
 </urlset>
