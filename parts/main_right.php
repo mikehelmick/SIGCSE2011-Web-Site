@@ -1,6 +1,6 @@
 <h2>News</h2>
 <ul>
-  <li>Registration information will be posted soon, in early December, 2010.</li>	
+  <li><a href="/sigcse2011/attendees/registration.php">Online registration is now open.</a></li>	
 	
   <li>New event for 2011! <a href="http://elvis.rowan.edu/~kay/sigcse/rodeo.html">Robot Hoedown and Rodeo</a>. No experience necessary, but if you have robots and experience, <a href="http://elvis.rowan.edu/~kay/sigcse/cfw.html">we could use you as a wrangler</a>!</li>
 </ul>

@@ -4,6 +4,8 @@
  include("parts/top.php");
 ?>
 
+<div id="GoodMessage">Dec 6, 2010: <strong><a href="/sigcse2011/attendees/registration.php">Registration is now open</a>!</strong> Early registration ends January 31, 2011.</div>
+
 <div class="SectionHeader"><div class="Full">
 <h2>Welcome to SIGCSE 2011</h2>
 </div></div>
