@@ -76,7 +76,8 @@ significantly cheaper.</p>
 
 <p>Visit the <a href="http://www.starwoodhotels.com/sheraton/property/area/transportation.html?propertyID=3207">Sheraton hotel website</a> for more information on transportation options and parking.</p>
 
-<iframe width="725" height="475" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Sheraton+Dallas+Hotel,+400+North+Olive+Street,+Dallas,+TX+75201&amp;sll=37.0625,-95.677068&amp;sspn=38.281301,71.894531&amp;ie=UTF8&amp;hq=Sheraton+Dallas+Hotel,&amp;hnear=400+N+Olive+St,+Dallas,+Texas+75201&amp;ll=32.781718,-96.798134&amp;spn=0.034277,0.062313&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Sheraton+Dallas+Hotel,+400+North+Olive+Street,+Dallas,+TX+75201&amp;sll=37.0625,-95.677068&amp;sspn=38.281301,71.894531&amp;ie=UTF8&amp;hq=Sheraton+Dallas+Hotel,&amp;hnear=400+N+Olive+St,+Dallas,+Texas+75201&amp;ll=32.781718,-96.798134&amp;spn=0.034277,0.062313&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+<iframe width="725" height="475" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=102076310878235883699.000496c546a14db1f4f6a&amp;ll=32.784659,-96.794808&amp;spn=0,0&amp;t=h&amp;iwloc=lyrftr:h,672199969281003387,32.784659,-96.794808&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=102076310878235883699.000496c546a14db1f4f6a&amp;ll=32.784659,-96.794808&amp;spn=0,0&amp;t=h&amp;iwloc=lyrftr:h,672199969281003387,32.784659,-96.794808&amp;source=embed" style="color:#0000FF;text-align:left">SIGCSE 2011</a> in a larger map</small>
+
             
 <?php include("../parts/middle.php"); ?>  
 
