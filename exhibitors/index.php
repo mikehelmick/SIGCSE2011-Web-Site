@@ -144,6 +144,15 @@
 <h2>In-Kind Donations</h2>
 </div></div>
 
+<table><tr>
+<td valign="top" align="left"><ul>
+  <li>Morgan Kaufman - Conference bags</li>
+</ul></td>
+<td valign="top" align="left">
+	
+</td>
+</tr></table>
+
 <div class="SectionHeader"><div class="Full">
 <h2>Questions?</h2>
 </div></div>
