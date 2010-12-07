@@ -49,6 +49,12 @@ site, your stay will still be counted toward our required room block, but
 keep in mind that there are often restrictions and/or penalties associated
 with these rates. )</em></p>
 
+<p><strong>WIN A FREE UPGRADE</strong>: Every attendee that preregisters for SIGCSE 2011 at
+the regular conference rate and reserves a room at the Sheraton Dallas
+will be entered into a drawing to win a complimentary upgrade to a suite.
+(Free upgrade drawing not available with exhibits-only, teacher or student
+rates.)</p>
+
             
 <div class="SectionHeader" style="clear: left"><div class="Full">
 <h2>Roommate matching</h2>
