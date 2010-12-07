@@ -18,7 +18,7 @@
 <p><b>Parents</b>: Interested in bringing your kids to SIGCSE?  We will continue the tradition of "Kids' Camp" for fun and educational child care during SIGCSE.</p>
 
 <p><strong>WIN A FREE UPGRADE</strong>: Every attendee that preregisters for SIGCSE 2011 at
-the regular conference rate and reserves a room at the Sheraton Dallas
+the regular conference rate and <a href="accommodations.php">reserves a room at the Sheraton Dallas</a>
 will be entered into a drawing to win a complimentary upgrade to a suite.
 (Free upgrade drawing not available with exhibits-only, teacher or student
 rates.)</p>
