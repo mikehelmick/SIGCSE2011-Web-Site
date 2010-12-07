@@ -1,6 +1,6 @@
 
 <?php
- $title = "SIGCSE 2010 - Exhibitors and Supporters";
+ $title = "SIGCSE 2011 - Exhibitors and Supporters";
  $menu = "exhibitors";
  include("../parts/top.php");
 ?>        <!-- <h2>Important Dates</h2> -->
@@ -145,8 +145,12 @@
 </div></div>
 
 <table><tr>
-<td valign="top" align="left"><ul>
+<td valign="top" align="left"><ul>	
+  <li>Microsoft - Computers and t-shirts for Kids Camp</li>
   <li>Morgan Kaufman - Conference bags</li>
+  <li>Pearson - Lanyards</li>
+  <li>Turingscraft - Student Volunteer T-shirts</li>
+  <li>UPE - Pizza Party for student volunteers</li>
 </ul></td>
 <td valign="top" align="left">
 	
