@@ -14,6 +14,7 @@
 	 <li><a href="/sigcse2011/attendees/travel_information.php"><img src="/sigcse2011/images/tag_orange.png" align="absmiddle"/> Travel Information</a></li>
 	 <li><a href="/sigcse2011/attendees/accommodations.php"><img src="/sigcse2011/images/clock.png" align="absmiddle"/> Accommodations</a></li>	
 	 <li><a href="http://www.visitdallas.com/WelcomeSIGCSE2011" target="_blank"><img src="/sigcse2011/images/weather_sun.png" align="absmiddle"/> Local Attractions</a></li>
+	 <li><a href="/sigcse2011/attendees/kids_camp.php"><img src="/sigcse2011/images/group.png" align="absmiddle"/> Kids Camp</a></li>
 	 <li><a href="/sigcse2011/attendees/visas.php"><img src="/sigcse2011/images/folder_database.png" align="absmiddle"/> Visa Information</a></li>
 	 <li><a href="/sigcse2011/attendees/floor_plans.php"><img src="/sigcse2011/images/map.png" align="absmiddle"/> Floor Plans</a></li>
 	 <li><a href="/sigcse2011/faq/#attendees"><img src="/sigcse2011/images/help.png" align="absmiddle" /> FAQ</a></li>
