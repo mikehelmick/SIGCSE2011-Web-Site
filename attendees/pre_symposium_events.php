@@ -22,7 +22,7 @@ Source Web Repository.</p>
 </p>
 
 <div class="SectionHeader"><div class="Full">
-<h2><a name="hawaii">Hawaii – Project companion for cloud-enabled mobile computing courses</a></h2>
+<h2><a name="hawaii">Hawaii - Project companion for cloud-enabled mobile computing courses</a></h2>
 </div></div>
 <img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 1:00pm - 5:00pm
 <p>Microsoft Research's Project Hawaii is an academic outreach and research dissemination project.
@@ -77,7 +77,7 @@ in CSE typically have few female colleagues to provide critical information abou
 required for successful academic careers. To help this situation, the Computing Research Association
 Committee on the Status of Women in Computing Research (CRA-W) will sponsor a career/mentoring
 workshop titled "Managing the Academic Career for Women Faculty in Undergraduate Computing
-Programs"". The day-long workshop, to be held on Wednesday, March 9, will be co-located with the
+Programs". The day-long workshop, to be held on Wednesday, March 9, will be co-located with the
 SIGCSE 2011 conference in Dallas. The goal of the workshop is to provide critical mentoring information
 for women at all career levels in undergraduate teaching. The target audiences of the workshop are
 pre-tenure faculty and graduate students in Computer Science and Engineering who are interested in an
@@ -162,7 +162,7 @@ current users of the curriculum.</p>
 </ul>
 
 <div class="SectionHeader"><div class="Full">
-<h2><a name="sigcas">The 3rd Annual Humanitarian FOSS Symposium 2011</a></h2>
+<h2><a name="hfoss">The 3rd Annual Humanitarian FOSS Symposium 2011</a></h2>
 </div></div>
 <img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, TBA
 
