@@ -133,6 +133,7 @@
 	<li>Pearson Higher Education</li>
 	<li>Research In Motion Corporation</li>
 	<li>RidgSoft</li>
+	<li>Springer</li>
 	<li>The College Board</li>
 	<li>The MIT Press</li>
 	<li>Turing’s Craft</li>
