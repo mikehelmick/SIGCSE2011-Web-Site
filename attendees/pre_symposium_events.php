@@ -114,7 +114,7 @@ primarily computer science educators.</p>
 <h2><a name="programByDesign">Program by Design: Bootstrap, TeachScheme, ReachJava, and Beyond</a></h2>
 </div></div>
 <img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 8:00am to 5:30pm
-<p>More information at <a href="http://www.programbydesign.org/events/sigcse2011/">http://www.programbydesign.org/events/sigcse2011/</a></p>
+<p>More information at <a href="http://www.programbydesign.org/events/sigcse2011">http://www.programbydesign.org/events/sigcse2011</a></p>
 <p>Want to create excitement without sacrificing principles or losing a
 clear connection to mainstream CS? Check out Program by Design, which
 is what TeachScheme! has grown up to become. See how you can program
