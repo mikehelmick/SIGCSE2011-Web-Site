@@ -96,9 +96,13 @@ skills.</p>
 <div class="SectionHeader"><div class="Full">
 <h2><a name="new_faculty">New Educators Roundtable</a></h2>
 </div></div>
-<img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, TBA
+<img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 12:30 – 5:00pm
 
-<p>New to teaching? Seeking advice and mentorship? Join us at the New Educators Roundtable (NER), a half-day workshop designed to mentor college and university faculty who are new to teaching. We welcome participants from across the entire teaching spectrum: tenure-track faculty at institutions where teaching is central, teaching-track faculty and lecturers, and graduate students who currently teach or are looking forward to an academic career. Come with your questions and concerns, learn from the experiences and best practices of sage elders, and build an international support group for your career. The roundtable will be held from (time to be determined) on Wednesday, March 9, 2010, immediately before the SIGCSE Symposium. Lunch will be provided.</p>
+<p>New to teaching? Seeking advice and mentorship? Join us at the New Educators Roundtable (NER), a half-day workshop designed to mentor college and university faculty who are new to teaching. We welcome participants from across the entire teaching spectrum: tenure-track faculty at institutions where teaching is central, teaching-track faculty and lecturers, and graduate students who currently teach or are looking forward to an academic career. Come with your questions and concerns, learn from the experiences and best practices of sage elders, and build an international support group for your career.</p>
+<p><ul>
+  <li>Julie Zelenski, Stanford University</li>
+  <li>David Reed, Creighton University</li>
+</ul></p>
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="sigcas">Open meeting of the Special Interest Group on Computers and Society (SIGCAS)</a></h2>
