@@ -1,4 +1,3 @@
-
 <?php
  $title = "SIGCSE 2011 - Exhibitors and Supporters";
  $menu = "exhibitors";
@@ -112,13 +111,16 @@
 <table><tr>
 <td valign="top" align="left">
  <ul>
+	<li>ACM SIGADA</li>
+	<li>ACM-W</li>
 	<li>AlgoViz.org/ Ensemble Projects</li>
 	<li>Auburn University</li>
 	<li>Broadening Participation in Computing</li>
 	<li>CCS, Inc.</li>
 	<li>Course Technology Cengage Learning</li>
 	<li>CRC Press- Taylor & Francis Group LLC</li>
-	<li>IBM</li>
+	<li>Franklin, Beedle &amp; Associated Incorporated</li>
+	<li>IBM / Academic Initiative</li>
 	<li>Intel Corporation</li>
 	<li>Intersystems Corporation</li>
 	<li>Jones and Bartlett</li>
