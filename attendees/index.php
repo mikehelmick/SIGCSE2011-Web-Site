@@ -5,12 +5,11 @@
  include("../parts/top.php");
 ?>        <!-- <h2>Important Dates</h2> -->
         
-
-<div id="GoodMessage">Information for symposium attendees is still being filled in. Please check back often!</div>
-
 <div class="SectionHeader" style="clear:left;"><div class="Full">
 <h2>Information for SIGCSE 2011 Symposium Attendees</h2>
 </div></div>
+
+<p><strong>All conference activities will be at the Sheraton hotel and its attached conference center.</strong>  The Sheraton Dallas Hotel and conference center is located at 400 North Olive Street, Dallas, TX 75201. More information can be found on our <a href="/sigcse2011/attendees/accommodations.php">accommodations page</a>.</p>
 
 <table cellspacing="5px" width="100%">
 <tr>
