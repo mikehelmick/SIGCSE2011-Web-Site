@@ -46,8 +46,8 @@
 //  Configurationl
 //
 LightboxOptions = Object.extend({
-    fileLoadingImage:        '/sigcse2010/images/loading.gif',     
-    fileBottomNavCloseImage: '/sigcse2010/images/closelabel.gif',
+    fileLoadingImage:        '/sigcse2011/lightbox/loading.gif',     
+    fileBottomNavCloseImage: '/sigcse2011/lightbox/closelabel.gif',
 
     overlayOpacity: 0.8,   // controls transparency of shadow overlay
 

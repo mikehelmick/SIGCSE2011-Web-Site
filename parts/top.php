@@ -29,7 +29,7 @@
 		<link rel='stylesheet' type='text/css' href='/sigcse2011/css/$style' title='Current'>
 		";
 	?>
-	
+	<link rel="stylesheet" href="/sigcse2011/css/lightbox.css" type="text/css" media="screen" />
 </head>
 
 <body onload="remove_frames();">
