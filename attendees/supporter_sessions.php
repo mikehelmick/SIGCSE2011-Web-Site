@@ -13,6 +13,7 @@
  <li><strong>Thursday, March 10, 2011</strong><ul>
    <li>10:45 - 12:00 - <a href="#microsoft">Mircrosoft</a></li>
    <li>1:45 - 3:00 - <a href="#intel">Intel</a></li>
+   <li>1:45 - 3:00 - <a href="#aws">Amazon Web Services</a></li>
    <li>3:45 - 5:00 - <a href="#ibm">IBM</a></li>
  </ul></li>
  <li><strong>Friday, March 11, 2011</strong><ul>
@@ -95,6 +96,21 @@ Speakers: Peli de Halleux and Nikolai Tillmann, Microsoft Research, Redmond<br/>
 PexForFun can be used to learn software programming at many levels, from high school all the way through graduate courses. With PexForFun, the student edits the code in any browser and we execute it and analyze it for you in the cloud. PexForFun supports C#, VisualBasic and F#.  Because Pex4Fun has Intellisense, learning the syntax is not an obstacle for beginners. PexForFun finds interesting and unexpected input values that help students understand what their code is actually doing. Under the hood, PexForFun uses dynamic symbolic execution to thoroughly explore feasible execution paths. The real fun starts with Coding Duels where the student has to write code that implements a specification. PexForFun finds any discrepancies between the student’s code and the specification. PexForFun connects teachers, curriculum authors and students in a unique social experience, tracking and streaming progress updates in real time. Enough said, try it for yourself at <a href="http://pex4fun.com/">http://pex4fun.com/</a>  and come and hear about it at this tutorial, given by the authors of the system.	
 </p>
 
+<div class="SectionHeader"><div class="Full">
+<h2><a name="aws">Amazon Web Services</a></h2>
+</div></div>
+
+<p>Thursday, March 10, 2011 - 10:45am to 12:00pm</p>
+
+<p><img src="/sigcse2011/images/logos/sponsors/aws.jpg" align="left" class="headshot" />
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;</p>
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="ibm">IBM</a></h2>
