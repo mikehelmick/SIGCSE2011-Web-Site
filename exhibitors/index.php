@@ -98,7 +98,10 @@
  <td align="center" valign="top" colspan="2"><h3>Gold Supporters</h3></td>
 </tr>
 <tr>
- <td align="center" valign="middle" colspan="2">
+ <td align="center" valign="middle">
+   <a href="http://aws.amazon.com" alt="Amazon Web Services"><img src="/sigcse2011/images/logos/sponsors/aws.jpg" /></a>
+ </td>
+ <td align="center" valign="middle">
    <a href="http://www.ibm.com/academicinitiative" alt="IBMim"><img src="/sigcse2011/images/logos/sponsors/ibm.png" /></a>
  </td>
 </tr>
@@ -114,6 +117,7 @@
 	<li>ACM SIGADA</li>
 	<li>ACM-W</li>
 	<li>AlgoViz.org/ Ensemble Projects</li>
+	<li>Amazon Web Services</li>
 	<li>Auburn University</li>
 	<li>Broadening Participation in Computing</li>
 	<li>CCS, Inc.</li>
@@ -123,12 +127,12 @@
 	<li>IBM / Academic Initiative</li>
 	<li>Intel Corporation</li>
 	<li>Intersystems Corporation</li>
-	<li>Jones and Bartlett</li>
-	<li>LEGO Education, North America</li>
  </ul>
 </td>
 <td valign="top" align="left">
  <ul>
+	<li>Jones and Bartlett</li>
+	<li>LEGO Education, North America</li>
 	<li>Microsoft</li>
 	<li>Morgan Kaufmann</li>
 	<li>NSF</li>

@@ -45,8 +45,11 @@ and other elements of teaching and pedagogy, at all levels of instruction.</p>
  <td align="center" valign="top" colspan="2"><h3>Gold Supporters</h3></td>
 </tr>
 <tr>
- <td align="center" valign="middle" colspan="2">
-   <a href="http://www.ibm.com/academicinitiative" alt="IBMim"><img src="/sigcse2011/images/logos/sponsors/ibm.png" /></a>
+ <td align="center" valign="middle">
+   <a href="http://aws.amazon.com" alt="Amazon Web Services"><img src="/sigcse2011/images/logos/sponsors/aws.jpg" /></a>
+ </td>
+ <td align="center" valign="middle">
+   <a href="http://www.ibm.com/academicinitiative" alt="IBM academic initiative"><img src="/sigcse2011/images/logos/sponsors/ibm.png" /></a>
  </td>
 </tr>
 </table>
