@@ -156,6 +156,7 @@
   <li>Microsoft - Computers and t-shirts for Kids Camp</li>
   <li>Morgan Kaufman - Conference bags</li>
   <li>Pearson - Lanyards</li>
+  <li>School of Computer Science, Carnegie Mellon University - Conference signage</li>
   <li>Turingscraft - Student Volunteer T-shirts</li>
   <li>UPE - Pizza Party for student volunteers</li>
 </ul></td>
