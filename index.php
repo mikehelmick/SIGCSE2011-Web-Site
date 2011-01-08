@@ -46,7 +46,7 @@ and other elements of teaching and pedagogy, at all levels of instruction.</p>
 </tr>
 <tr>
  <td align="center" valign="middle">
-   <a href="http://aws.amazon.com" alt="Amazon Web Services"><img src="/sigcse2011/images/logos/sponsors/aws.jpg" /></a>
+   <a href="http://aws.amazon.com/education" alt="Amazon Web Services"><img src="/sigcse2011/images/logos/sponsors/aws.jpg" /></a>
  </td>
  <td align="center" valign="middle">
    <a href="http://www.ibm.com/academicinitiative" alt="IBM academic initiative"><img src="/sigcse2011/images/logos/sponsors/ibm.png" /></a>
