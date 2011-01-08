@@ -169,7 +169,7 @@ current users of the curriculum.</p>
 <div class="SectionHeader"><div class="Full">
 <h2><a name="hfoss">The 3rd Annual Humanitarian FOSS Symposium 2011</a></h2>
 </div></div>
-<img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, TBA
+<img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 8:30am - 6:00pm
 
 <p>The Third annual HFOSS Education Symposium (<a href="http://www.hfoss.org/hfoss2011">HFOSS 2011</a>), held as a SIGCSE 2011 pre-conference activity (March 9th 2011, Dallas, Texas), aims to bring together educators,
 software developers, industry representatives, and students to continue the discussion of how best to
@@ -182,6 +182,7 @@ previous years, the symposium will be highly interactive, taking place entirely 
 addition to the keynote address by Bryan Sivak, the symposium will include a poster session, and panels
 on government, K-12 education, and non-profits, made up of invited speakers and participants from
 industry, academia, and the non-profit sector.</p>
+<p>For more information and registration visit <a href="http://www.hfoss.org/hfoss2011">http://www.hfoss.org/hfoss2011</a></p>
 <p>Organizers and affiliations:
 <ul>
 <li>Ralph Morelli (chair), Trinity College</li>
