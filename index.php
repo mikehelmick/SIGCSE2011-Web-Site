@@ -31,24 +31,28 @@ and other elements of teaching and pedagogy, at all levels of instruction.</p>
 
 <table width="100%">
 <tr>
- <td align="center" valign="top" colspan="2"><h3>Platinum Supporters</h3></td>
+ <td align="center" valign="top" colspan="5"><h3>Platinum Supporters</h3></td>
 </tr>
 <tr>
+ <td align="center" valign="middle" colspan="2">
+   <a href="http://research.google.com/university/" alt="Google"><img src="/sigcse2011/images/logos/sponsors/google.png" /></a>
+ </td>
  <td align="center" valign="middle">
    <a href="http://www.intel.com/education/" alt="Intel Education"><img src="/sigcse2011/images/logos/sponsors/intel.png" /></a>
  </td>
- <td align="center" valign="middle">
+ <td align="center" valign="middle" colspan="2">
    <a href="http://www.microsoft.com/education/highered/faculty/" alt="Microsoft Highered"><img src="/sigcse2011/images/logos/sponsors/microsoft.png" /></a>
  </td>
 </tr>
 <tr>
- <td align="center" valign="top" colspan="2"><h3>Gold Supporters</h3></td>
+ <td align="center" valign="top" colspan="5"><h3>Gold Supporters</h3></td>
 </tr>
 <tr>
- <td align="center" valign="middle">
+ <td align="center" valign="middle" colspan="2">
    <a href="http://aws.amazon.com/education" alt="Amazon Web Services"><img src="/sigcse2011/images/logos/sponsors/aws.jpg" /></a>
  </td>
- <td align="center" valign="middle">
+ <td>&nbsp;</td>
+ <td align="center" valign="middle" colspan="2">
    <a href="http://www.ibm.com/academicinitiative" alt="IBM academic initiative"><img src="/sigcse2011/images/logos/sponsors/ibm.png" /></a>
  </td>
 </tr>

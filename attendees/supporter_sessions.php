@@ -19,12 +19,30 @@
  <li><strong>Friday, March 11, 2011</strong><ul>
    <li>10:45 - 12:00 - <a href="#microsoft">Mircrosoft</a></li>
    <li>1:45 - 3:00 - <a href="#intel">Intel</a></li>
-   <li>3:45 - 5:00</li>
+   <li>1:45 - 3:00 - <a href="#google">Google</a></li>
+   <li>3:45 - 5:00 - <a href="#google">Google</a></li>
  </ul></li>
  <li><strong>Saturday, March 12, 2011</strong><ul>
    <li>10:55 - 12:10</li>
  </ul></li>
 </ul>
+
+<div class="SectionHeader"><div class="Full">
+<h2><a name="intel">Google</a></h2>
+</div></div>
+<p><ul><li>Friday, March 11, 2011 - 1:45pm to 3:00pm</li>
+<li>Friday, March 11, 2011 - 3:45pm to 5:00pm</li></ul></p>
+
+<p>
+<img src="/sigcse2011/images/logos/sponsors/google.png" align="left" class="headshot" />
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;</p>
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="intel">Intel</a></h2>
@@ -100,7 +118,7 @@ PexForFun can be used to learn software programming at many levels, from high sc
 <h2><a name="aws">Amazon Web Services</a></h2>
 </div></div>
 
-<p>Thursday, March 10, 2011 - 10:45am to 12:00pm</p>
+<p>Thursday, March 10, 2011 - 1:45pm - 3:00pm</p>
 
 <p><img src="/sigcse2011/images/logos/sponsors/aws.jpg" align="left" class="headshot" />
 &nbsp;<br/>
