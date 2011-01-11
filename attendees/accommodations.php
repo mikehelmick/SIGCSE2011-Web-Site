@@ -20,7 +20,7 @@ roommate to reduce the cost of attending the symposium.</p>
 
 <p><img src="/sigcse2011/images/sheraton-dallas-hotel.jpg" width="300" align="left" class="headshot" />
 The conference hotel is Sheraton Dallas Hotel, 400 North Olive Street, Dallas, TX 75201. The group rate is $159 + tax.  This rate includes free wireless
-access in hotel rooms in the Sheraton.<br/> 
+access in hotel rooms in the Sheraton.  <em>When making your reservation, you may see that Wifi costs extra. Don't panic! As long as make your hotel reservation through this link, wireless internet access is included in your stay.</em><br/> 
 <strong><a href="http://www.starwoodmeeting.com/StarGroupsWeb/res?id=1011221675&key=112A2">Click here to make your hotel reservations</a></strong>
 <br/>&nbsp;<br/>
 <strong>All conference activities will be at the Sheraton hotel and its attached conference center.</strong>
