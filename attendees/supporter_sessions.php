@@ -82,7 +82,7 @@ Bob Chesebrough will demonstrate a command-line ray tracer application created b
 
 <strong>F# - From Foundations to Modern Parallel and Data Rich Functional Programming</strong><br/>
 Speakers: Don Syme (Microsoft Research, Cambridge) and Nigel Horspool tbc (University of Victoria)<br/>
-<em>Thursday, March 10, 2011 - 10:45am to 12:00pm<br/>
+<em>Thursday, March 10, 2011 - 10:45am to 12:00pm</em><br/>
 &nbsp;<br/>
 F# is a multi-paradigm programming language, targeting the .NET/Mono platforms. F# brings you type safe, succinct, efficient and expressive functional programming language supporting both the imperative and object-oriented programming disciplines. It is a simple and pragmatic language, and has particular strengths in data-oriented programming, parallel I/O programming, parallel CPU programming, scripting and algorithmic development. F# combines the advantages of typed functional programming with a high-quality, well-supported modern runtime system and set of libraries. This tutorial will teach F# from several angles: 
 <ul>
@@ -107,14 +107,12 @@ PexForFun can be used to learn software programming at many levels, from high sc
 <p>Thursday, March 10, 2011 - 1:45pm - 3:00pm</p>
 
 <p><img src="/sigcse2011/images/logos/sponsors/aws.jpg" align="left" class="headshot" />
+<strong>Software as a Service, Cloud Computing, and Software Education</strong><br/>
+Speaker: Armando Fox<br/>
 &nbsp;<br/>
+UC Berkeley leverages the combination of cloud computing and Software as a Service (SaaS), with its emphasis on productively creating well-tested, maintainable, reusable code, to let "one-pizza" teams of Berkeley undergrads design, develop, test, and deploy their own SaaS applications.  Iteration-based agile development rewards regular progress, test-first design results in students actually enjoying testing, and cloud computing showcases deployed projects to friends, colleagues, and future employers, all while students absorb "big ideas" such as higher-order programming and metaprogramming.  I'll also discuss other uses of cloud computing at Berkeley from lower-division through graduate CS courses.<br/>
 &nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;</p>
+Armando Fox is an Adjunct Professor at UC Berkeley, a co-author of "Above the Clouds: A Berkeley View of Cloud Computing", and a researcher at the intersection of cloud computing, machine learning,  and parallel computing.</p>
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="ibm">IBM</a></h2>
