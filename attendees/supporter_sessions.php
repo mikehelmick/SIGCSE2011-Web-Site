@@ -11,13 +11,13 @@
 
 <ul>
  <li><strong>Thursday, March 10, 2011</strong><ul>
-   <li>10:45 - 12:00 - <a href="#microsoft">Mircrosoft</a></li>
+   <li>10:45 - 12:00 - <a href="#microsoft">Microsoft</a></li>
    <li>1:45 - 3:00 - <a href="#intel">Intel</a></li>
    <li>1:45 - 3:00 - <a href="#aws">Amazon Web Services</a></li>
    <li>3:45 - 5:00 - <a href="#ibm">IBM</a></li>
  </ul></li>
  <li><strong>Friday, March 11, 2011</strong><ul>
-   <li>10:45 - 12:00 - <a href="#microsoft">Mircrosoft</a></li>
+   <li>10:45 - 12:00 - <a href="#microsoft">Microsoft</a></li>
    <li>1:45 - 3:00 - <a href="#intel">Intel</a></li>
    <li>1:45 - 3:00 - <a href="#google">Google</a></li>
    <li>3:45 - 5:00 - <a href="#google">Google</a></li>
