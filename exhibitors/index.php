@@ -145,7 +145,7 @@ foreach ($sponsors as $sponsor) {
 	<li>NSF</li>
 	<li>Pearson Higher Education</li>
 	<li>Research In Motion Corporation</li>
-	<li>RidgSoft</li>
+	<li>RidgeSoft</li>
 	<li>Springer</li>
 	<li>The College Board</li>
 	<li>The MIT Press</li>
@@ -164,7 +164,7 @@ foreach ($sponsors as $sponsor) {
   <li>Morgan Kaufman - Conference bags</li>
   <li>Pearson - Lanyards</li>
   <li>School of Computer Science, Carnegie Mellon University - Conference signage</li>
-  <li>Turingscraft - Student Volunteer T-shirts</li>
+  <li>Turing's Craft - Student Volunteer T-shirts</li>
   <li>UPE - Pizza Party for student volunteers</li>
 </ul></td>
 <td valign="top" align="left">
