@@ -35,14 +35,53 @@
 
 <p>
 <img src="/sigcse2011/images/logos/sponsors/google.png" align="left" class="headshot" />
+<strong>Google’s Education Initiatives in 2011</strong><br/>
+<em>Friday, March 11th - 1:45 - 3:00pm</em><br/>
 &nbsp;<br/>
+Google believes that all students should have the opportunity to
+become active creators of tomorrow's technology.  Our goal is to
+leverage Google's strengths and infrastructure to increase access to
+high-quality, open educational content and technology in science,
+engineering, and math.  We support access to computing curriculum and
+educational technology for all students, leveling the playing field so
+that students and educators alike have the opportunity to shape the
+technologies of their future.<br/>
 &nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;</p>
+During this session we will share what Google Education is planning
+for 2011 and how CS educators can use the following Google programs to
+inspire their students:
+<ul>
+<li>App Inventor for Android</li>
+<li>Google Summer of Code</li>
+<li>Computer Science 4 High School (CS4HS)</li>
+<li>Computational Thinking</li>
+</ul>
+</p>
+
+<p><strong>Talk in Depth with Representatives from Google’s Education Programs</strong>
+<em>Friday, March 11th - 3:45 - 5:00pm</em><br/>&nbsp;<br/>
+Google supports access to computing curriculum and educational
+technology for all students, leveling the playing field so that
+students and educators alike have the opportunity to shape the
+technologies of their future.  The creators of tomorrow's innovations
+are everywhere, ready to be engaged and inspired.<br/>&nbsp;<br/>
+This session will be your opportunity to talk in depth with Google
+representatives from key Google CS education programs.  We’ll also
+share material from other Google education programs and provide an
+opportunity to explore how, together, we can inspire students to shape
+the technologies of tomorrow.  Representatives from the following
+programs will be present:
+<ul>
+<li>App Inventor for Android</li>
+<li>Google Summer of Code</li>
+<li>Computer Science 4 High School (CS4HS)</li>
+<li>Computational Thinking</li>
+<li>Others TBD</li>
+</ul></p>
+
+<p><strong>Google Beer and Wine Reception</strong><br/>
+<em>Friday, March 11th - 5:00pm - 6:00pm</em><br/>&nbsp;<br/>
+After a great time thinking about how to reach out and take CS education to the next level, come continue the conversation over a drink and some hors d'oeuvre on Google!</p>
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="intel">Intel</a></h2>
