@@ -127,10 +127,10 @@ foreach ($sponsors as $sponsor) {
 	<li>Amazon Web Services</li>
 	<li>Auburn University</li>
 	<li>Broadening Participation in Computing</li>
-	<li>CCS, Inc.</li>
 	<li>Course Technology Cengage Learning</li>
 	<li>CRC Press- Taylor & Francis Group LLC</li>
 	<li>Franklin, Beedle &amp; Associated Incorporated</li>
+	<li>Google</li>
 	<li>IBM / Academic Initiative</li>
 	<li>Intel Corporation</li>
 	<li>Intersystems Corporation</li>
