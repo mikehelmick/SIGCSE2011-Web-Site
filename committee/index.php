@@ -190,7 +190,7 @@
 	University of British Columbia <br/>
 	<script>write_email( "sigcse11-evaluations", "cs.cmu.edu" );</script>
       </td>
-      <td valign="top" align="center">&nbsp;</td>
+      <td valign="top" align="center"><img src="/sigcse2011/images/committee/eiselt.jpg" /></td>
       <td>&nbsp;</td>
       </tr>
 
