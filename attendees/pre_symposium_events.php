@@ -83,11 +83,11 @@ for women at all career levels in undergraduate teaching. The target audiences o
 pre-tenure faculty and graduate students in Computer Science and Engineering who are interested in an
 academic career, as well as post-tenure (senior) faculty seeking to improve their teaching and mentoring
 skills.</p>
-<p>More information at <a href="http://cra-w.org/mentorWrkshp/cmwe-2011">http://cra-w.org/mentorWrkshp/cmwe-2011</a></p>
+<p>More information at <a href="http://cra-w.org/ArticleDetails/tabid/77/ArticleID/75/Default.aspx">http://cra-w.org/ArticleDetails/tabid/77/ArticleID/75/Default.aspx</a></p>
 <p>
 <ul>
- <li>Susan Rodger, Duke University</li>
- <li>Sheila Castaneda, Clarke University - <script>write_email("Sheila.Castaneda", "clarke.ed");</script></li>
+ <li>Susan Rodger, Duke University - <script>write_email("rodger", "cs.duke.edu");</script></li>
+ <li>Sheila Castaneda, Clarke University - <script>write_email("Sheila.Castaneda", "clarke.edu");</script></li>
 </ul>
 </p>
 
