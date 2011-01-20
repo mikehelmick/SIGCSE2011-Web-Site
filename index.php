@@ -29,6 +29,58 @@ and other elements of teaching and pedagogy, at all levels of instruction.</p>
 <h2>SIGCSE 2011 Supporters</h2>
 </div></div>
 
+<div class="SectionHeader"><div class="Full">
+<h2>SIGCSE 2011 Supporters and Exhibitors</h2>
+</div></div> 
+
+<table width="100%">
+<tr>
+ <td align="center" valign="top" colspan="5"><h3>Platinum Plus Supporter</h3></td>
+</tr>	
+<tr>
+ <td>&nbsp;</td>
+ <?php include("../parts/sponsor_microsoft.php"); ?>
+ <td>&nbsp;</td>
+</tr>
+<tr>
+ <td align="center" valign="top" colspan="5"><h3>Platinum Supporters</h3></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<?php
+$sponsors = array("../parts/sponsor_google.php", "../parts/sponsor_intel.php");
+shuffle($sponsors);
+$doEcho = true;
+foreach ($sponsors as $sponsor) {
+  include($sponsor);
+  if ($doEcho) {
+    echo "<td>&nbsp;</td>";
+    $doEcho = false;	
+  }
+}
+?>	
+<td>&nbsp;</td>
+</tr>
+<tr>
+ <td align="center" valign="top" colspan="5"><h3>Gold Supporters</h3></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<?php
+$sponsors = array("../parts/sponsor_amazon.php", "../parts/sponsor_ibm.php");
+shuffle($sponsors);
+$doEcho = true;
+foreach ($sponsors as $sponsor) {
+  include($sponsor);
+  if ($doEcho) {
+    echo "<td>&nbsp;</td>";
+    $doEcho = false;	
+  } 
+}
+?>	
+<td>&nbsp;</td>
+</tr>
+</table>
 
 <?php include("parts/middle.php"); ?> 
 
