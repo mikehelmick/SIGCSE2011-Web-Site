@@ -29,10 +29,6 @@ and other elements of teaching and pedagogy, at all levels of instruction.</p>
 <h2>SIGCSE 2011 Supporters</h2>
 </div></div>
 
-<div class="SectionHeader"><div class="Full">
-<h2>SIGCSE 2011 Supporters and Exhibitors</h2>
-</div></div> 
-
 <table width="100%">
 <tr>
  <td align="center" valign="top" colspan="5"><h3>Platinum Plus Supporter</h3></td>
