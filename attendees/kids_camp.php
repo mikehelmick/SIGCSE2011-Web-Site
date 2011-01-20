@@ -10,6 +10,9 @@
 <p>This year's theme is <strong>Going green!</strong>. The SIGCSE 2010 Kids camp will bel located in the <em>Remington Room</em> (4th floor).</p>
 
 <p>Kids Camp registration is now available! To register your child/children (and to learn more about KiddieCorp, our children's program provider), please visit <a href="https://www.kiddiecorp.com/acmkids.htm">https://www.kiddiecorp.com/acmkids.htm</a>. Instead of on-line registration, you may print, complete, and mail or fax the registration form, provided on the KiddieCorp site, using the contact information provided on the form. A link to this form is available from the KiddieCorp page.</p>
+
+<p><img src="/sigcse2011/images/logos/sponsors/microsoft.png" align="left"  class="headshot"/> Computers and t-shirts for Kids Camp are available due to the generous support of Microsoft. Thank you!
+&nbsp;<br/>&nbsp;<br/>&nbsp;</p>
 	
 <h3>Times and Dates:</h3>
 
