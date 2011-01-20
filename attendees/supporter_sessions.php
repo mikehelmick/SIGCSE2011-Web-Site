@@ -20,6 +20,7 @@
    <li>10:45 - 12:00 - <a href="#microsoft">Microsoft</a></li>
    <li>1:45 - 3:00 - <a href="#intel">Intel</a></li>
    <li>1:45 - 3:00 - <a href="#google">Google</a></li>
+   <li>3:45 - 5:00 - <a href="#microsoft">Microsoft</a></li>
    <li>3:45 - 5:00 - <a href="#google">Google</a></li>
  </ul></li>
  <li><strong>Saturday, March 12, 2011</strong><ul>
@@ -114,7 +115,8 @@ Bob Chesebrough will demonstrate a command-line ray tracer application created b
 </div></div>
 
 <p><ul><li>Thursday, March 10, 2011 - 10:45am to 12:00pm</li>
-<li>Friday, March 11, 2011 - 10:45am to 12:00pm</li></p>
+<li>Friday, March 11, 2011 - 10:45am to 12:00pm</li>
+<li>Friday, March 11, 2011 - 3:45pm to 5:00pm</li></ul></p>
 
 <p>
 <img src="/sigcse2011/images/logos/sponsors/microsoft.png" align="left" class="headshot" />
@@ -138,6 +140,13 @@ Speakers: Peli de Halleux and Nikolai Tillmann, Microsoft Research, Redmond<br/>
 <em>Friday, March 11, 2011 - 10:45am to 12:00pm</em><br/>&nbsp;<br/>
 PexForFun can be used to learn software programming at many levels, from high school all the way through graduate courses. With PexForFun, the student edits the code in any browser and we execute it and analyze it for you in the cloud. PexForFun supports C#, VisualBasic and F#.  Because Pex4Fun has Intellisense, learning the syntax is not an obstacle for beginners. PexForFun finds interesting and unexpected input values that help students understand what their code is actually doing. Under the hood, PexForFun uses dynamic symbolic execution to thoroughly explore feasible execution paths. The real fun starts with Coding Duels where the student has to write code that implements a specification. PexForFun finds any discrepancies between the student’s code and the specification. PexForFun connects teachers, curriculum authors and students in a unique social experience, tracking and streaming progress updates in real time. Enough said, try it for yourself at <a href="http://pex4fun.com/">http://pex4fun.com/</a>  and come and hear about it at this tutorial, given by the authors of the system.	
 </p>
+
+<p><strong>Microsoft .NET Gadgeteer: A new way to create electronic devices</strong><br/>
+Presenter: Nicolas Villar<br/>
+<em>Friday, March 11, 2011 - 3:45pm to 5:00pm</em><br/>&nbsp;<br/>
+Getting started building embedded devices is complex involving both programming and electronics skills either limiting the students able to be successful or limiting the complexity of the projects that they can undertake. With the Microsoft .NET Gadgeteer, someone with basic programming skills can be building sophisticated projects in a fraction of the time. <br/>&nbsp;<br/> 
+Microsoft .NET Gadgeteer is a toolkit for building small electronic devices built on Microsoft .NET Micro Framework and the Microsoft Visual Studio development environment.  It combines the advantages of object-oriented programming, solderless assembly of electronics with a kit of peripherals, and support for quick physical form factor design using computer-aided design. This powerful combination allows embedded and handheld devices to be iteratively designed, built and programmed in a matter of hours rather than days or weeks. Microsoft .NET Gadgeteer has been developed by Microsoft Research in collaboration with the .NET Micro Framework product team, and is in the process of being made available to the public an open-source project.<br/>&nbsp;<br/>
+This session will provide an overview of the various hardware and software elements of the .NET Gadgeteer platform. Attendees will be introduced to the modular electronics system, and learn how individual modules can be connected together to build sophisticated devices. They will learn about how .NET Gadgeteer devices can be programmed easily using the C# language, and interactively debugged Visual Studio IDE. Finally, the session will demonstrate how the toolkit supports the design of custom enclosures for .NET Gadgeteer projects, which can be built on demand by using  3D-printing technologies.</p>
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="aws">Amazon Web Services</a></h2>
