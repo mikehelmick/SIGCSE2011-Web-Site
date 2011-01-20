@@ -151,17 +151,18 @@ foreach ($sponsors as $sponsor) {
 	<li>IBM / Academic Initiative</li>
 	<li>Intel Corporation</li>
 	<li>Intersystems Corporation</li>
+	<li>Jones and Bartlett</li>
  </ul>
 </td>
 <td valign="top" align="left">
  <ul>
-	<li>Jones and Bartlett</li>
 	<li>LEGO Education, North America</li>
 	<li>Microsoft</li>
 	<li>Morgan Kaufmann</li>
 	<li>NSF</li>
 	<li>Pearson Higher Education</li>
 	<li>Research In Motion Corporation</li>
+	<li>Piazzza</li>
 	<li>RidgeSoft</li>
 	<li>Springer</li>
 	<li>The College Board</li>
