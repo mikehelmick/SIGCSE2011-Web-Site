@@ -39,7 +39,7 @@ and other elements of teaching and pedagogy, at all levels of instruction.</p>
 </tr>	
 <tr>
  <td>&nbsp;</td>
- <?php include("../parts/sponsor_microsoft.php"); ?>
+ <?php include("parts/sponsor_microsoft.php"); ?>
  <td>&nbsp;</td>
 </tr>
 <tr>
@@ -48,7 +48,7 @@ and other elements of teaching and pedagogy, at all levels of instruction.</p>
 <tr>
 <td>&nbsp;</td>
 <?php
-$sponsors = array("../parts/sponsor_google.php", "../parts/sponsor_intel.php");
+$sponsors = array("parts/sponsor_google.php", "parts/sponsor_intel.php");
 shuffle($sponsors);
 $doEcho = true;
 foreach ($sponsors as $sponsor) {
@@ -67,7 +67,7 @@ foreach ($sponsors as $sponsor) {
 <tr>
 <td>&nbsp;</td>
 <?php
-$sponsors = array("../parts/sponsor_amazon.php", "../parts/sponsor_ibm.php");
+$sponsors = array("parts/sponsor_amazon.php", "parts/sponsor_ibm.php");
 shuffle($sponsors);
 $doEcho = true;
 foreach ($sponsors as $sponsor) {
