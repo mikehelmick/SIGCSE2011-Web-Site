@@ -70,20 +70,20 @@
 <td width="25%">
 <p><em>Pictures form the SIGCSE 2009 Kids Camp.</em></p>	
 	
-<a href="/sigcse2010/attendees/kidscamp/097.jpg" rel="lightbox[kidscamp]" title="Playing the 'cookie' game"><img src="/sigcse2010/attendees/kidscamp/thumbs/097.jpg" class="bookImg" /></a><br />
-<a href="/sigcse2010/attendees/kidscamp/103.jpg" rel="lightbox[kidscamp]" title="Using Alice"><img src="/sigcse2010/attendees/kidscamp/thumbs/103.jpg" class="bookImg" /></a><br />
-	<a href="/sigcse2010/attendees/kidscamp/108.jpg" rel="lightbox[kidscamp]" title="Wearing Pirate Hats (last year's theme)"><img src="/sigcse2010/attendees/kidscamp/thumbs/108.jpg" class="bookImg" /></a><br />
-	<a href="/sigcse2010/attendees/kidscamp/DSC04920.jpg" rel="lightbox[kidscamp]" title="In our Camp TShirts, on the way to the scavenger hunt"><img src="/sigcse2010/attendees/kidscamp/thumbs/DSC04920.jpg" class="bookImg" /></a><br />
-	<a href="/sigcse2010/attendees/kidscamp/DSC04924.jpg" rel="lightbox[kidscamp]" title="Scavenger Hunt - 'That way!'"><img src="/sigcse2010/attendees/kidscamp/thumbs/DSC04924.jpg" class="bookImg" /></a><br />
-	<a href="/sigcse2010/attendees/kidscamp/DSC04930.jpg" rel="lightbox[kidscamp]" title="Collecting goodies on the scavenger hunt"><img src="/sigcse2010/attendees/kidscamp/thumbs/DSC04930.jpg" class="bookImg" /></a><br />
-	<a href="/sigcse2010/attendees/kidscamp/DSC04935.jpg" rel="lightbox[kidscamp]" title="In our Camp T-shirts on the scavenger hunt"><img src="/sigcse2010/attendees/kidscamp/thumbs/DSC04935.jpg" class="bookImg" /></a></br/>
-	<a href="/sigcse2010/attendees/kidscamp/DSC04947.jpg" rel="lightbox[kidscamp]" title="Looking good on cycle"><img src="/sigcse2010/attendees/kidscamp/thumbs/DSC04947.jpg" class="bookImg" /></a><br />
-	<a href="/sigcse2010/attendees/kidscamp/DSC04949.jpg" rel="lightbox[kidscamp]" title="Just posing, no actual motocycle riding!"><img src="/sigcse2010/attendees/kidscamp/thumbs/DSC04949.jpg" class="bookImg" /></a><br />
-	<a href="/sigcse2010/attendees/kidscamp/DSC04958.jpg" rel="lightbox[kidscamp]" title="On the exhibit floor, during scavenger hunt"><img src="/sigcse2010/attendees/kidscamp/thumbs/DSC04958.jpg" class="bookImg" /></a><br />
-	<a href="/sigcse2010/attendees/kidscamp/DSC04959.jpg" rel="lightbox[kidscamp]" title="Fun for all ages!"><img src="/sigcse2010/attendees/kidscamp/thumbs/DSC04959.jpg" class="bookImg" /></a><br />
-	<a href="/sigcse2010/attendees/kidscamp/DSC04966.jpg" rel="lightbox[kidscamp]" title="Kodu with our MS liaison"><img src="/sigcse2010/attendees/kidscamp/thumbs/DSC04966.jpg" class="bookImg" /></a><br />
-	<a href="/sigcse2010/attendees/kidscamp/DSC04971.jpg" rel="lightbox[kidscamp]" title="Using Kodu, from our sponsor Microsoft"><img src="/sigcse2010/attendees/kidscamp/thumbs/DSC04971.jpg" class="bookImg" /></a><br />
-	<a href="/sigcse2010/attendees/kidscamp/DSC04984.jpg" rel="lightbox[kidscamp]" title="Thumbs up for lunch"><img src="/sigcse2010/attendees/kidscamp/thumbs/DSC04984.jpg" class="bookImg" /></a>	
+<a href="/sigcse2011/attendees/kidscamp/097.jpg" rel="lightbox[kidscamp]" title="Playing the 'cookie' game"><img src="/sigcse2011/attendees/kidscamp/thumbs/097.jpg" class="bookImg" /></a><br />
+<a href="/sigcse2011/attendees/kidscamp/103.jpg" rel="lightbox[kidscamp]" title="Using Alice"><img src="/sigcse2011/attendees/kidscamp/thumbs/103.jpg" class="bookImg" /></a><br />
+	<a href="/sigcse2011/attendees/kidscamp/108.jpg" rel="lightbox[kidscamp]" title="Wearing Pirate Hats (last year's theme)"><img src="/sigcse2011/attendees/kidscamp/thumbs/108.jpg" class="bookImg" /></a><br />
+	<a href="/sigcse2011/attendees/kidscamp/DSC04920.jpg" rel="lightbox[kidscamp]" title="In our Camp TShirts, on the way to the scavenger hunt"><img src="/sigcse2011/attendees/kidscamp/thumbs/DSC04920.jpg" class="bookImg" /></a><br />
+	<a href="/sigcse2011/attendees/kidscamp/DSC04924.jpg" rel="lightbox[kidscamp]" title="Scavenger Hunt - 'That way!'"><img src="/sigcse2011/attendees/kidscamp/thumbs/DSC04924.jpg" class="bookImg" /></a><br />
+	<a href="/sigcse2011/attendees/kidscamp/DSC04930.jpg" rel="lightbox[kidscamp]" title="Collecting goodies on the scavenger hunt"><img src="/sigcse2011/attendees/kidscamp/thumbs/DSC04930.jpg" class="bookImg" /></a><br />
+	<a href="/sigcse2011/attendees/kidscamp/DSC04935.jpg" rel="lightbox[kidscamp]" title="In our Camp T-shirts on the scavenger hunt"><img src="/sigcse2011/attendees/kidscamp/thumbs/DSC04935.jpg" class="bookImg" /></a></br/>
+	<a href="/sigcse2011/attendees/kidscamp/DSC04947.jpg" rel="lightbox[kidscamp]" title="Looking good on cycle"><img src="/sigcse2011/attendees/kidscamp/thumbs/DSC04947.jpg" class="bookImg" /></a><br />
+	<a href="/sigcse2011/attendees/kidscamp/DSC04949.jpg" rel="lightbox[kidscamp]" title="Just posing, no actual motocycle riding!"><img src="/sigcse2011/attendees/kidscamp/thumbs/DSC04949.jpg" class="bookImg" /></a><br />
+	<a href="/sigcse2011/attendees/kidscamp/DSC04958.jpg" rel="lightbox[kidscamp]" title="On the exhibit floor, during scavenger hunt"><img src="/sigcse2011/attendees/kidscamp/thumbs/DSC04958.jpg" class="bookImg" /></a><br />
+	<a href="/sigcse2011/attendees/kidscamp/DSC04959.jpg" rel="lightbox[kidscamp]" title="Fun for all ages!"><img src="/sigcse2011/attendees/kidscamp/thumbs/DSC04959.jpg" class="bookImg" /></a><br />
+	<a href="/sigcse2011/attendees/kidscamp/DSC04966.jpg" rel="lightbox[kidscamp]" title="Kodu with our MS liaison"><img src="/sigcse2011/attendees/kidscamp/thumbs/DSC04966.jpg" class="bookImg" /></a><br />
+	<a href="/sigcse2011/attendees/kidscamp/DSC04971.jpg" rel="lightbox[kidscamp]" title="Using Kodu, from our sponsor Microsoft"><img src="/sigcse2011/attendees/kidscamp/thumbs/DSC04971.jpg" class="bookImg" /></a><br />
+	<a href="/sigcse2011/attendees/kidscamp/DSC04984.jpg" rel="lightbox[kidscamp]" title="Thumbs up for lunch"><img src="/sigcse2011/attendees/kidscamp/thumbs/DSC04984.jpg" class="bookImg" /></a>	
 </td></tr>
 </table>
 
