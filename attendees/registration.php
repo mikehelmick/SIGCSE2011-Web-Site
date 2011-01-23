@@ -28,6 +28,8 @@ rates.)</p>
 <h2>Online and Offline (Remote) Registration</h2>
 </div></div><br/>
 
+<div class="errorExplanation">In order to register for two half-day <a href="pre_symposium_events.php">pre-symposium events</a> (Wednesday), you must select the combination of the two events that you wish to addend, rather then select the two events individually.</div>
+
 <ul>
  <li><a href="http://www.regonline.com/sigcse2011">Online Registration</a> via regonline.com</li>
  <li>Register by Mail</li>

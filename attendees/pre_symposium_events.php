@@ -97,6 +97,7 @@ skills.</p>
 <h2><a name="new_faculty">New Educators Roundtable</a></h2>
 </div></div>
 <img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 12:30 - 5:00pm
+<p><em>When registering, this event is available as a single choice or as a combo with another half-day event.</em></p>
 
 <p>New to teaching? Seeking advice and mentorship? Join us at the New Educators Roundtable (NER), a half-day workshop designed to mentor college and university faculty who are new to teaching. We welcome participants from across the entire teaching spectrum: tenure-track faculty at institutions where teaching is central, teaching-track faculty and lecturers, and graduate students who currently teach or are looking forward to an academic career. Come with your questions and concerns, learn from the experiences and best practices of sage elders, and build an international support group for your career.</p>
 <p>More information at <a href="http://dave-reed.com/NER">http://dave-reed.com/NER</a></p>
@@ -109,6 +110,8 @@ skills.</p>
 <h2><a name="sigcas">Open meeting of the Special Interest Group on Computers and Society (SIGCAS)</a></h2>
 </div></div>
 <img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 8:00am - 12:00pm
+<p><em>When registering, this event is available as a single choice or as a combo with another half-day event.</em></p>
+
 <p>This open meeting of ACM's Special Interest Group on Computers and Society (SIGCAS) is
 an opportunity for SIGCAS members and supporters to provide input into the future direction
 of the SIG. Particular attention will be paid to issues of interest to SIGCAS members who are
@@ -156,6 +159,7 @@ current users of the curriculum.</p>
 <div class="SectionHeader"><div class="Full">
 <h2><a name="ethics">Teaching Professional Ethics in Computer Science: Tips and Traps</a></h2>
 </div></div>
+<p><em>When registering, this event is available as a single choice or as a combo with another half-day event.</em></p>
 <img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 1:15pm to 5:30pm	
 <p>In support of ACM's Commitment to Ethical Professionalism this event is designed to help interested faculty provide students with tools to better understand and resolve the ethical challenges in their professional lives we will present well developed examples and modules which can be used to engage students in the study of applied ethics.  We will present materials to be used in a complete computer ethics course and that can be used as examples and exercises in specific technical courses; including case studies, suggested course syllabi, and suggestions for creating and grading assignments.</p>
 <p>More information at <a href="https://edocs.uis.edu/kmill2/www/sigcse2011computerEthics.html">https://edocs.uis.edu/kmill2/www/sigcse2011computerEthics.html</a></p>
