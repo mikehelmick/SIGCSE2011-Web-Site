@@ -23,9 +23,6 @@
    <li>3:45 - 5:00 - <a href="#microsoft">Microsoft</a></li>
    <li>3:45 - 5:00 - <a href="#google">Google</a></li>
  </ul></li>
- <li><strong>Saturday, March 12, 2011</strong><ul>
-   <li>10:55 - 12:10</li>
- </ul></li>
 </ul>
 
 <div class="SectionHeader"><div class="Full">

@@ -97,6 +97,11 @@ div#userinfo .loginInfo {
 	padding-right: 100px;
 }
 
+.contentFloat {
+	float: left;
+	margin: 15px;
+}
+
 img.floatLeft { 
     float: left; 
     margin: 15px; 
