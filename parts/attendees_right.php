@@ -3,6 +3,7 @@
 	 <li><a href="/sigcse2011/attendees/keynotes.php"><img src="/sigcse2011/images/user_suit.png" align="absmiddle" /> Keynote Speakers</a></li>
 	 <li><a href="/sigcse2011/attendees/supporter_sessions.php"><img src="/sigcse2011/images/building.png" align="absmiddle"/> Supporter Sessions</a></li>
  	 <li><a href="/sigcse2011/attendees/pre_symposium_events.php"><img src="/sigcse2011/images/calendar.png" align="absmiddle"/> Pre-Symposium Events</a></li>
+     <li><a href="/sigcse2011/attendees/nsf_showcase.php"><img src="/sigcse2011/images/images.png" align="absmiddle"/> NSF Showcase</a></li>
      <li><a href="/sigcse2011/attendees/video_program.php"><img src="/sigcse2011/images/television.png" align="absmiddle"/> Video Program</a></li>
 	 <li><a href="http://elvis.rowan.edu/~kay/sigcse/rodeo.html"><img src="/sigcse2011/images/bricks.png" align="absmiddle"/> SIGCSE 2011 Robot Hoedown and Rodeo</a> <strong>New!</strong>
 		<ul><li><a href="http://elvis.rowan.edu/~kay/sigcse/cfw.html">Call for Wranglers</a></li></ul>
