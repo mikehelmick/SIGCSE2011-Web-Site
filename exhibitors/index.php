@@ -144,19 +144,20 @@ foreach ($sponsors as $sponsor) {
 	<li>Amazon Web Services</li>
 	<li>Auburn University</li>
 	<li>Broadening Participation in Computing</li>
+	<li>Council for International Exchange of Scholars</li>
 	<li>Course Technology Cengage Learning</li>
 	<li>CRC Press- Taylor & Francis Group LLC</li>
+	<li>Educational Alliance for a Parallel Future</li>
 	<li>Franklin, Beedle &amp; Associated Incorporated</li>
 	<li>Google</li>
 	<li>IBM / Academic Initiative</li>
 	<li>Intel Corporation</li>
 	<li>Intersystems Corporation</li>
-	<li>Jones and Bartlett</li>
  </ul>
 </td>
 <td valign="top" align="left">
  <ul>
-	<li>LEGO Education, North America</li>
+	<li>Jones and Bartlett</li>
 	<li>Microsoft</li>
 	<li>Morgan Kaufmann</li>
 	<li>NSF</li>
