@@ -13,6 +13,26 @@
   <li><img src="/sigcse2011/images/vcard_add.png" align="absmiddle" /><a href="/sigcse2011/students/volunteer.php">Volunteer at SIGCSE</a></li>
 </ul>
 
+<p>Students at SIGCSE 2008</p>
+<table border="0" align="center">
+<tr>
+  <td><a href="images/IMG_5695.JPG" rel="lightbox[students]" title="Students having FUN at SIGCSE 2008"><img src="images/IMG_5695_thumb.jpg" /></a></td>
+  <td><a href="images/IMG_5767.JPG" rel="lightbox[students]" title="Students having FUN at SIGCSE 2008"><img src="images/IMG_5767_thumb.jpg" /></a></td>
+  <td><a href="images/IMG_5782.JPG" rel="lightbox[students]" title="Students having FUN at SIGCSE 2008"><img src="images/IMG_5782_thumb.jpg" /></a></td>
+  <td><a href="images/IMG_5864.JPG" rel="lightbox[students]" title="Students having FUN at SIGCSE 2008"><img src="images/IMG_5864_thumb.jpg" /></a></td>
+</tr>
+</table>
+
+<p>Students at SIGCSE 2007</p>
+
+<table border="0" align="center">
+<tr>
+  <td><a href="images/sigcse020.jpg" rel="lightbox[students]" title="Students having FUN at SIGCSE 2007"><img src="images/sigcse020_thumb.jpg" /></a></td>
+  <td><a href="images/sigcse027.jpg" rel="lightbox[students]" title="Students having FUN at SIGCSE 2007"><img src="images/sigcse027_thumb.jpg" /></a></td>
+  <td><a href="images/sigcse033.jpg" rel="lightbox[students]" title="Students having FUN at SIGCSE 2007"><img src="images/sigcse033_thumb.jpg" /></a></td>
+</tr>
+</table>
+
 <?php include("../parts/middle.php"); ?>
 <?php include("../parts/students_right.php"); ?>
 <?php
