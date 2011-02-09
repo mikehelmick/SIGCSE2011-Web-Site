@@ -24,6 +24,7 @@
 	 <li><a href="http://elvis.rowan.edu/~kay/sigcse/rodeo.html"><img src="/sigcse2011/images/bricks.png" align="absmiddle"/> SIGCSE 2011 Robot Hoedown and Rodeo</a> <strong>New for 2011!</strong>
 		<ul><li><a href="http://elvis.rowan.edu/~kay/sigcse/cfw.html">Call for Wranglers</a></li></ul>
 	 </li>
+	 <li><a href="/sigcse2011/attendees/k12_highlights.php"><img src="/sigcse2011/images/house.png" align="absmiddle"/> Highlights for K-12 Teachers</a></li>
 	 <li><a href="/sigcse2011/attendees/student_research.php"><img src="/sigcse2011/images/award_star_gold_3.png" align="absmiddle"/> Student Research Competition</a></li>
 	 <li><a href="/sigcse2011/attendees/registration.php"><img src="/sigcse2011/images/vcard_add.png"  align="absmiddle"/> Registration</a> <strong>NOW OPEN!</strong>
 	   <ul><li><a href="/sigcse2011/attendees/fees.php"><img src="/sigcse2011/images/money.png" align="absmiddle"/> A Sneak Peak at Fees</a></li></ul>	
