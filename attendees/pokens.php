@@ -2,7 +2,11 @@
  $title = "SIGCSE 2011 - Pokens";
  $menu = "attendees";
  include("../parts/top.php");
-?>       
+?>
+<br/>
+<div class="errorExplanation">
+Friday, Feb 11 is the last day to order Pokens at our reduced rate.
+</div>
 <div class="SectionHeader" style="clear:left;"><div class="Full">
 <h2>Pokens: A new way to connect at SIGCSE 2011</h2>
 </div></div>
