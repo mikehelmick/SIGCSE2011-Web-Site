@@ -133,7 +133,7 @@ Attendees should come away with a good idea of the utility and power of F# in th
 
 <p>
 <strong>XNA Game Studio and PexForFun: Teaching Serious Computer Science and Developing Algorithmic Thinking</strong><br/>
-Speakers: Peli de Halleux and Nikolai Tillmann, Microsoft Research, Redmond<br/>
+Speakers: Peli de Halleux and Nikolai Tillmann, Microsoft Research, Redmond; Pat Yongpradit<br/>
 <em>Friday, March 11, 2011 - 10:45am to 12:00pm</em><br/>&nbsp;<br/>
 <em>A Game Programming Framework for the PC, Xbox 360, and Windows Phone 7 Programming Exercises and Automatic Assessment in the Cloud</em><br/>&nbsp;<br/>
 Delivering core computer science concepts and promoting deep algorithmic thinking with engaging activities—such as game development—can be a challenge. It can be an additional challenge to infuse game development into an existing CS program with a prescribed curriculum such as Advanced Placement Computer Science. In this presentation educators will preview a 5-week XNA Game Studio mini-course which is easily integrated into an existing curriculum schedule and is designed to engage students in game development, reinforce CS concepts, and develop complex algorithmic skills with	the XNA/C# framework. PexForFun is integrated into the mini-course as an additional tool for practice, mastery, and analysis.<br/>&nbsp;<br/>
