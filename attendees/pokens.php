@@ -5,7 +5,7 @@
 ?>
 <br/>
 <div class="errorExplanation">
-Friday, Feb 11 is the last day to order Pokens at our reduced rate.
+Pokens are no longer available through SIGCSE 2011.  You can still <a href="http://www.google.com/search?sourceid=chrome&ie=UTF-8&q=poken#q=poken&um=1&ie=UTF-8&tbo=u&tbs=shop:1&source=og&sa=N&hl=en&tab=wf&biw=1237&bih=680&fp=cd7d50a1d6257d3">buy your own Poken before the conference</a>.
 </div>
 <div class="SectionHeader" style="clear:left;"><div class="Full">
 <h2>Pokens: A new way to connect at SIGCSE 2011</h2>
