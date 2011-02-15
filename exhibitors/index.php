@@ -140,6 +140,7 @@ foreach ($sponsors as $sponsor) {
  <ul>
 	<li>ACM SIGADA</li>
 	<li>ACM-W</li>
+	<li>Aldebaran Robotics</li>
 	<li>AlgoViz.org/ Ensemble Projects</li>
 	<li>Amazon Web Services</li>
 	<li>Auburn University</li>
@@ -152,11 +153,11 @@ foreach ($sponsors as $sponsor) {
 	<li>Google</li>
 	<li>IBM / Academic Initiative</li>
 	<li>Intel Corporation</li>
-	<li>Intersystems Corporation</li>
  </ul>
 </td>
 <td valign="top" align="left">
  <ul>
+	<li>Intersystems Corporation</li>
 	<li>Jones and Bartlett</li>
 	<li>Microsoft</li>
 	<li>Morgan Kaufmann</li>
