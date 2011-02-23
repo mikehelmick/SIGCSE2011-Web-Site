@@ -4,7 +4,7 @@
  include("../parts/top.php");
 ?>       
      
-<div id="GoodMessage"><strong>Online registration is open!.</strong></div>
+<div id="GoodMessage"><strong>Online registration is open, and will remain open through Thursday, March 3.</strong></div>
 
 <h1>SIGCSE 2011 Registration Gateway</h1>
       
@@ -50,7 +50,7 @@ rates.)</p>
 <li>Sat - 8:00 AM - 12:15 PM and 2:30 PM - 3:00 PM</li>
 </ul>
 </p>
-
+<br/>
 
 <?php include("../parts/middle.php"); ?>  
 <?php include("../parts/attendees_right.php"); ?>

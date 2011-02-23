@@ -4,7 +4,7 @@
  include("parts/top.php");
 ?>
 
-<div id="GoodMessage"><strong><a href="/sigcse2011/attendees/registration.php">Online registration is now open</a>!</strong></div>
+<div id="GoodMessage"><strong><a href="/sigcse2011/attendees/registration.php">Online registration is now open</a>! <em>Online registration is only through Thursday, March 3.</em></strong></div>
 
 <div class="SectionHeader"><div class="Full">
 <h2>Welcome to SIGCSE 2011</h2>
