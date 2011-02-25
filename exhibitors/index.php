@@ -170,6 +170,7 @@ foreach ($sponsors as $sponsor) {
 	<li>The College Board</li>
 	<li>The MIT Press</li>
 	<li>Turing’s Craft</li>
+	<li>Wilberforce University</li>
 	<li>Wiley</li>
  </ul>
 </td></tr></table>

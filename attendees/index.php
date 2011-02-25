@@ -11,6 +11,10 @@
 
 <p><strong>All conference activities will be at the Sheraton hotel and its attached conference center.</strong>  The Sheraton Dallas Hotel and conference center is located at 400 North Olive Street, Dallas, TX 75201. More information can be found on our <a href="/sigcse2011/attendees/accommodations.php">accommodations page</a>.</p>
 
+<p>A number of room changes have been posted in the online program for
+workshops and preconference events. Please check the program just before
+you arrive for updated room assignments.</p>
+
 <table cellspacing="5px" width="100%">
 <tr>
  <td valign="top" align="left">	
