@@ -3,6 +3,12 @@
  $menu = "exhibitors";
  include("../parts/top.php");
 ?>        <!-- <h2>Important Dates</h2> -->
+
+<div class="GoodMessage">
+<p>SIGCSE 2011 <a href="/sigcse2011/exhibitors/downloads/sigcse_eg2011.pdf" target="_blank"> SIGCSE 2011 Exhibit Guide (PDF)</a> | 
+<a href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.sigcse.org%2Fsigcse2011%2Fexhibitors%2Fdownloads%sigcse_eg2011.pdf">View online with Google docs Viewer</a>
+</p>
+</div>
      
 <div class="GoodMessage">
 <p>SIGCSE 2011 <a href="/sigcse2011/exhibitors/downloads/SIGCSE_EP11.pdf" target="_blank"> Invitation to Exhibit / Conference Support Opportunities (PDF)</a> | 
