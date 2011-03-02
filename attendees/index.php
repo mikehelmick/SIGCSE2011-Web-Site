@@ -52,10 +52,8 @@ you arrive for updated room assignments.</p>
 	</ul>
  </td>
  <td nowrap="nowrap" valign="top" align="right">
-<!--
-<div style='width: 500px; height: 440px; background-image: url( http://vortex.accuweather.com/adcbin/netweather_v2/backgrounds/fall4_500x440_bg.jpg ); background-repeat: no-repeat; background-color: #DA9375;' ><div id='NetweatherContainer' style='height: 420px;' ><script src='http://netweather.accuweather.com/adcbin/netweather_v2/netweatherV2ex.asp?partner=netweather&tStyle=normal&logo=1&zipcode=75202&lang=eng&size=13&theme=fall4&metric=0&target=_self'></script></div><div style='text-align: center; font-family: arial, helvetica, verdana, sans-serif; font-size: 12px; line-height: 20px; color: #0000FF;' ><a style='color: #0000FF' href='http://www.accuweather.com/us/TX/DALLAS/75202/city-weather-forecast.asp?partner=accuweather&traveler=0' >Weather Forecast</a> | <a style='color: #0000FF' href='http://www.accuweather.com/maps-satellite.asp' >Weather Maps</a> | <a style='color: #0000FF' href='http://www.accuweather.com/index-radar.asp?partner=accuweather&traveler=0&zipcode=75202' >Weather Radar</a> | <a style='color: #0000FF' href='http://hurricane.accuweather.com/hurricane/index.asp' >Hurricane Center</a></div></div>
--->
-  </td>
+<div style='width: 240px; height: 420px; background-image: url( http://vortex.accuweather.com/adcbin/netweather_v2/backgrounds/spring1_240x420_bg.jpg ); background-repeat: no-repeat; background-color: #607041;' ><div id='NetweatherContainer' style='height: 405px;' ><script src='http://netweather.accuweather.com/adcbin/netweather_v2/netweatherV2ex.asp?partner=netweather&tStyle=normal&logo=1&zipcode=75202&lang=eng&size=12&theme=spring1&metric=0&target=_self'></script></div><div style='text-align: center; font-family: arial, helvetica, verdana, sans-serif; font-size: 10px; line-height: 15px; color: #FDEA11;' ><a style='font-size: 10px; color: #FDEA11' href='http://www.accuweather.com/us/TX/DALLAS/75202/city-weather-forecast.asp?partner=accuweather&traveler=0' >Weather Forecast</a> | <a style='color: #FDEA11' href='http://www.accuweather.com/maps-satellite.asp' >Weather Maps</a> | <a style='color: #FDEA11' href='http://www.accuweather.com/index-radar.asp?partner=accuweather&traveler=0&zipcode=75202' >Weather Radar</a></div></div>
+ </td>
  </tr>
 </table>
 
