@@ -161,6 +161,7 @@ current users of the curriculum.</p>
 <div class="SectionHeader"><div class="Full">
 <h2><a name="ethics">Teaching Professional Ethics in Computer Science: Tips and Traps</a></h2>
 </div></div>
+<div class="errorExplanation">This event is full.</div>
 <p><em>When registering, this event is available as a single choice or as a combo with another half-day event.</em></p>
 <img src="/sigcse2011/images/clock.png" align="absmiddle" />Wednesday, March 9, 2011, 1:15pm to 5:30pm	
 <p>In support of ACM's Commitment to Ethical Professionalism this event is designed to help interested faculty provide students with tools to better understand and resolve the ethical challenges in their professional lives we will present well developed examples and modules which can be used to engage students in the study of applied ethics.  We will present materials to be used in a complete computer ethics course and that can be used as examples and exercises in specific technical courses; including case studies, suggested course syllabi, and suggestions for creating and grading assignments.</p>
