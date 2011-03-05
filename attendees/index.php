@@ -31,13 +31,13 @@ you arrive for updated room assignments.</p>
 	 </li>
 	 <li><a href="/sigcse2011/attendees/k12_highlights.php"><img src="/sigcse2011/images/house.png" align="absmiddle"/> Highlights for K-12 Teachers</a></li>
 	 <li><a href="/sigcse2011/attendees/student_research.php"><img src="/sigcse2011/images/award_star_gold_3.png" align="absmiddle"/> Student Research Competition</a></li>
-	 <li><a href="/sigcse2011/attendees/registration.php"><img src="/sigcse2011/images/vcard_add.png"  align="absmiddle"/> Registration</a> <strong>NOW OPEN!</strong>
+	 <li><a href="/sigcse2011/attendees/registration.php"><img src="/sigcse2011/images/vcard_add.png"  align="absmiddle"/> Registration</a>
 	   <ul><li><a href="/sigcse2011/attendees/fees.php"><img src="/sigcse2011/images/money.png" align="absmiddle"/> A Sneak Peak at Fees</a></li></ul>	
 	 </li>
 	 <li><a href="/sigcse2011/attendees/pokens.php"><img src="/sigcse2011/images/vcard.png" align="absmiddle"> Pokens: A new way to connect at SIGCSE 2011</a></li>
 	 <li><a href="/sigcse2011/attendees/travel_information.php"><img src="/sigcse2011/images/tag_orange.png" align="absmiddle"/> Travel Information</a></li>
 	 <li><a href="/sigcse2011/attendees/accommodations.php"><img src="/sigcse2011/images/clock.png" align="absmiddle"/> Accommodations</a></li>	
-	 <li><a href="http://www.visitdallas.com/WelcomeSIGCSE2011" target="_blank"><img src="/sigcse2011/images/weather_sun.png" align="absmiddle"/> Local Attractions</a> (<em>opens in new window</em>)</li>
+	 <li><a href="http://www.visitdallas.com/WelcomeSIGCSE2011" target="_blank"><img src="/sigcse2011/images/weather_sun.png" align="absmiddle"/> Local Attractions / Dining / Coupons</a> (<em>opens in new window</em>)</li>
 	 <li><a href="/sigcse2011/attendees/kids_camp.php"><img src="/sigcse2011/images/group.png" align="absmiddle"/> Kids Camp</a></li>
 	 <li><a href="/sigcse2011/attendees/visas.php"><img src="/sigcse2011/images/folder_database.png" align="absmiddle"/> Visa Information</a></li>
 	 <li><a href="/sigcse2011/attendees/floor_plans.php"><img src="/sigcse2011/images/map.png" align="absmiddle"/> Floor Plans</a></li>

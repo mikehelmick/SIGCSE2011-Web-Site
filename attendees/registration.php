@@ -4,9 +4,9 @@
  include("../parts/top.php");
 ?>       
      
-<div id="GoodMessage"><strong>Online registration is open, and will remain open through Thursday, March 3.</strong></div>
 
 <h1>SIGCSE 2011 Registration Gateway</h1>
+<div class="errorExplanation">Pre-registration is now closed. You can still register in person at SIGCSE 2011 in Dallas.</div>
       
 <div class="SectionHeader"><div class="Full">
 <h2>Registration</h2>
@@ -27,17 +27,7 @@ rates.)</p>
 <div class="SectionHeader"><div class="Full">
 <h2>Online and Offline (Remote) Registration</h2>
 </div></div><br/>
-
-<div class="errorExplanation">In order to register for two half-day <a href="pre_symposium_events.php">pre-symposium events</a> (Wednesday), you must select the combination of the two events that you wish to addend, rather then select the two events individually.</div>
-
-<ul>
- <li><a href="http://www.regonline.com/sigcse2011">Online Registration</a> via regonline.com</li>
- <li>Register by Mail</li>
- <ul>
-   <li><img src="/sigcse2011/images/page_white_acrobat.png" /><a href="/sigcse2011/downloads/RegistrationForm.pdf">Registration Form (PDF)</a></li>
-   <li><img src="/sigcse2011/images/page_white_word.png"  /><a href="/sigcse2011/downloads/RegistrationForm.docx">Registration Form (Microsoft Word - docx format)</a></li>
- </ul>
-</ul>
+<div class="errorExplanation">Pre-registration is now closed.</div>
 
 <div class="SectionHeader"><div class="Full">
 <h2>On-Site Registration</h2>
