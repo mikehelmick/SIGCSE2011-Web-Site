@@ -1,5 +1,6 @@
 <ul>	
 	 <li><a href="http://db.grinnell.edu/sigcse/sigcse2011/Program/Program.asp"><img src="/sigcse2011/images/report.png" align="absmiddle" /> Symposium Program</a> |
+		<a href="/sigcse2011/attendees/downloads/sigcse2011program.pdf">Download Program PDF</a> |
 		<a href="/sigcse2011/attendees/calendar.php">Calendar</a></li>
 	 <li><a href="/sigcse2011/attendees/keynotes.php"><img src="/sigcse2011/images/user_suit.png" align="absmiddle" /> Keynote Speakers</a></li>
 	 <li><a href="/sigcse2011/attendees/supporter_sessions.php"><img src="/sigcse2011/images/building.png" align="absmiddle"/> Supporter Sessions</a></li>
