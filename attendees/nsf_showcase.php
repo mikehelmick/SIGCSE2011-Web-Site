@@ -33,7 +33,7 @@ Vaughn, David Dampier</li>
 </ul>
 
 <div class="SectionHeader" style="clear:left;"><div class="Full">
-<h3><a name="3">NSF Showcase #3 - Thursday 10:00 - 11:30am</a></h3>
+<h3><a name="3">NSF Showcase #3 - Friday 10:00 - 11:30am</a></h3>
 </div></div>
 <p><strong>Location:</strong> Lone Star BC</p>
 <ul>
@@ -44,7 +44,7 @@ Vaughn, David Dampier</li>
 </ul>
 
 <div class="SectionHeader" style="clear:left;"><div class="Full">
-<h3><a name="4">NSF Showcase #4 - Thursday 3:00 - 4:30pm</a></h3>
+<h3><a name="4">NSF Showcase #4 - Friday 3:00 - 4:30pm</a></h3>
 </div></div>
 <p><strong>Location:</strong> Lone Star BC</p>
 <ul>
@@ -56,7 +56,7 @@ Vaughn, David Dampier</li>
 </ul>
 
 <div class="SectionHeader" style="clear:left;"><div class="Full">
-<h3><a name="5">NSF Showcase #5 - Thursday 10:00 - 11:30am</a></h3>
+<h3><a name="5">NSF Showcase #5 - Saturday 10:00 - 11:30am</a></h3>
 </div></div>
 <p><strong>Location:</strong> Lone Star BC</p>
 <ul>
