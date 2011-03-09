@@ -15,6 +15,8 @@
 workshops and preconference events. Please check the program just before
 you arrive for updated room assignments.</p>
 
+<p><strong>Evaluations:</strong> Please take a few moments to <a href="/sigcse2011/attendees/evaluations.php">fill out the symposium evaluation</a>.</p>
+
 <table cellspacing="5px" width="100%">
 <tr>
  <td valign="top" align="left">	
