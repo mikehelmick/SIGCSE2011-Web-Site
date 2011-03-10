@@ -4,6 +4,8 @@
  $submenu = "cfp";
  include("../parts/top.php");
 ?>        <!-- <h2>Important Dates</h2> -->
+
+<?php include("../parts/today.php"); ?>
         
 <div class="SectionHeader" style="clear:left;"><div class="Full">
 <h2>Information for SIGCSE 2011 Symposium Attendees</h2>

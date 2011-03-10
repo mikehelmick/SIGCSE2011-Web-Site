@@ -4,7 +4,7 @@
  include("parts/top.php");
 ?>
 
-
+<?php include("parts/today.php"); ?>
 
 <div class="SectionHeader"><div class="Full">
 <h2>Welcome to SIGCSE 2011</h2>
