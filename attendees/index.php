@@ -24,7 +24,7 @@ you arrive for updated room assignments.</p>
  <td valign="top" align="left">	
 	 <ul>
 	 <li><a href="http://db.grinnell.edu/sigcse/sigcse2011/Program/Program.asp"><img src="/sigcse2011/images/report.png" align="absmiddle" /> Symposium Program</a> 
-	   | <a href="/sigcse2011/attendees/downloads/sigcse2011program.pdf">Download Program PDF</a> (<a href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.sigcse.org%2Fsigcse2011%2Fattendees%2Fdownloads%2Fsigcse2011program.pdf">View Online</a>)
+	   | <a href="/sigcse2011/attendees/downloads/sigcse2011program.pdf">Download Program PDF (Updated 3/11 @ 8pm)</a> (<a href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.sigcse.org%2Fsigcse2011%2Fattendees%2Fdownloads%2Fsigcse2011program.pdf">View Online</a>)
 	   | <a href="/sigcse2011/attendees/calendar.php">Calendar</a></li>
 	 <li><a href="/sigcse2011/attendees/keynotes.php"><img src="/sigcse2011/images/user_suit.png" align="absmiddle" /> Keynote Speakers</a></li>
 	 <li><a href="/sigcse2011/attendees/supporter_sessions.php"><img src="/sigcse2011/images/building.png" align="absmiddle"/> Supporter Sessions</a></li>
