@@ -1,15 +1,7 @@
 <div class="GoodMessage">
-<p><strong>Saturday March 12th at SIGCSE 2011</strong><br/><ul>
-<li>Please take a few minutes to <a href="/sigcse2011/attendees/evaluations.php">fill out the SIGCSE 2011 symposium evaluation</a>. Thank you for your participation.</li>
-<li><a href="http://db.grinnell.edu/sigcse/sigcse2011/Program/programAtAGlance.asp?dateRequested=Saturday">Saturday's full program</a></li>
-<li>Keynote: Luis Von Ahn, 12:30pm (<em>luncheon</em>). <a href="/sigcse2011/attendees/keynotes.php#saturday">Three Human Computation Projects</a> in Dallas BCD</li>
-<li><strong>Robot Hoedown and Rodeo</strong><ul>
- <li>Robot Hoedown Finale, Outside of Dallas A, 12:10 - 12:30pm</li>
- <li><a href="http://elvis.rowan.edu/~kay/sigcse/media.html">Photos and Videos</a></li>
-</ul></li>
-<li><strong>Room Changes</strong><ul>
- <li>10:55-12:10  Intro CS: Panoptic Views is moving from Dallas D2	to <strong>Lone Star A1</strong></li>
- <li>10:55-12:10  Software Design and Development is moving from Dallas D1 to <strong>Dallas A3</strong></li>
-</ul></li>
+<p><strong>Post symposium updates</strong><br/><ul>
+ <li>Presentation slides from Matthias Felleisen's keynote can be <a href="http://www.ccs.neu.edu/home/matthias/presentations.html">found on his Web site</a></li>
+ <li><a href="http://www.youtube.com/watch?v=ZfNzjzIB31Q&hd=1">Video of the Robot hoedown finale</a></li>
+ <li>The robot hoedown even <a href="http://video.dallas.cbslocal.com/global/video/flash/popupplayer.asp?ClipID1=5651076&h1=Through%20The%20Lens:%20Learning%20To%20Make%20Robots%20Dance&vt1=v&at1=Technology&d1=116167&LaunchPageAdTag=Homepage&activePane=info&rnd=79321418">made the local news</a>!</li>
 </ul></p>
 </div>
