@@ -1,7 +1,6 @@
 <h2>News</h2>
 <ul>
-  <li>The following workshops have been canceled: #25, #28, #31, #32, #34.</li>
-  <li>New event for 2011! <a href="http://elvis.rowan.edu/~kay/sigcse/rodeo.html">Robot Hoedown and Rodeo</a>. No experience necessary, but if you have robots and experience, <a href="http://elvis.rowan.edu/~kay/sigcse/cfw.html">we could use you as a wrangler</a>!</li>
+  <li><strong>Evaluations:</strong> Please take a moment to <a href="/sigcse2011/attendees/evaluations.php">fill out the SIGCSE 2011 symposium evaluation</a></li>
 </ul>
 
 <h2>Connect</h2>
